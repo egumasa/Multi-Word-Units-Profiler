@@ -1,0 +1,208 @@
+#rank	#Phrase	Raw freq	Freq per million	Raw freq	Freq per million	FTW
+1	in terms of	726	337	597	282	3.53
+2	at the same time	198	92	208	98	2.56
+3	from the point of view	23	11	30	14	2.44
+4	in order to	330	153	540	255	2.35
+5	as well as	147	68	539	255	2.08
+6	part of the	432	201	457	216	1.96
+7	the fact that	383	178	430	203	1.96
+8	in other words	315	146	188	89	1.9
+9	the point of view of	22	10	31	15	1.89
+10	there is a	307	143	472	223	1.72
+11	as a result of	57	26	158	75	1.58
+12	this is a	657	305	160	76	1.57
+13	on the basis of	50	23	174	82	1.5
+14	a number of	190	88	455	215	1.5
+15	there is no	107	50	391	185	1.45
+16	point of view	177	82	128	60	1.41
+17	the number of	171	79	521	246	1.38
+18	the extent to which	21	10	111	52	1.36
+19	as a result	131	61	264	125	1.35
+20	in the case of	68	32	286	135	1.32
+21	whether or not	128	59	172	81	1.31
+22	the same time	207	96	221	104	1.26
+23	with respect to	94	44	220	104	1.26
+24	point of view of	27	13	32	15	1.22
+25	as a function of	40	19	77	36	1.19
+26	at the same	235	109	248	117	1.19
+27	the point of view	36	17	32	15	1.13
+28	in such a way	28	13	41	19	1.11
+29	the use of	58	27	572	270	1.11
+30	in other words the	47	22	39	18	1.08
+31	in terms of the	120	56	142	67	1.07
+32	more likely to	91	42	161	76	1.06
+33	likely to be	79	37	243	115	1.03
+34	in this case	188	87	193	91	1.03
+35	as opposed to	115	53	84	40	1.02
+36	the way in which	59	27	82	39	0.94
+37	based on the	65	30	283	134	0.91
+38	can be used	27	13	189	89	0.87
+39	the relationship between	45	21	159	75	0.87
+40	it is not	71	33	398	188	0.81
+41	and so on	329	153	145	68	0.79
+42	on the basis	52	24	199	94	0.75
+43	the difference between	95	44	80	38	0.74
+44	it may be	96	45	184	87	0.72
+45	the presence of	46	21	276	130	0.7
+46	in the sense that	73	34	47	22	0.7
+47	a variety of	55	26	193	91	0.69
+48	different types of	51	24	59	28	0.69
+49	extent to which	21	10	114	54	0.66
+50	exactly the same	92	43	35	17	0.65
+51	a series of	50	23	184	87	0.63
+52	in relation to	25	12	192	91	0.63
+53	it can be	119	55	206	97	0.63
+54	the case of	84	39	356	168	0.62
+55	in the case	78	36	323	153	0.62
+56	large number of	21	10	75	35	0.62
+57	that there is a	49	23	87	41	0.61
+58	to some extent	56	26	39	18	0.6
+59	that there is	148	69	246	116	0.59
+60	the real world	41	19	38	18	0.57
+61	is based on	37	17	125	59	0.56
+62	due to the	45	21	269	127	0.55
+63	ways in which	49	23	79	37	0.54
+64	an example of	132	61	86	41	0.54
+65	the fact that the	32	15	122	58	0.54
+66	referred to as	24	11	66	31	0.52
+67	may not be	71	33	104	49	0.52
+68	way in which	96	45	114	54	0.51
+69	it does not	28	13	145	68	0.48
+70	from the point of	23	11	31	15	0.47
+71	the development of	57	26	256	121	0.46
+72	in the same	192	89	187	88	0.46
+73	a result of	70	33	182	86	0.46
+74	the basis of	58	27	229	108	0.45
+75	the role of	53	25	257	121	0.43
+76	there may be	57	26	67	32	0.43
+77	difference between the	33	15	70	33	0.42
+78	between the two	71	33	143	68	0.41
+79	the size of the	37	17	67	32	0.41
+80	the importance of	43	20	199	94	0.4
+81	that there are	136	63	134	63	0.39
+82	as a function	41	19	77	36	0.34
+83	associated with the	25	12	115	54	0.31
+84	the amount of	107	50	140	66	0.3
+85	a function of	74	34	128	60	0.29
+86	as an example	24	11	45	21	0.27
+87	for example if	42	20	41	19	0.26
+88	such as the	25	12	223	105	0.26
+89	based on a	35	16	76	36	0.26
+90	as part of	46	21	130	61	0.25
+91	this is not	145	67	132	62	0.25
+92	in which the	58	27	352	166	0.24
+93	the effect of	44	20	232	110	0.24
+94	in response to	30	14	121	57	0.22
+95	related to the	46	21	163	77	0.22
+96	each of these	51	24	70	33	0.21
+97	the effects of	39	18	211	100	0.21
+98	terms of the	125	58	168	79	0.2
+99	we can see	57	26	25	12	0.2
+100	there are three	22	10	31	15	0.2
+101	for example the	37	17	177	84	0.18
+102	according to the	42	20	149	70	0.18
+103	the existence of	31	14	133	63	0.18
+104	the concept of	46	21	149	70	0.18
+105	in this way	37	17	141	67	0.17
+106	focus on the	36	17	60	28	0.16
+107	the nature of	41	19	179	85	0.15
+108	the context of	32	15	189	89	0.15
+109	a list of	67	31	68	32	0.15
+110	this type of	39	18	84	40	0.14
+111	such a way	28	13	41	19	0.13
+112	the ability to	53	25	114	54	0.13
+113	the idea that	126	59	80	38	0.13
+114	a set of	45	21	145	68	0.11
+115	other words the	47	22	39	18	0.11
+116	parts of the	69	32	115	54	0.09
+117	nature of the	38	18	164	77	0.09
+118	the level of	67	31	163	77	0.05
+119	this would be	89	41	39	18	0.05
+120	is that the	252	117	200	94	0.04
+121	is much more	23	11	37	17	0.04
+122	the same as	95	44	85	40	0.04
+123	to show that	48	22	79	37	0.04
+124	there is an	44	20	87	41	0.03
+125	the notion of	39	18	104	49	0.03
+126	in the sense	112	52	81	38	0
+127	in the context	23	11	129	61	0
+128	the process of	80	37	145	68	-0.01
+129	is not a	93	43	171	81	-0.02
+130	both of these	49	23	25	12	-0.03
+131	for example in	24	11	77	36	-0.03
+132	the part of the	28	13	50	24	-0.05
+133	the size of	61	28	98	46	-0.06
+134	the form of	50	23	165	78	-0.06
+135	the sum of	39	18	66	31	-0.08
+136	the reason for	35	16	62	29	-0.09
+137	a and b	35	16	101	48	-0.1
+138	that this is	196	91	69	33	-0.11
+139	fact that the	36	17	133	63	-0.11
+140	this is an	117	54	40	19	-0.12
+141	because it is	48	22	86	41	-0.13
+142	have the same	81	38	48	23	-0.15
+143	part of a	42	20	103	49	-0.18
+144	the question of	52	24	136	64	-0.19
+145	of these two	38	18	43	20	-0.21
+146	the value of	35	16	126	60	-0.21
+147	assume that the	23	11	49	23	-0.21
+148	size of the	40	19	83	39	-0.21
+149	in such a	38	18	97	46	-0.21
+150	the distribution of	22	10	82	39	-0.22
+151	of the same	69	32	149	70	-0.22
+152	the meaning of	21	10	84	40	-0.23
+153	view of the	43	20	108	51	-0.23
+154	each of the	38	18	162	77	-0.24
+155	which is not	45	21	57	27	-0.25
+156	the issue of	35	16	76	36	-0.25
+157	but this is	93	43	51	24	-0.26
+158	if this is	87	40	44	21	-0.27
+159	the rate of	30	14	100	47	-0.27
+160	that we are	64	30	63	30	-0.31
+161	with the same	44	20	52	25	-0.31
+162	the result of	23	11	100	47	-0.31
+163	the problem of	41	19	117	55	-0.31
+164	is to be	35	16	181	85	-0.32
+165	the study of	25	12	124	59	-0.32
+166	which is the	153	71	72	34	-0.33
+167	the definition of	34	16	49	23	-0.33
+168	here is that	81	38	23	11	-0.35
+169	from the point	24	11	34	16	-0.35
+170	a form of	25	12	63	30	-0.36
+171	the frequency of	27	13	54	26	-0.37
+172	the order of	78	36	57	27	-0.37
+173	the way that	124	58	31	15	-0.37
+174	function of the	33	15	74	35	-0.37
+175	of the two	63	29	155	73	-0.39
+176	different from the	28	13	40	19	-0.39
+177	the structure of	31	14	76	36	-0.42
+178	what are the	130	60	27	13	-0.42
+179	is that it	95	44	100	47	-0.42
+180	the way in	65	30	84	40	-0.42
+181	to use the	58	27	88	42	-0.44
+182	be the case	32	15	35	17	-0.45
+183	means that the	28	13	52	25	-0.48
+184	value of the	27	13	71	34	-0.49
+185	of the system	34	16	86	41	-0.5
+186	of view of	28	13	39	18	-0.51
+187	the work of	24	11	107	51	-0.54
+188	example of a	49	23	27	13	-0.54
+189	is the case	29	13	53	25	-0.55
+190	is that there	49	23	40	19	-0.58
+191	of the second	32	15	67	32	-0.58
+192	the change in	32	15	36	17	-0.58
+193	so that the	81	38	120	57	-0.59
+194	is not the	58	27	118	56	-0.6
+195	the area of	23	11	50	24	-0.61
+196	form of the	23	11	63	30	-0.62
+197	that is the	140	65	111	52	-0.63
+198	and in the	116	54	180	85	-0.64
+199	and the second	43	20	34	16	-0.66
+200	of the fact	32	15	49	23	-0.67
+201	the first is	21	10	56	26	-0.7
+202	that in the	132	61	98	46	-0.77
+203	and the same	36	17	35	17	-0.84
+204	out that the	31	14	31	15	-0.91
+205	the example of	30	14	24	11	-0.93
+206	that in a	68	32	28	13	-1.08
+207	is for the	34	16	24	11	-1.29

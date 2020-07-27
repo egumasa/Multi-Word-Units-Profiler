@@ -1,0 +1,24 @@
+body {
+    width: 500px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+textarea {
+    width: 100%;
+}
+
+span {
+	color: red;
+}
+
+
+input[type="submit"] {
+    -webkit-appearance: button; /* Google Chrome用 */
+    width: 100px;
+    height: 30px;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+

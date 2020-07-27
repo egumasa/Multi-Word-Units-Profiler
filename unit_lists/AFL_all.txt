@@ -1,0 +1,608 @@
+#Phrase	band	#rank	Spoken_Raw freq	Spoken_Freq per million	Written_Raw freq	Written_Freq per million	FTW
+in terms of	Core	1	726	337	597	282	3.53
+at the same time	Core	2	198	92	208	98	2.56
+from the point of view	Core	3	23	11	30	14	2.44
+in order to	Core	4	330	153	540	255	2.35
+as well as	Core	5	147	68	539	255	2.08
+part of the	Core	6	432	201	457	216	1.96
+the fact that	Core	7	383	178	430	203	1.96
+in other words	Core	8	315	146	188	89	1.9
+the point of view of	Core	9	22	10	31	15	1.89
+there is a	Core	10	307	143	472	223	1.72
+as a result of	Core	11	57	26	158	75	1.58
+this is a	Core	12	657	305	160	76	1.57
+on the basis of	Core	13	50	23	174	82	1.5
+a number of	Core	14	190	88	455	215	1.5
+there is no	Core	15	107	50	391	185	1.45
+point of view	Core	16	177	82	128	60	1.41
+the number of	Core	17	171	79	521	246	1.38
+the extent to which	Core	18	21	10	111	52	1.36
+as a result	Core	19	131	61	264	125	1.35
+in the case of	Core	20	68	32	286	135	1.32
+whether or not	Core	21	128	59	172	81	1.31
+the same time	Core	22	207	96	221	104	1.26
+with respect to	Core	23	94	44	220	104	1.26
+point of view of	Core	24	27	13	32	15	1.22
+as a function of	Core	25	40	19	77	36	1.19
+at the same	Core	26	235	109	248	117	1.19
+the point of view	Core	27	36	17	32	15	1.13
+in such a way	Core	28	28	13	41	19	1.11
+the use of	Core	29	58	27	572	270	1.11
+in other words the	Core	30	47	22	39	18	1.08
+in terms of the	Core	31	120	56	142	67	1.07
+more likely to	Core	32	91	42	161	76	1.06
+likely to be	Core	33	79	37	243	115	1.03
+in this case	Core	34	188	87	193	91	1.03
+as opposed to	Core	35	115	53	84	40	1.02
+the way in which	Core	36	59	27	82	39	0.94
+based on the	Core	37	65	30	283	134	0.91
+can be used	Core	38	27	13	189	89	0.87
+the relationship between	Core	39	45	21	159	75	0.87
+it is not	Core	40	71	33	398	188	0.81
+and so on	Core	41	329	153	145	68	0.79
+on the basis	Core	42	52	24	199	94	0.75
+the difference between	Core	43	95	44	80	38	0.74
+it may be	Core	44	96	45	184	87	0.72
+the presence of	Core	45	46	21	276	130	0.7
+in the sense that	Core	46	73	34	47	22	0.7
+a variety of	Core	47	55	26	193	91	0.69
+different types of	Core	48	51	24	59	28	0.69
+extent to which	Core	49	21	10	114	54	0.66
+exactly the same	Core	50	92	43	35	17	0.65
+a series of	Core	51	50	23	184	87	0.63
+in relation to	Core	52	25	12	192	91	0.63
+it can be	Core	53	119	55	206	97	0.63
+the case of	Core	54	84	39	356	168	0.62
+in the case	Core	55	78	36	323	153	0.62
+large number of	Core	56	21	10	75	35	0.62
+that there is a	Core	57	49	23	87	41	0.61
+to some extent	Core	58	56	26	39	18	0.6
+that there is	Core	59	148	69	246	116	0.59
+the real world	Core	60	41	19	38	18	0.57
+is based on	Core	61	37	17	125	59	0.56
+due to the	Core	62	45	21	269	127	0.55
+ways in which	Core	63	49	23	79	37	0.54
+an example of	Core	64	132	61	86	41	0.54
+the fact that the	Core	65	32	15	122	58	0.54
+referred to as	Core	66	24	11	66	31	0.52
+may not be	Core	67	71	33	104	49	0.52
+way in which	Core	68	96	45	114	54	0.51
+it does not	Core	69	28	13	145	68	0.48
+from the point of	Core	70	23	11	31	15	0.47
+the development of	Core	71	57	26	256	121	0.46
+in the same	Core	72	192	89	187	88	0.46
+a result of	Core	73	70	33	182	86	0.46
+the basis of	Core	74	58	27	229	108	0.45
+the role of	Core	75	53	25	257	121	0.43
+there may be	Core	76	57	26	67	32	0.43
+difference between the	Core	77	33	15	70	33	0.42
+between the two	Core	78	71	33	143	68	0.41
+the size of the	Core	79	37	17	67	32	0.41
+the importance of	Core	80	43	20	199	94	0.4
+that there are	Core	81	136	63	134	63	0.39
+as a function	Core	82	41	19	77	36	0.34
+associated with the	Core	83	25	12	115	54	0.31
+the amount of	Core	84	107	50	140	66	0.3
+a function of	Core	85	74	34	128	60	0.29
+as an example	Core	86	24	11	45	21	0.27
+for example if	Core	87	42	20	41	19	0.26
+such as the	Core	88	25	12	223	105	0.26
+based on a	Core	89	35	16	76	36	0.26
+as part of	Core	90	46	21	130	61	0.25
+this is not	Core	91	145	67	132	62	0.25
+in which the	Core	92	58	27	352	166	0.24
+the effect of	Core	93	44	20	232	110	0.24
+in response to	Core	94	30	14	121	57	0.22
+related to the	Core	95	46	21	163	77	0.22
+each of these	Core	96	51	24	70	33	0.21
+the effects of	Core	97	39	18	211	100	0.21
+terms of the	Core	98	125	58	168	79	0.2
+we can see	Core	99	57	26	25	12	0.2
+there are three	Core	100	22	10	31	15	0.2
+for example the	Core	101	37	17	177	84	0.18
+according to the	Core	102	42	20	149	70	0.18
+the existence of	Core	103	31	14	133	63	0.18
+the concept of	Core	104	46	21	149	70	0.18
+in this way	Core	105	37	17	141	67	0.17
+focus on the	Core	106	36	17	60	28	0.16
+the nature of	Core	107	41	19	179	85	0.15
+the context of	Core	108	32	15	189	89	0.15
+a list of	Core	109	67	31	68	32	0.15
+this type of	Core	110	39	18	84	40	0.14
+such a way	Core	111	28	13	41	19	0.13
+the ability to	Core	112	53	25	114	54	0.13
+the idea that	Core	113	126	59	80	38	0.13
+a set of	Core	114	45	21	145	68	0.11
+other words the	Core	115	47	22	39	18	0.11
+parts of the	Core	116	69	32	115	54	0.09
+nature of the	Core	117	38	18	164	77	0.09
+the level of	Core	118	67	31	163	77	0.05
+this would be	Core	119	89	41	39	18	0.05
+is that the	Core	120	252	117	200	94	0.04
+is much more	Core	121	23	11	37	17	0.04
+the same as	Core	122	95	44	85	40	0.04
+to show that	Core	123	48	22	79	37	0.04
+there is an	Core	124	44	20	87	41	0.03
+the notion of	Core	125	39	18	104	49	0.03
+in the sense	Core	126	112	52	81	38	0
+in the context	Core	127	23	11	129	61	0
+the process of	Core	128	80	37	145	68	-0.01
+is not a	Core	129	93	43	171	81	-0.02
+both of these	Core	130	49	23	25	12	-0.03
+for example in	Core	131	24	11	77	36	-0.03
+the part of the	Core	132	28	13	50	24	-0.05
+the size of	Core	133	61	28	98	46	-0.06
+the form of	Core	134	50	23	165	78	-0.06
+the sum of	Core	135	39	18	66	31	-0.08
+the reason for	Core	136	35	16	62	29	-0.09
+a and b	Core	137	35	16	101	48	-0.1
+that this is	Core	138	196	91	69	33	-0.11
+fact that the	Core	139	36	17	133	63	-0.11
+this is an	Core	140	117	54	40	19	-0.12
+because it is	Core	141	48	22	86	41	-0.13
+have the same	Core	142	81	38	48	23	-0.15
+part of a	Core	143	42	20	103	49	-0.18
+the question of	Core	144	52	24	136	64	-0.19
+of these two	Core	145	38	18	43	20	-0.21
+the value of	Core	146	35	16	126	60	-0.21
+assume that the	Core	147	23	11	49	23	-0.21
+size of the	Core	148	40	19	83	39	-0.21
+in such a	Core	149	38	18	97	46	-0.21
+the distribution of	Core	150	22	10	82	39	-0.22
+of the same	Core	151	69	32	149	70	-0.22
+the meaning of	Core	152	21	10	84	40	-0.23
+view of the	Core	153	43	20	108	51	-0.23
+each of the	Core	154	38	18	162	77	-0.24
+which is not	Core	155	45	21	57	27	-0.25
+the issue of	Core	156	35	16	76	36	-0.25
+but this is	Core	157	93	43	51	24	-0.26
+if this is	Core	158	87	40	44	21	-0.27
+the rate of	Core	159	30	14	100	47	-0.27
+that we are	Core	160	64	30	63	30	-0.31
+with the same	Core	161	44	20	52	25	-0.31
+the result of	Core	162	23	11	100	47	-0.31
+the problem of	Core	163	41	19	117	55	-0.31
+is to be	Core	164	35	16	181	85	-0.32
+the study of	Core	165	25	12	124	59	-0.32
+which is the	Core	166	153	71	72	34	-0.33
+the definition of	Core	167	34	16	49	23	-0.33
+here is that	Core	168	81	38	23	11	-0.35
+from the point	Core	169	24	11	34	16	-0.35
+a form of	Core	170	25	12	63	30	-0.36
+the frequency of	Core	171	27	13	54	26	-0.37
+the order of	Core	172	78	36	57	27	-0.37
+the way that	Core	173	124	58	31	15	-0.37
+function of the	Core	174	33	15	74	35	-0.37
+of the two	Core	175	63	29	155	73	-0.39
+different from the	Core	176	28	13	40	19	-0.39
+the structure of	Core	177	31	14	76	36	-0.42
+what are the	Core	178	130	60	27	13	-0.42
+is that it	Core	179	95	44	100	47	-0.42
+the way in	Core	180	65	30	84	40	-0.42
+to use the	Core	181	58	27	88	42	-0.44
+be the case	Core	182	32	15	35	17	-0.45
+means that the	Core	183	28	13	52	25	-0.48
+value of the	Core	184	27	13	71	34	-0.49
+of the system	Core	185	34	16	86	41	-0.5
+of view of	Core	186	28	13	39	18	-0.51
+the work of	Core	187	24	11	107	51	-0.54
+example of a	Core	188	49	23	27	13	-0.54
+is the case	Core	189	29	13	53	25	-0.55
+is that there	Core	190	49	23	40	19	-0.58
+of the second	Core	191	32	15	67	32	-0.58
+the change in	Core	192	32	15	36	17	-0.58
+so that the	Core	193	81	38	120	57	-0.59
+is not the	Core	194	58	27	118	56	-0.6
+the area of	Core	195	23	11	50	24	-0.61
+form of the	Core	196	23	11	63	30	-0.62
+that is the	Core	197	140	65	111	52	-0.63
+and in the	Core	198	116	54	180	85	-0.64
+and the second	Core	199	43	20	34	16	-0.66
+of the fact	Core	200	32	15	49	23	-0.67
+the first is	Core	201	21	10	56	26	-0.7
+that in the	Core	202	132	61	98	46	-0.77
+and the same	Core	203	36	17	35	17	-0.84
+out that the	Core	204	31	14	31	15	-0.91
+the example of	Core	205	30	14	24	11	-0.93
+that in a	Core	206	68	32	28	13	-1.08
+is for the	Core	207	34	16	24	11	-1.29
+on the other hand	Written	1	86	40	251	119	2.84
+due to the fact that	Written	2	5	2	27	13	2.64
+on the other hand the	Written	3	6	3	50	24	2.55
+it should be noted	Written	4	0	0	36	17	2.51
+it is not possible to	Written	5	1	0	31	15	2.44
+a wide range of	Written	6	9	4	66	31	2.42
+there are a number of	Written	7	11	5	30	14	2.41
+in such a way that	Written	8	20	9	23	11	2.32
+take into account the	Written	9	5	2	24	11	2.27
+as can be seen	Written	10	0	0	32	15	1.79
+it is clear that	Written	11	6	3	69	33	1.72
+take into account	Written	12	17	8	41	19	1.7
+can be used to	Written	13	11	5	95	45	1.64
+in this paper we	Written	14	0	0	29	14	1.64
+are likely to	Written	15	16	7	129	61	1.61
+in the next section	Written	16	0	0	32	15	1.6
+a large number of	Written	17	16	7	47	22	1.59
+the united kingdom	Written	18	2	1	54	25	1.57
+on the basis of the	Written	19	8	4	48	23	1.57
+that there is no	Written	20	10	5	67	32	1.56
+over a period of	Written	21	10	5	27	13	1.55
+as a result of the	Written	22	11	5	35	17	1.55
+can be seen in	Written	23	1	0	36	17	1.52
+a wide range	Written	24	13	6	69	33	1.51
+there are a number	Written	25	13	6	30	14	1.47
+it is interesting to	Written	26	0	0	32	15	1.47
+it is impossible to	Written	27	1	0	25	12	1.47
+it is obvious that	Written	28	0	0	23	11	1.46
+it is possible to	Written	29	5	2	101	48	1.46
+it is not possible	Written	30	2	1	38	18	1.45
+been carried out	Written	31	1	0	37	17	1.45
+can be found in	Written	32	0	0	39	18	1.45
+it is important to	Written	33	3	1	92	43	1.4
+was carried out	Written	34	1	0	56	26	1.39
+is likely to be	Written	35	7	3	81	38	1.38
+wide range of	Written	36	10	5	77	36	1.37
+the same way as	Written	37	10	5	32	15	1.37
+due to the fact	Written	38	5	2	27	13	1.36
+in accordance with the	Written	39	4	2	26	12	1.36
+it is necessary to	Written	40	2	1	56	26	1.35
+the other hand	Written	41	88	41	254	120	1.35
+can be seen	Written	42	12	6	185	87	1.35
+it is likely that	Written	43	0	0	39	18	1.31
+such a way that	Written	44	20	9	23	11	1.22
+to carry out	Written	45	16	7	62	29	1.22
+it is possible that	Written	46	1	0	40	19	1.22
+with respect to the	Written	47	13	6	78	37	1.2
+give rise to	Written	48	7	3	41	19	1.18
+carried out by	Written	49	4	2	43	20	1.17
+whether or not the	Written	50	6	3	38	18	1.13
+in the present study	Written	51	0	0	23	11	1.11
+should be noted	Written	52	0	0	38	18	1.07
+be carried out	Written	53	3	1	38	18	1.06
+the other hand the	Written	54	6	3	51	24	1.06
+does not appear	Written	55	3	1	27	13	1.04
+his or her	Written	56	6	3	71	34	1.01
+is not possible to	Written	57	1	0	32	15	0.99
+shown in figure	Written	58	0	0	84	40	0.96
+be used as a	Written	59	1	0	36	17	0.95
+for the purposes of	Written	60	3	1	50	24	0.95
+be regarded as	Written	61	2	1	85	40	0.94
+to ensure that the	Written	62	0	0	37	17	0.93
+allows us to	Written	63	16	7	32	15	0.93
+it has been	Written	64	26	12	168	79	0.92
+little or no	Written	65	6	3	33	16	0.9
+carried out in	Written	66	1	0	53	25	0.9
+to distinguish between	Written	67	2	1	45	21	0.88
+in accordance with	Written	68	12	6	55	26	0.88
+they do not	Written	69	13	6	118	56	0.88
+at this stage	Written	70	14	7	70	33	0.88
+is based on the	Written	71	7	3	47	22	0.88
+shown in table	Written	72	0	0	63	30	0.87
+in the absence of	Written	73	10	5	86	41	0.86
+we have seen	Written	74	11	5	56	26	0.83
+to determine whether	Written	75	4	2	33	16	0.82
+in the context of	Written	76	16	7	121	57	0.79
+a high degree	Written	77	3	1	28	13	0.78
+the difference between the	Written	78	18	8	30	14	0.78
+an increase in the	Written	79	12	6	28	13	0.78
+it is possible	Written	80	12	6	175	83	0.77
+can be achieved	Written	81	0	0	36	17	0.77
+insight into the	Written	82	0	0	34	16	0.77
+can be expressed	Written	83	3	1	49	23	0.75
+we assume that	Written	84	10	5	43	20	0.75
+they did not	Written	85	12	6	56	26	0.73
+there has been	Written	86	18	8	70	33	0.72
+on the part of	Written	87	17	8	66	31	0.7
+in this paper	Written	88	9	4	132	62	0.7
+the purpose of this	Written	89	4	2	28	13	0.7
+less likely to	Written	90	11	5	48	23	0.68
+a large number	Written	91	19	9	49	23	0.67
+can easily be	Written	92	0	0	32	15	0.67
+with regard to	Written	93	9	4	85	40	0.66
+there are several	Written	94	12	6	38	18	0.66
+over a period	Written	95	10	5	30	14	0.66
+in this case the	Written	96	17	8	57	27	0.66
+in conjunction with	Written	97	12	6	48	23	0.65
+at the time of	Written	98	14	7	68	32	0.65
+we do not	Written	99	8	4	81	38	0.64
+has been used	Written	100	8	4	43	20	0.63
+appears to be	Written	101	19	9	113	53	0.63
+to do so	Written	102	49	23	116	55	0.63
+there are no	Written	103	46	21	82	39	0.62
+on the other	Written	104	166	77	311	147	0.62
+has also been	Written	105	3	1	53	25	0.61
+it is worth	Written	106	0	0	42	20	0.61
+can be found	Written	107	2	1	69	33	0.61
+the next section	Written	108	2	1	41	19	0.6
+are a number of	Written	109	12	6	30	14	0.6
+this paper we	Written	110	0	0	34	16	0.6
+be seen as	Written	111	18	8	94	44	0.6
+be related to the	Written	112	3	1	26	12	0.59
+to ensure that	Written	113	11	5	94	44	0.59
+it is important	Written	114	6	3	139	66	0.59
+be explained by	Written	115	0	0	32	15	0.58
+same way as	Written	116	11	5	32	15	0.58
+see for example	Written	117	0	0	42	20	0.58
+the presence of a	Written	118	3	1	50	24	0.58
+that it is not	Written	119	7	3	37	17	0.58
+in some cases	Written	120	40	19	68	32	0.58
+to the fact that	Written	121	21	10	49	23	0.57
+high levels of	Written	122	12	6	35	17	0.56
+most likely to	Written	123	6	3	55	26	0.56
+it appears that	Written	124	13	6	61	29	0.56
+it follows that	Written	125	2	1	65	31	0.55
+can also be	Written	126	13	6	111	52	0.55
+it is clear	Written	127	6	3	83	39	0.54
+by virtue of	Written	128	13	6	54	25	0.54
+the most important	Written	129	46	21	112	53	0.53
+an attempt to	Written	130	25	12	62	29	0.53
+it is impossible	Written	131	2	1	36	17	0.53
+factors such as	Written	132	0	0	29	14	0.53
+is consistent with	Written	133	1	0	61	29	0.53
+total number of	Written	134	5	2	42	20	0.53
+similar to those	Written	135	0	0	47	22	0.52
+as part of the	Written	136	17	8	55	26	0.52
+can be considered	Written	137	0	0	38	18	0.52
+at the outset	Written	138	6	3	24	11	0.51
+in more detail	Written	139	7	3	27	13	0.51
+should not be	Written	140	13	6	108	51	0.51
+could be used	Written	141	9	4	41	19	0.51
+appear to be	Written	142	15	7	99	47	0.5
+as a consequence	Written	143	6	3	50	24	0.5
+in this article	Written	144	6	3	59	28	0.5
+assumed to be	Written	145	3	1	82	39	0.49
+in the form of	Written	146	19	9	98	46	0.48
+as a whole	Written	147	57	26	92	43	0.48
+important role in	Written	148	5	2	28	13	0.47
+it is interesting	Written	149	2	1	38	18	0.46
+does not have	Written	150	20	9	52	25	0.46
+none of these	Written	151	12	6	32	15	0.46
+as shown in	Written	152	1	0	139	66	0.45
+is likely to	Written	153	19	9	169	80	0.45
+this means that	Written	154	13	6	77	36	0.45
+be noted that	Written	155	0	0	45	21	0.45
+be achieved by	Written	156	0	0	28	13	0.45
+depends on the	Written	157	39	18	93	44	0.44
+at least in	Written	158	40	19	75	35	0.44
+a small number	Written	159	9	4	25	12	0.43
+in table 1	Written	160	0	0	62	29	0.43
+in most cases	Written	161	7	3	37	17	0.43
+depending on the	Written	162	30	14	62	29	0.41
+in both cases	Written	163	11	5	36	17	0.41
+the validity of the	Written	164	2	1	39	18	0.41
+small number of	Written	165	10	5	38	18	0.4
+their ability to	Written	166	16	7	40	19	0.4
+need not be	Written	167	1	0	54	25	0.4
+needs to be	Written	168	64	30	96	45	0.4
+have shown that	Written	169	4	2	63	30	0.39
+it is necessary	Written	170	5	2	71	34	0.39
+been shown to	Written	171	5	2	66	31	0.39
+such as those	Written	172	1	0	44	21	0.39
+are as follows	Written	173	1	0	34	16	0.38
+for this purpose	Written	174	3	1	31	15	0.38
+is determined by	Written	175	7	3	48	23	0.38
+it is difficult	Written	176	0	0	57	27	0.37
+even though the	Written	177	18	8	44	21	0.37
+this does not	Written	178	9	4	59	28	0.37
+was based on	Written	179	16	7	40	19	0.37
+the nature of the	Written	180	18	8	91	43	0.37
+in the course of	Written	181	28	13	58	27	0.37
+degree to which	Written	182	3	1	56	26	0.37
+be argued that	Written	183	1	0	36	17	0.36
+in terms of a	Written	184	18	8	32	15	0.36
+for this reason	Written	185	6	3	44	21	0.36
+are based on	Written	186	19	9	50	24	0.36
+in a number of	Written	187	15	7	40	19	0.36
+two types of	Written	188	14	7	45	21	0.34
+the total number	Written	189	8	4	39	18	0.34
+is more likely	Written	190	11	5	41	19	0.34
+which can be	Written	191	14	7	120	57	0.34
+are able to	Written	192	14	7	79	37	0.32
+be considered as	Written	193	0	0	46	22	0.32
+be used to	Written	194	18	8	163	77	0.31
+b and c	Written	195	11	5	37	17	0.31
+depend on the	Written	196	16	7	63	30	0.3
+is that it is	Written	197	7	3	41	19	0.3
+is affected by	Written	198	1	0	24	11	0.3
+should also be	Written	199	4	2	38	18	0.3
+if they are	Written	200	22	10	70	33	0.3
+be able to	Spoken	1	551	256	209	99	2.96
+blah blah blah	Spoken	2	62	29	0	0	2.92
+this is the	Spoken	3	732	340	127	60	2.77
+you know what I mean	Spoken	4	137	64	4	2	2.27
+you can see	Spoken	5	449	209	2	1	2.12
+trying to figure out	Spoken	6	41	19	2	1	2.05
+a little bit about	Spoken	7	101	47	0	0	2
+does that make sense	Spoken	8	63	29	0	0	1.99
+you know what	Spoken	9	491	228	4	2	1.99
+the university of michigan	Spoken	10	76	35	1	0	1.98
+for those of you who	Spoken	11	39	18	0	0	1.98
+do you want me to	Spoken	12	31	14	0	0	1.96
+thank you very much	Spoken	13	57	26	0	0	1.95
+look at the	Spoken	14	425	197	50	24	1.95
+we're gonna talk about	Spoken	15	42	20	0	0	1.95
+talk a little bit	Spoken	16	40	19	0	0	1.92
+if you look at	Spoken	17	173	80	0	0	1.89
+and this is	Spoken	18	533	248	43	20	1.87
+if you look at the	Spoken	19	58	27	0	0	1.8
+no no no no	Spoken	20	66	31	0	0	1.78
+at the end of	Spoken	21	191	89	128	60	1.74
+we were talking about	Spoken	22	49	23	0	0	1.65
+in ann arbor	Spoken	23	41	19	0	0	1.62
+it turns out that	Spoken	24	52	24	9	4	1.61
+you need to	Spoken	25	391	182	1	0	1.61
+see what I’m saying	Spoken	26	36	17	0	0	1.6
+take a look at	Spoken	27	67	31	3	1	1.58
+you have a	Spoken	28	463	215	8	4	1.57
+might be able to	Spoken	29	43	20	12	6	1.56
+at the end	Spoken	30	295	137	140	66	1.48
+you want to	Spoken	31	369	171	14	7	1.46
+to do with	Spoken	32	356	165	91	43	1.44
+nothing to do with	Spoken	33	48	22	19	9	1.43
+know what I mean	Spoken	34	140	65	7	3	1.42
+you look at	Spoken	35	296	137	3	1	1.42
+university of michigan	Spoken	36	95	44	1	0	1.42
+what I’m talking about	Spoken	37	29	13	0	0	1.41
+the same thing	Spoken	38	263	122	17	8	1.35
+to look at	Spoken	39	281	131	42	20	1.34
+the end of	Spoken	40	340	158	232	110	1.33
+gonna be able to	Spoken	41	38	18	0	0	1.32
+we're talking about	Spoken	42	132	61	0	0	1.28
+to figure out what	Spoken	43	26	12	2	1	1.27
+so if you	Spoken	44	365	170	1	0	1.24
+so this is	Spoken	45	373	173	0	0	1.23
+if you want to	Spoken	46	126	59	4	2	1.23
+no no no	Spoken	47	186	86	0	0	1.23
+if you have	Spoken	48	344	160	1	0	1.22
+come up with a	Spoken	49	36	17	2	1	1.21
+we talked about	Spoken	50	154	72	1	0	1.2
+when you look at	Spoken	51	47	22	1	0	1.2
+in order to get	Spoken	52	49	23	8	4	1.19
+the end of the	Spoken	53	190	88	124	59	1.19
+oh my god	Spoken	54	68	32	0	0	1.17
+come up with	Spoken	55	146	68	6	3	1.16
+I was gonna say	Spoken	56	56	26	0	0	1.16
+and then you	Spoken	57	366	170	2	1	1.16
+a kind of	Spoken	58	322	150	50	24	1.16
+it doesn't matter	Spoken	59	109	51	1	0	1.15
+has to do with	Spoken	60	67	31	7	3	1.14
+you can look at	Spoken	61	54	25	0	0	1.13
+do you want me	Spoken	62	34	16	0	0	1.12
+little bit about	Spoken	63	103	48	0	0	1.12
+if you look	Spoken	64	252	117	0	0	1.1
+I just wanted to	Spoken	65	60	28	0	0	1.1
+you're talking about	Spoken	66	123	57	0	0	1.08
+what does that mean	Spoken	67	48	22	0	0	1.08
+the best way to	Spoken	68	39	18	14	7	1.08
+if you want	Spoken	69	241	112	6	3	1.06
+you know what i	Spoken	70	158	73	4	2	1.05
+we've talked about	Spoken	71	52	24	1	0	1.05
+we'll talk about	Spoken	72	73	34	0	0	1.03
+let me just	Spoken	73	94	44	0	0	1.02
+I was talking about	Spoken	74	31	14	0	0	1.02
+has to be	Spoken	75	247	115	96	45	1.01
+to talk about	Spoken	76	201	93	20	9	1
+it turns out	Spoken	77	83	39	14	7	1
+those of you who	Spoken	78	58	27	1	0	0.99
+you might want to	Spoken	79	41	19	0	0	0.99
+first of all	Spoken	80	208	97	24	11	0.98
+and so on and so	Spoken	81	37	17	1	0	0.98
+there was a	Spoken	82	270	125	114	54	0.97
+at the university of	Spoken	83	47	22	18	8	0.97
+yes yes yes	Spoken	84	64	30	0	0	0.97
+you can see that	Spoken	85	96	45	1	0	0.96
+I have a question	Spoken	86	67	31	0	0	0.96
+it has to be	Spoken	87	80	37	13	6	0.93
+we need to	Spoken	88	220	102	64	30	0.92
+what I’m saying	Spoken	89	125	58	0	0	0.92
+you want me to	Spoken	90	47	22	1	0	0.92
+all sorts of	Spoken	91	107	50	2	1	0.91
+as you can see	Spoken	92	44	20	0	0	0.9
+to figure out	Spoken	93	114	53	8	4	0.9
+keep in mind	Spoken	94	47	22	6	3	0.9
+what do you mean	Spoken	95	63	29	1	0	0.89
+it looks like	Spoken	96	143	66	2	1	0.88
+let's look at	Spoken	97	82	38	0	0	0.87
+you look at the	Spoken	98	89	41	0	0	0.87
+to make sure	Spoken	99	123	57	13	6	0.86
+if you wanted to	Spoken	100	41	19	0	0	0.85
+make sure that	Spoken	101	121	56	15	7	0.84
+end up with	Spoken	102	81	38	9	4	0.84
+and you can see	Spoken	103	85	39	0	0	0.84
+came up with	Spoken	104	67	31	2	1	0.84
+doesn't have to be	Spoken	105	36	17	0	0	0.83
+I mean if you	Spoken	106	88	41	0	0	0.83
+you've got a	Spoken	107	124	58	0	0	0.83
+gonna talk about	Spoken	108	89	41	0	0	0.82
+how many of you	Spoken	109	37	17	0	0	0.82
+I mean if	Spoken	110	223	104	0	0	0.81
+look at it	Spoken	111	173	80	5	2	0.81
+piece of paper	Spoken	112	34	16	5	2	0.81
+and so forth	Spoken	113	129	60	35	17	0.8
+and you can	Spoken	114	306	142	6	3	0.79
+looking at the	Spoken	115	180	84	25	12	0.79
+we're gonna talk	Spoken	116	49	23	0	0	0.79
+go back to the	Spoken	117	48	22	9	4	0.79
+you know what I’m	Spoken	118	52	24	0	0	0.76
+that you can	Spoken	119	292	136	2	1	0.76
+we're looking at	Spoken	120	56	26	0	0	0.76
+what I mean	Spoken	121	219	102	12	6	0.74
+do you know what	Spoken	122	67	31	2	1	0.73
+how do you know	Spoken	123	42	20	4	2	0.73
+you don't need to	Spoken	124	42	20	2	1	0.73
+you're looking at	Spoken	125	68	32	0	0	0.72
+turns out that	Spoken	126	61	28	9	4	0.72
+it could be	Spoken	127	180	84	48	23	0.72
+figure out what	Spoken	128	56	26	2	1	0.72
+if you've got	Spoken	129	69	32	0	0	0.72
+I wanted to	Spoken	130	180	84	6	3	0.71
+you could you could	Spoken	131	33	15	0	0	0.71
+might be able	Spoken	132	44	20	12	6	0.7
+trying to figure	Spoken	133	44	20	2	1	0.7
+what you're saying	Spoken	134	86	40	1	0	0.67
+we have to	Spoken	135	252	117	43	20	0.67
+I’m talking about	Spoken	136	68	32	0	0	0.67
+so you can	Spoken	137	245	114	1	0	0.66
+this kind of	Spoken	138	205	95	49	23	0.65
+don't worry about	Spoken	139	29	13	0	0	0.65
+it's gonna be	Spoken	140	151	70	0	0	0.64
+if you have a	Spoken	141	96	45	0	0	0.64
+wanna talk about	Spoken	142	45	21	0	0	0.64
+so you can see	Spoken	143	38	18	0	0	0.64
+I want you to	Spoken	144	79	37	0	0	0.63
+to look at the	Spoken	145	59	27	15	7	0.63
+to each other	Spoken	146	98	46	50	24	0.62
+the kind of	Spoken	147	257	119	50	24	0.62
+at this point	Spoken	148	116	54	66	31	0.61
+one of these	Spoken	149	189	88	50	24	0.6
+and if you	Spoken	150	284	132	4	2	0.6
+you think about it	Spoken	151	55	26	0	0	0.59
+talk about the	Spoken	152	160	74	5	2	0.59
+it might be	Spoken	153	138	64	76	36	0.59
+for those of you	Spoken	154	49	23	0	0	0.59
+to do with the	Spoken	155	93	43	39	18	0.59
+I’m not gonna	Spoken	156	97	45	0	0	0.58
+was talking about	Spoken	157	82	38	1	0	0.58
+have to do with	Spoken	158	42	20	5	2	0.58
+tell me what	Spoken	159	53	25	2	1	0.57
+look at this	Spoken	160	123	57	3	1	0.57
+in a sense	Spoken	161	160	74	32	15	0.56
+okay I don't know	Spoken	162	31	14	0	0	0.56
+I’ll talk about	Spoken	163	31	14	0	0	0.56
+you need to do	Spoken	164	33	15	0	0	0.56
+do you want	Spoken	165	149	69	6	3	0.55
+we talk about	Spoken	166	89	41	1	0	0.54
+any questions about	Spoken	167	31	14	0	0	0.53
+come back to	Spoken	168	79	37	3	1	0.53
+you can see the	Spoken	169	61	28	0	0	0.53
+the reason why	Spoken	170	78	36	16	8	0.52
+it in terms of	Spoken	171	31	14	4	2	0.52
+what I want to	Spoken	172	37	17	6	3	0.52
+we looked at	Spoken	173	48	22	6	3	0.51
+if you wanna	Spoken	174	138	64	0	0	0.51
+take a look	Spoken	175	89	41	3	1	0.5
+if you were to	Spoken	176	47	22	0	0	0.5
+I’ll show you	Spoken	177	45	21	0	0	0.49
+talking about the	Spoken	178	137	64	6	3	0.49
+that make sense	Spoken	179	67	31	2	1	0.49
+this is this is	Spoken	180	84	39	0	0	0.48
+how do we	Spoken	181	126	59	10	5	0.48
+we were talking	Spoken	182	55	26	1	0	0.48
+wanna look at	Spoken	183	41	19	0	0	0.48
+you're trying to	Spoken	184	81	38	0	0	0.47
+a look at	Spoken	185	131	61	10	5	0.47
+if you were	Spoken	186	163	76	7	3	0.47
+you're interested in	Spoken	187	46	21	0	0	0.47
+to think about	Spoken	188	175	81	11	5	0.46
+gonna be able	Spoken	189	38	18	0	0	0.46
+by the way	Spoken	190	141	65	9	4	0.45
+we look at	Spoken	191	93	43	15	7	0.45
+I think this is	Spoken	192	57	26	1	0	0.45
+but if you	Spoken	193	203	94	5	2	0.45
+at some point	Spoken	194	51	24	15	7	0.44
+I’m gonna go	Spoken	195	51	24	0	0	0.44
+thank you very	Spoken	196	59	27	1	0	0.43
+can look at	Spoken	197	74	34	1	0	0.43
+what happens is	Spoken	198	86	40	0	0	0.43
+on the board	Spoken	199	65	30	6	3	0.42
+um let me	Spoken	200	37	17	0	0	0.42

@@ -1,0 +1,201 @@
+#phrase	#Rank	Spoken_Raw freq	Spoken_Freq per million	Written_Raw freq	Written_Freq per million	FTW
+be able to	1	551	256	209	99	2.96
+blah blah blah	2	62	29	0	0	2.92
+this is the	3	732	340	127	60	2.77
+you know what I mean	4	137	64	4	2	2.27
+you can see	5	449	209	2	1	2.12
+trying to figure out	6	41	19	2	1	2.05
+a little bit about	7	101	47	0	0	2
+does that make sense	8	63	29	0	0	1.99
+you know what	9	491	228	4	2	1.99
+the university of michigan	10	76	35	1	0	1.98
+for those of you who	11	39	18	0	0	1.98
+do you want me to	12	31	14	0	0	1.96
+thank you very much	13	57	26	0	0	1.95
+look at the	14	425	197	50	24	1.95
+we're gonna talk about	15	42	20	0	0	1.95
+talk a little bit	16	40	19	0	0	1.92
+if you look at	17	173	80	0	0	1.89
+and this is	18	533	248	43	20	1.87
+if you look at the	19	58	27	0	0	1.8
+no no no no	20	66	31	0	0	1.78
+at the end of	21	191	89	128	60	1.74
+we were talking about	22	49	23	0	0	1.65
+in ann arbor	23	41	19	0	0	1.62
+it turns out that	24	52	24	9	4	1.61
+you need to	25	391	182	1	0	1.61
+see what IÕm saying	26	36	17	0	0	1.6
+take a look at	27	67	31	3	1	1.58
+you have a	28	463	215	8	4	1.57
+might be able to	29	43	20	12	6	1.56
+at the end	30	295	137	140	66	1.48
+you want to	31	369	171	14	7	1.46
+to do with	32	356	165	91	43	1.44
+nothing to do with	33	48	22	19	9	1.43
+know what I mean	34	140	65	7	3	1.42
+you look at	35	296	137	3	1	1.42
+university of michigan	36	95	44	1	0	1.42
+what IÕm talking about	37	29	13	0	0	1.41
+the same thing	38	263	122	17	8	1.35
+to look at	39	281	131	42	20	1.34
+the end of	40	340	158	232	110	1.33
+gonna be able to	41	38	18	0	0	1.32
+we're talking about	42	132	61	0	0	1.28
+to figure out what	43	26	12	2	1	1.27
+so if you	44	365	170	1	0	1.24
+so this is	45	373	173	0	0	1.23
+if you want to	46	126	59	4	2	1.23
+no no no	47	186	86	0	0	1.23
+if you have	48	344	160	1	0	1.22
+come up with a	49	36	17	2	1	1.21
+we talked about	50	154	72	1	0	1.2
+when you look at	51	47	22	1	0	1.2
+in order to get	52	49	23	8	4	1.19
+the end of the	53	190	88	124	59	1.19
+oh my god	54	68	32	0	0	1.17
+come up with	55	146	68	6	3	1.16
+I was gonna say	56	56	26	0	0	1.16
+and then you	57	366	170	2	1	1.16
+a kind of	58	322	150	50	24	1.16
+it doesn't matter	59	109	51	1	0	1.15
+has to do with	60	67	31	7	3	1.14
+you can look at	61	54	25	0	0	1.13
+do you want me	62	34	16	0	0	1.12
+little bit about	63	103	48	0	0	1.12
+if you look	64	252	117	0	0	1.1
+I just wanted to	65	60	28	0	0	1.1
+you're talking about	66	123	57	0	0	1.08
+what does that mean	67	48	22	0	0	1.08
+the best way to	68	39	18	14	7	1.08
+if you want	69	241	112	6	3	1.06
+you know what i	70	158	73	4	2	1.05
+we've talked about	71	52	24	1	0	1.05
+we'll talk about	72	73	34	0	0	1.03
+let me just	73	94	44	0	0	1.02
+I was talking about	74	31	14	0	0	1.02
+has to be	75	247	115	96	45	1.01
+to talk about	76	201	93	20	9	1
+it turns out	77	83	39	14	7	1
+those of you who	78	58	27	1	0	0.99
+you might want to	79	41	19	0	0	0.99
+first of all	80	208	97	24	11	0.98
+and so on and so	81	37	17	1	0	0.98
+there was a	82	270	125	114	54	0.97
+at the university of	83	47	22	18	8	0.97
+yes yes yes	84	64	30	0	0	0.97
+you can see that	85	96	45	1	0	0.96
+I have a question	86	67	31	0	0	0.96
+it has to be	87	80	37	13	6	0.93
+we need to	88	220	102	64	30	0.92
+what IÕm saying	89	125	58	0	0	0.92
+you want me to	90	47	22	1	0	0.92
+all sorts of	91	107	50	2	1	0.91
+as you can see	92	44	20	0	0	0.9
+to figure out	93	114	53	8	4	0.9
+keep in mind	94	47	22	6	3	0.9
+what do you mean	95	63	29	1	0	0.89
+it looks like	96	143	66	2	1	0.88
+let's look at	97	82	38	0	0	0.87
+you look at the	98	89	41	0	0	0.87
+to make sure	99	123	57	13	6	0.86
+if you wanted to	100	41	19	0	0	0.85
+make sure that	101	121	56	15	7	0.84
+end up with	102	81	38	9	4	0.84
+and you can see	103	85	39	0	0	0.84
+came up with	104	67	31	2	1	0.84
+doesn't have to be	105	36	17	0	0	0.83
+I mean if you	106	88	41	0	0	0.83
+you've got a	107	124	58	0	0	0.83
+gonna talk about	108	89	41	0	0	0.82
+how many of you	109	37	17	0	0	0.82
+I mean if	110	223	104	0	0	0.81
+look at it	111	173	80	5	2	0.81
+piece of paper	112	34	16	5	2	0.81
+and so forth	113	129	60	35	17	0.8
+and you can	114	306	142	6	3	0.79
+looking at the	115	180	84	25	12	0.79
+we're gonna talk	116	49	23	0	0	0.79
+go back to the	117	48	22	9	4	0.79
+you know what IÕm	118	52	24	0	0	0.76
+that you can	119	292	136	2	1	0.76
+we're looking at	120	56	26	0	0	0.76
+what I mean	121	219	102	12	6	0.74
+do you know what	122	67	31	2	1	0.73
+how do you know	123	42	20	4	2	0.73
+you don't need to	124	42	20	2	1	0.73
+you're looking at	125	68	32	0	0	0.72
+turns out that	126	61	28	9	4	0.72
+it could be	127	180	84	48	23	0.72
+figure out what	128	56	26	2	1	0.72
+if you've got	129	69	32	0	0	0.72
+I wanted to	130	180	84	6	3	0.71
+you could you could	131	33	15	0	0	0.71
+might be able	132	44	20	12	6	0.7
+trying to figure	133	44	20	2	1	0.7
+what you're saying	134	86	40	1	0	0.67
+we have to	135	252	117	43	20	0.67
+IÕm talking about	136	68	32	0	0	0.67
+so you can	137	245	114	1	0	0.66
+this kind of	138	205	95	49	23	0.65
+don't worry about	139	29	13	0	0	0.65
+it's gonna be	140	151	70	0	0	0.64
+if you have a	141	96	45	0	0	0.64
+wanna talk about	142	45	21	0	0	0.64
+so you can see	143	38	18	0	0	0.64
+I want you to	144	79	37	0	0	0.63
+to look at the	145	59	27	15	7	0.63
+to each other	146	98	46	50	24	0.62
+the kind of	147	257	119	50	24	0.62
+at this point	148	116	54	66	31	0.61
+one of these	149	189	88	50	24	0.6
+and if you	150	284	132	4	2	0.6
+you think about it	151	55	26	0	0	0.59
+talk about the	152	160	74	5	2	0.59
+it might be	153	138	64	76	36	0.59
+for those of you	154	49	23	0	0	0.59
+to do with the	155	93	43	39	18	0.59
+IÕm not gonna	156	97	45	0	0	0.58
+was talking about	157	82	38	1	0	0.58
+have to do with	158	42	20	5	2	0.58
+tell me what	159	53	25	2	1	0.57
+look at this	160	123	57	3	1	0.57
+in a sense	161	160	74	32	15	0.56
+okay I don't know	162	31	14	0	0	0.56
+IÕll talk about	163	31	14	0	0	0.56
+you need to do	164	33	15	0	0	0.56
+do you want	165	149	69	6	3	0.55
+we talk about	166	89	41	1	0	0.54
+any questions about	167	31	14	0	0	0.53
+come back to	168	79	37	3	1	0.53
+you can see the	169	61	28	0	0	0.53
+the reason why	170	78	36	16	8	0.52
+it in terms of	171	31	14	4	2	0.52
+what I want to	172	37	17	6	3	0.52
+we looked at	173	48	22	6	3	0.51
+if you wanna	174	138	64	0	0	0.51
+take a look	175	89	41	3	1	0.5
+if you were to	176	47	22	0	0	0.5
+IÕll show you	177	45	21	0	0	0.49
+talking about the	178	137	64	6	3	0.49
+that make sense	179	67	31	2	1	0.49
+this is this is	180	84	39	0	0	0.48
+how do we	181	126	59	10	5	0.48
+we were talking	182	55	26	1	0	0.48
+wanna look at	183	41	19	0	0	0.48
+you're trying to	184	81	38	0	0	0.47
+a look at	185	131	61	10	5	0.47
+if you were	186	163	76	7	3	0.47
+you're interested in	187	46	21	0	0	0.47
+to think about	188	175	81	11	5	0.46
+gonna be able	189	38	18	0	0	0.46
+by the way	190	141	65	9	4	0.45
+we look at	191	93	43	15	7	0.45
+I think this is	192	57	26	1	0	0.45
+but if you	193	203	94	5	2	0.45
+at some point	194	51	24	15	7	0.44
+IÕm gonna go	195	51	24	0	0	0.44
+thank you very	196	59	27	1	0	0.43
+can look at	197	74	34	1	0	0.43
+what happens is	198	86	40	0	0	0.43
+on the board	199	65	30	6	3	0.42
+um let me	200	37	17	0	0	0.42

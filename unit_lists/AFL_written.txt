@@ -1,0 +1,201 @@
+#phrase	#rank	Spoken_Raw freq	Spoken_Freq per million	Written_Raw freq	Written_Freq per million	FTW
+on the other hand	1	86	40	251	119	2.84
+due to the fact that	2	5	2	27	13	2.64
+on the other hand the	3	6	3	50	24	2.55
+it should be noted	4	0	0	36	17	2.51
+it is not possible to	5	1	0	31	15	2.44
+a wide range of	6	9	4	66	31	2.42
+there are a number of	7	11	5	30	14	2.41
+in such a way that	8	20	9	23	11	2.32
+take into account the	9	5	2	24	11	2.27
+as can be seen	10	0	0	32	15	1.79
+it is clear that	11	6	3	69	33	1.72
+take into account	12	17	8	41	19	1.7
+can be used to	13	11	5	95	45	1.64
+in this paper we	14	0	0	29	14	1.64
+are likely to	15	16	7	129	61	1.61
+in the next section	16	0	0	32	15	1.6
+a large number of	17	16	7	47	22	1.59
+the united kingdom	18	2	1	54	25	1.57
+on the basis of the	19	8	4	48	23	1.57
+that there is no	20	10	5	67	32	1.56
+over a period of	21	10	5	27	13	1.55
+as a result of the	22	11	5	35	17	1.55
+can be seen in	23	1	0	36	17	1.52
+a wide range	24	13	6	69	33	1.51
+there are a number	25	13	6	30	14	1.47
+it is interesting to	26	0	0	32	15	1.47
+it is impossible to	27	1	0	25	12	1.47
+it is obvious that	28	0	0	23	11	1.46
+it is possible to	29	5	2	101	48	1.46
+it is not possible	30	2	1	38	18	1.45
+been carried out	31	1	0	37	17	1.45
+can be found in	32	0	0	39	18	1.45
+it is important to	33	3	1	92	43	1.4
+was carried out	34	1	0	56	26	1.39
+is likely to be	35	7	3	81	38	1.38
+wide range of	36	10	5	77	36	1.37
+the same way as	37	10	5	32	15	1.37
+due to the fact	38	5	2	27	13	1.36
+in accordance with the	39	4	2	26	12	1.36
+it is necessary to	40	2	1	56	26	1.35
+the other hand	41	88	41	254	120	1.35
+can be seen	42	12	6	185	87	1.35
+it is likely that	43	0	0	39	18	1.31
+such a way that	44	20	9	23	11	1.22
+to carry out	45	16	7	62	29	1.22
+it is possible that	46	1	0	40	19	1.22
+with respect to the	47	13	6	78	37	1.2
+give rise to	48	7	3	41	19	1.18
+carried out by	49	4	2	43	20	1.17
+whether or not the	50	6	3	38	18	1.13
+in the present study	51	0	0	23	11	1.11
+should be noted	52	0	0	38	18	1.07
+be carried out	53	3	1	38	18	1.06
+the other hand the	54	6	3	51	24	1.06
+does not appear	55	3	1	27	13	1.04
+his or her	56	6	3	71	34	1.01
+is not possible to	57	1	0	32	15	0.99
+shown in figure	58	0	0	84	40	0.96
+be used as a	59	1	0	36	17	0.95
+for the purposes of	60	3	1	50	24	0.95
+be regarded as	61	2	1	85	40	0.94
+to ensure that the	62	0	0	37	17	0.93
+allows us to	63	16	7	32	15	0.93
+it has been	64	26	12	168	79	0.92
+little or no	65	6	3	33	16	0.9
+carried out in	66	1	0	53	25	0.9
+to distinguish between	67	2	1	45	21	0.88
+in accordance with	68	12	6	55	26	0.88
+they do not	69	13	6	118	56	0.88
+at this stage	70	14	7	70	33	0.88
+is based on the	71	7	3	47	22	0.88
+shown in table	72	0	0	63	30	0.87
+in the absence of	73	10	5	86	41	0.86
+we have seen	74	11	5	56	26	0.83
+to determine whether	75	4	2	33	16	0.82
+in the context of	76	16	7	121	57	0.79
+a high degree	77	3	1	28	13	0.78
+the difference between the	78	18	8	30	14	0.78
+an increase in the	79	12	6	28	13	0.78
+it is possible	80	12	6	175	83	0.77
+can be achieved	81	0	0	36	17	0.77
+insight into the	82	0	0	34	16	0.77
+can be expressed	83	3	1	49	23	0.75
+we assume that	84	10	5	43	20	0.75
+they did not	85	12	6	56	26	0.73
+there has been	86	18	8	70	33	0.72
+on the part of	87	17	8	66	31	0.7
+in this paper	88	9	4	132	62	0.7
+the purpose of this	89	4	2	28	13	0.7
+less likely to	90	11	5	48	23	0.68
+a large number	91	19	9	49	23	0.67
+can easily be	92	0	0	32	15	0.67
+with regard to	93	9	4	85	40	0.66
+there are several	94	12	6	38	18	0.66
+over a period	95	10	5	30	14	0.66
+in this case the	96	17	8	57	27	0.66
+in conjunction with	97	12	6	48	23	0.65
+at the time of	98	14	7	68	32	0.65
+we do not	99	8	4	81	38	0.64
+has been used	100	8	4	43	20	0.63
+appears to be	101	19	9	113	53	0.63
+to do so	102	49	23	116	55	0.63
+there are no	103	46	21	82	39	0.62
+on the other	104	166	77	311	147	0.62
+has also been	105	3	1	53	25	0.61
+it is worth	106	0	0	42	20	0.61
+can be found	107	2	1	69	33	0.61
+the next section	108	2	1	41	19	0.6
+are a number of	109	12	6	30	14	0.6
+this paper we	110	0	0	34	16	0.6
+be seen as	111	18	8	94	44	0.6
+be related to the	112	3	1	26	12	0.59
+to ensure that	113	11	5	94	44	0.59
+it is important	114	6	3	139	66	0.59
+be explained by	115	0	0	32	15	0.58
+same way as	116	11	5	32	15	0.58
+see for example	117	0	0	42	20	0.58
+the presence of a	118	3	1	50	24	0.58
+that it is not	119	7	3	37	17	0.58
+in some cases	120	40	19	68	32	0.58
+to the fact that	121	21	10	49	23	0.57
+high levels of	122	12	6	35	17	0.56
+most likely to	123	6	3	55	26	0.56
+it appears that	124	13	6	61	29	0.56
+it follows that	125	2	1	65	31	0.55
+can also be	126	13	6	111	52	0.55
+it is clear	127	6	3	83	39	0.54
+by virtue of	128	13	6	54	25	0.54
+the most important	129	46	21	112	53	0.53
+an attempt to	130	25	12	62	29	0.53
+it is impossible	131	2	1	36	17	0.53
+factors such as	132	0	0	29	14	0.53
+is consistent with	133	1	0	61	29	0.53
+total number of	134	5	2	42	20	0.53
+similar to those	135	0	0	47	22	0.52
+as part of the	136	17	8	55	26	0.52
+can be considered	137	0	0	38	18	0.52
+at the outset	138	6	3	24	11	0.51
+in more detail	139	7	3	27	13	0.51
+should not be	140	13	6	108	51	0.51
+could be used	141	9	4	41	19	0.51
+appear to be	142	15	7	99	47	0.5
+as a consequence	143	6	3	50	24	0.5
+in this article	144	6	3	59	28	0.5
+assumed to be	145	3	1	82	39	0.49
+in the form of	146	19	9	98	46	0.48
+as a whole	147	57	26	92	43	0.48
+important role in	148	5	2	28	13	0.47
+it is interesting	149	2	1	38	18	0.46
+does not have	150	20	9	52	25	0.46
+none of these	151	12	6	32	15	0.46
+as shown in	152	1	0	139	66	0.45
+is likely to	153	19	9	169	80	0.45
+this means that	154	13	6	77	36	0.45
+be noted that	155	0	0	45	21	0.45
+be achieved by	156	0	0	28	13	0.45
+depends on the	157	39	18	93	44	0.44
+at least in	158	40	19	75	35	0.44
+a small number	159	9	4	25	12	0.43
+in table 1	160	0	0	62	29	0.43
+in most cases	161	7	3	37	17	0.43
+depending on the	162	30	14	62	29	0.41
+in both cases	163	11	5	36	17	0.41
+the validity of the	164	2	1	39	18	0.41
+small number of	165	10	5	38	18	0.4
+their ability to	166	16	7	40	19	0.4
+need not be	167	1	0	54	25	0.4
+needs to be	168	64	30	96	45	0.4
+have shown that	169	4	2	63	30	0.39
+it is necessary	170	5	2	71	34	0.39
+been shown to	171	5	2	66	31	0.39
+such as those	172	1	0	44	21	0.39
+are as follows	173	1	0	34	16	0.38
+for this purpose	174	3	1	31	15	0.38
+is determined by	175	7	3	48	23	0.38
+it is difficult	176	0	0	57	27	0.37
+even though the	177	18	8	44	21	0.37
+this does not	178	9	4	59	28	0.37
+was based on	179	16	7	40	19	0.37
+the nature of the	180	18	8	91	43	0.37
+in the course of	181	28	13	58	27	0.37
+degree to which	182	3	1	56	26	0.37
+be argued that	183	1	0	36	17	0.36
+in terms of a	184	18	8	32	15	0.36
+for this reason	185	6	3	44	21	0.36
+are based on	186	19	9	50	24	0.36
+in a number of	187	15	7	40	19	0.36
+two types of	188	14	7	45	21	0.34
+the total number	189	8	4	39	18	0.34
+is more likely	190	11	5	41	19	0.34
+which can be	191	14	7	120	57	0.34
+are able to	192	14	7	79	37	0.32
+be considered as	193	0	0	46	22	0.32
+be used to	194	18	8	163	77	0.31
+b and c	195	11	5	37	17	0.31
+depend on the	196	16	7	63	30	0.3
+is that it is	197	7	3	41	19	0.3
+is affected by	198	1	0	24	11	0.3
+should also be	199	4	2	38	18	0.3
+if they are	200	22	10	70	33	0.3

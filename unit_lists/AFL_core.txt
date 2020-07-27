@@ -1,0 +1,208 @@
+#Phrase	#rank	Spoken_Raw freq	Spoken_Freq per million	Written_Raw freq	Written_Freq per million	FTW
+in terms of	1	726	337	597	282	3.53
+at the same time	2	198	92	208	98	2.56
+from the point of view	3	23	11	30	14	2.44
+in order to	4	330	153	540	255	2.35
+as well as	5	147	68	539	255	2.08
+part of the	6	432	201	457	216	1.96
+the fact that	7	383	178	430	203	1.96
+in other words	8	315	146	188	89	1.9
+the point of view of	9	22	10	31	15	1.89
+there is a	10	307	143	472	223	1.72
+as a result of	11	57	26	158	75	1.58
+this is a	12	657	305	160	76	1.57
+on the basis of	13	50	23	174	82	1.5
+a number of	14	190	88	455	215	1.5
+there is no	15	107	50	391	185	1.45
+point of view	16	177	82	128	60	1.41
+the number of	17	171	79	521	246	1.38
+the extent to which	18	21	10	111	52	1.36
+as a result	19	131	61	264	125	1.35
+in the case of	20	68	32	286	135	1.32
+whether or not	21	128	59	172	81	1.31
+the same time	22	207	96	221	104	1.26
+with respect to	23	94	44	220	104	1.26
+point of view of	24	27	13	32	15	1.22
+as a function of	25	40	19	77	36	1.19
+at the same	26	235	109	248	117	1.19
+the point of view	27	36	17	32	15	1.13
+in such a way	28	28	13	41	19	1.11
+the use of	29	58	27	572	270	1.11
+in other words the	30	47	22	39	18	1.08
+in terms of the	31	120	56	142	67	1.07
+more likely to	32	91	42	161	76	1.06
+likely to be	33	79	37	243	115	1.03
+in this case	34	188	87	193	91	1.03
+as opposed to	35	115	53	84	40	1.02
+the way in which	36	59	27	82	39	0.94
+based on the	37	65	30	283	134	0.91
+can be used	38	27	13	189	89	0.87
+the relationship between	39	45	21	159	75	0.87
+it is not	40	71	33	398	188	0.81
+and so on	41	329	153	145	68	0.79
+on the basis	42	52	24	199	94	0.75
+the difference between	43	95	44	80	38	0.74
+it may be	44	96	45	184	87	0.72
+the presence of	45	46	21	276	130	0.7
+in the sense that	46	73	34	47	22	0.7
+a variety of	47	55	26	193	91	0.69
+different types of	48	51	24	59	28	0.69
+extent to which	49	21	10	114	54	0.66
+exactly the same	50	92	43	35	17	0.65
+a series of	51	50	23	184	87	0.63
+in relation to	52	25	12	192	91	0.63
+it can be	53	119	55	206	97	0.63
+the case of	54	84	39	356	168	0.62
+in the case	55	78	36	323	153	0.62
+large number of	56	21	10	75	35	0.62
+that there is a	57	49	23	87	41	0.61
+to some extent	58	56	26	39	18	0.6
+that there is	59	148	69	246	116	0.59
+the real world	60	41	19	38	18	0.57
+is based on	61	37	17	125	59	0.56
+due to the	62	45	21	269	127	0.55
+ways in which	63	49	23	79	37	0.54
+an example of	64	132	61	86	41	0.54
+the fact that the	65	32	15	122	58	0.54
+referred to as	66	24	11	66	31	0.52
+may not be	67	71	33	104	49	0.52
+way in which	68	96	45	114	54	0.51
+it does not	69	28	13	145	68	0.48
+from the point of	70	23	11	31	15	0.47
+the development of	71	57	26	256	121	0.46
+in the same	72	192	89	187	88	0.46
+a result of	73	70	33	182	86	0.46
+the basis of	74	58	27	229	108	0.45
+the role of	75	53	25	257	121	0.43
+there may be	76	57	26	67	32	0.43
+difference between the	77	33	15	70	33	0.42
+between the two	78	71	33	143	68	0.41
+the size of the	79	37	17	67	32	0.41
+the importance of	80	43	20	199	94	0.4
+that there are	81	136	63	134	63	0.39
+as a function	82	41	19	77	36	0.34
+associated with the	83	25	12	115	54	0.31
+the amount of	84	107	50	140	66	0.3
+a function of	85	74	34	128	60	0.29
+as an example	86	24	11	45	21	0.27
+for example if	87	42	20	41	19	0.26
+such as the	88	25	12	223	105	0.26
+based on a	89	35	16	76	36	0.26
+as part of	90	46	21	130	61	0.25
+this is not	91	145	67	132	62	0.25
+in which the	92	58	27	352	166	0.24
+the effect of	93	44	20	232	110	0.24
+in response to	94	30	14	121	57	0.22
+related to the	95	46	21	163	77	0.22
+each of these	96	51	24	70	33	0.21
+the effects of	97	39	18	211	100	0.21
+terms of the	98	125	58	168	79	0.2
+we can see	99	57	26	25	12	0.2
+there are three	100	22	10	31	15	0.2
+for example the	101	37	17	177	84	0.18
+according to the	102	42	20	149	70	0.18
+the existence of	103	31	14	133	63	0.18
+the concept of	104	46	21	149	70	0.18
+in this way	105	37	17	141	67	0.17
+focus on the	106	36	17	60	28	0.16
+the nature of	107	41	19	179	85	0.15
+the context of	108	32	15	189	89	0.15
+a list of	109	67	31	68	32	0.15
+this type of	110	39	18	84	40	0.14
+such a way	111	28	13	41	19	0.13
+the ability to	112	53	25	114	54	0.13
+the idea that	113	126	59	80	38	0.13
+a set of	114	45	21	145	68	0.11
+other words the	115	47	22	39	18	0.11
+parts of the	116	69	32	115	54	0.09
+nature of the	117	38	18	164	77	0.09
+the level of	118	67	31	163	77	0.05
+this would be	119	89	41	39	18	0.05
+is that the	120	252	117	200	94	0.04
+is much more	121	23	11	37	17	0.04
+the same as	122	95	44	85	40	0.04
+to show that	123	48	22	79	37	0.04
+there is an	124	44	20	87	41	0.03
+the notion of	125	39	18	104	49	0.03
+in the sense	126	112	52	81	38	0
+in the context	127	23	11	129	61	0
+the process of	128	80	37	145	68	-0.01
+is not a	129	93	43	171	81	-0.02
+both of these	130	49	23	25	12	-0.03
+for example in	131	24	11	77	36	-0.03
+the part of the	132	28	13	50	24	-0.05
+the size of	133	61	28	98	46	-0.06
+the form of	134	50	23	165	78	-0.06
+the sum of	135	39	18	66	31	-0.08
+the reason for	136	35	16	62	29	-0.09
+a and b	137	35	16	101	48	-0.1
+that this is	138	196	91	69	33	-0.11
+fact that the	139	36	17	133	63	-0.11
+this is an	140	117	54	40	19	-0.12
+because it is	141	48	22	86	41	-0.13
+have the same	142	81	38	48	23	-0.15
+part of a	143	42	20	103	49	-0.18
+the question of	144	52	24	136	64	-0.19
+of these two	145	38	18	43	20	-0.21
+the value of	146	35	16	126	60	-0.21
+assume that the	147	23	11	49	23	-0.21
+size of the	148	40	19	83	39	-0.21
+in such a	149	38	18	97	46	-0.21
+the distribution of	150	22	10	82	39	-0.22
+of the same	151	69	32	149	70	-0.22
+the meaning of	152	21	10	84	40	-0.23
+view of the	153	43	20	108	51	-0.23
+each of the	154	38	18	162	77	-0.24
+which is not	155	45	21	57	27	-0.25
+the issue of	156	35	16	76	36	-0.25
+but this is	157	93	43	51	24	-0.26
+if this is	158	87	40	44	21	-0.27
+the rate of	159	30	14	100	47	-0.27
+that we are	160	64	30	63	30	-0.31
+with the same	161	44	20	52	25	-0.31
+the result of	162	23	11	100	47	-0.31
+the problem of	163	41	19	117	55	-0.31
+is to be	164	35	16	181	85	-0.32
+the study of	165	25	12	124	59	-0.32
+which is the	166	153	71	72	34	-0.33
+the definition of	167	34	16	49	23	-0.33
+here is that	168	81	38	23	11	-0.35
+from the point	169	24	11	34	16	-0.35
+a form of	170	25	12	63	30	-0.36
+the frequency of	171	27	13	54	26	-0.37
+the order of	172	78	36	57	27	-0.37
+the way that	173	124	58	31	15	-0.37
+function of the	174	33	15	74	35	-0.37
+of the two	175	63	29	155	73	-0.39
+different from the	176	28	13	40	19	-0.39
+the structure of	177	31	14	76	36	-0.42
+what are the	178	130	60	27	13	-0.42
+is that it	179	95	44	100	47	-0.42
+the way in	180	65	30	84	40	-0.42
+to use the	181	58	27	88	42	-0.44
+be the case	182	32	15	35	17	-0.45
+means that the	183	28	13	52	25	-0.48
+value of the	184	27	13	71	34	-0.49
+of the system	185	34	16	86	41	-0.5
+of view of	186	28	13	39	18	-0.51
+the work of	187	24	11	107	51	-0.54
+example of a	188	49	23	27	13	-0.54
+is the case	189	29	13	53	25	-0.55
+is that there	190	49	23	40	19	-0.58
+of the second	191	32	15	67	32	-0.58
+the change in	192	32	15	36	17	-0.58
+so that the	193	81	38	120	57	-0.59
+is not the	194	58	27	118	56	-0.6
+the area of	195	23	11	50	24	-0.61
+form of the	196	23	11	63	30	-0.62
+that is the	197	140	65	111	52	-0.63
+and in the	198	116	54	180	85	-0.64
+and the second	199	43	20	34	16	-0.66
+of the fact	200	32	15	49	23	-0.67
+the first is	201	21	10	56	26	-0.7
+that in the	202	132	61	98	46	-0.77
+and the same	203	36	17	35	17	-0.84
+out that the	204	31	14	31	15	-0.91
+the example of	205	30	14	24	11	-0.93
+that in a	206	68	32	28	13	-1.08
+is for the	207	34	16	24	11	-1.29
