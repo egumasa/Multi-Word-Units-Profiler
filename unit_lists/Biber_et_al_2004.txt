@@ -1,0 +1,141 @@
+Lexical bundle	Category	Function	Sub-function	Dimension	Frequency in Classroom teaching	Frequency in Textbooks	Frequency in Conversation	Frequency in Academic prose
+and I don't know 	Stance expression	Epistemic stance	–	Personal	40–99	–	10–19	–
+and I think that 	Stance expression	Epistemic stance	–	Personal	40–99	–	–	–
+I don't know how 	Stance expression	Epistemic stance	–	Personal	40–99	–	40–99	–
+I don't know I 	Stance expression	Epistemic stance	–	Personal	40–99	–	–	–
+I don't know if 	Stance expression	Epistemic stance	–	Personal	40–99	–	40–99	–
+I don't know what 	Stance expression	Epistemic stance	–	Personal	40–99	–	Over 100	–
+I don't know whether 	Stance expression	Epistemic stance	–	Personal	–	–	40–99	–
+I don't know why 	Stance expression	Epistemic stance	–	Personal	–	–	40–99	–
+I don't think so 	Stance expression	Epistemic stance	–	Personal	20–39	–	40–99	–
+I think it was 	Stance expression	Epistemic stance	–	Personal	40–99	–	40–99	–
+I thought it was 	Stance expression	Epistemic stance	–	Personal	20–39	–	40–99	–
+oh I don't know	Stance expression	Epistemic stance	–	Personal	–	–	40–99	–
+well I don't know 	Stance expression	Epistemic stance	–	Personal	–	–	40–99	–
+you know what I 	Stance expression	Epistemic stance	–	Personal	40–99	–	40–99	–
+are more likely to	Stance expression	Epistemic stance	–	Impersonal	–	40–99	–	10–19
+the fact that the	Stance expression	Epistemic stance	–	Impersonal	–	40–99	–	40–99
+and you have to 	Stance expression	Attitudinal/modality stance	Obligation/directive	Personal	40–99	–	10–19	–
+do you want me	Stance expression	Attitudinal/modality stance	Obligation/directive	Personal	–	–	40–99	–
+going to have to 	Stance expression	Attitudinal/modality stance	Obligation/directive	Personal	40–99	–	40–99	–
+I want you to 	Stance expression	Attitudinal/modality stance	Obligation/directive	Personal	Over 100	–	–	–
+you don't have to 	Stance expression	Attitudinal/modality stance	Obligation/directive	Personal	40–99	–	40–99	–
+you don't want to 	Stance expression	Attitudinal/modality stance	Obligation/directive	Personal	40–99	–	40–99	–
+you have to be 	Stance expression	Attitudinal/modality stance	Obligation/directive	Personal	40–99	–	10–19	–
+you have to do 	Stance expression	Attitudinal/modality stance	Obligation/directive	Personal	40–99	–	20–39	–
+you look at the 	Stance expression	Attitudinal/modality stance	Obligation/directive	Personal	40–99	–	–	–
+you might want to 	Stance expression	Attitudinal/modality stance	Obligation/directive	Personal	40–99	–	–	–
+you need to know 	Stance expression	Attitudinal/modality stance	Obligation/directive	Personal	40–99	–	–	–
+you want me to 	Stance expression	Attitudinal/modality stance	Obligation/directive	Personal	–	–	40–99	–
+it is important to	Stance expression	Attitudinal/modality stance	Obligation/directive	Impersonal	–	40–99	–	20–39
+it is necessary to	Stance expression	Attitudinal/modality stance	Obligation/directive	Impersonal	–	–	–	40–99
+and we're going to 	Stance expression	Attitudinal/modality stance	Intention/prediction	Personal	40–99	–	–	–
+are we going to 	Stance expression	Attitudinal/modality stance	Intention/prediction	Personal	20–39	–	40–99	–
+are you going to 	Stance expression	Attitudinal/modality stance	Intention/prediction	Personal	20–39	–	Over 100	–
+I was going to 	Stance expression	Attitudinal/modality stance	Intention/prediction	Personal	20–39	–	Over 100	–
+I'm not going to 	Stance expression	Attitudinal/modality stance	Intention/prediction	Personal	40–99	–	40–99	–
+we're going to do 	Stance expression	Attitudinal/modality stance	Intention/prediction	Personal	40–99	–	–	–
+we're going to have 	Stance expression	Attitudinal/modality stance	Intention/prediction	Personal	40–99	–	20–39	–
+what we're going to 	Stance expression	Attitudinal/modality stance	Intention/prediction	Personal	40–99	–	–	–
+are going to be 	Stance expression	Attitudinal/modality stance	Intention/prediction	Impersonal	40–99	–	–	–
+going to be a 	Stance expression	Attitudinal/modality stance	Intention/prediction	Impersonal	40–99	–	40–99	–
+going to be the	Stance expression	Attitudinal/modality stance	Intention/prediction	Impersonal	40–99	–	–	–
+going to have a	Stance expression	Attitudinal/modality stance	Intention/prediction	Impersonal	20–39	–	40–99	–
+is going to be 	Stance expression	Attitudinal/modality stance	Intention/prediction	Impersonal	Over 100	–	–	–
+it's going to be 	Stance expression	Attitudinal/modality stance	Intention/prediction	Impersonal	40–99	–	40–99	–
+not going to be	Stance expression	Attitudinal/modality stance	Intention/prediction	Impersonal	40–99	–	20–39	–
+do you want a 	Stance expression	Attitudinal/modality stance	Desire	Personal	–	–	40–99	–
+do you want to 	Stance expression	Attitudinal/modality stance	Desire	Personal	20–39	–	Over 100	–
+I don't want to 	Stance expression	Attitudinal/modality stance	Desire	Personal	40–99	–	Over 100	–
+if you want to 	Stance expression	Attitudinal/modality stance	Desire	Personal	Over 100	–	40–99	–
+what do you want	Stance expression	Attitudinal/modality stance	Desire	Personal	–	–	40–99	–
+you want to go 	Stance expression	Attitudinal/modality stance	Desire	Personal	–	–	40–99	–
+to be able to	Stance expression	Attitudinal/modality stance	Ability	Personal	Over 100	10–19	10–19	20–39
+to come up with	Stance expression	Attitudinal/modality stance	Ability	Personal	40–99	–	–	–
+can be used to	Stance expression	Attitudinal/modality stance	Ability	Impersonal	–	40–99	–	20–39
+it is possible to	Stance expression	Attitudinal/modality stance	Ability	Impersonal	–	20–39	–	40–99
+at the same time	Referential expression	Time/place/text reference	Time reference	–	40–99	40–99	20–39	40–99
+at the time of	Referential expression	Time/place/text reference	Time reference	–	10–19	20–39	–	40–99
+as shown in figure	Referential expression	Time/place/text reference	Text deixis	–	–	40–99	–	20–39
+shown in figure 	Referential expression	Time/place/text reference	Text deixis	–	–	40–99	–	20–39
+in the United States	Referential expression	Time/place/text reference	Place reference	–	40–99	Over 100	–	20–39
+of the United States	Referential expression	Time/place/text reference	Place reference	–	20–39	40–99	–	–
+the United States and	Referential expression	Time/place/text reference	Place reference	–	20–39	40–99	–	–
+at the end of	Referential expression	Time/place/text reference	Multi-functional reference	–	40–99	Over 100	40–99	40–99
+in the middle of	Referential expression	Time/place/text reference	Multi-functional reference	–	40–99	20–39	20–39	–
+the beginning of the	Referential expression	Time/place/text reference	Multi-functional reference	–	20–39	40–99	–	20–39
+the end of the	Referential expression	Time/place/text reference	Multi-functional reference	–	40–99	40–99	40–99	40–99
+the top of the	Referential expression	Time/place/text reference	Multi-functional reference	–	20–39	40–99	10–19	10–19
+in the form of	Referential expression	Specification of attributes	Tangible framing attributes	–	10–19	40–99	–	40–99
+the size of the	Referential expression	Specification of attributes	Tangible framing attributes	–	10–19	40–99	–	20–39
+a little bit more 	Referential expression	Specification of attributes	Quantity specification	–	40–99	–	–	–
+a little bit of 	Referential expression	Specification of attributes	Quantity specification	–	40–99	–	–	–
+a lot of people 	Referential expression	Specification of attributes	Quantity specification	–	40–99	–	–	–
+a lot of the 	Referential expression	Specification of attributes	Quantity specification	–	40–99	–	–	–
+a lot of times 	Referential expression	Specification of attributes	Quantity specification	–	40–99	–	–	–
+and a lot of 	Referential expression	Specification of attributes	Quantity specification	–	40–99	–	–	–
+greater than or equal 	Referential expression	Specification of attributes	Quantity specification	–	40–99	–	–	–
+have a lot of 	Referential expression	Specification of attributes	Quantity specification	–	40–99	–	–	–
+how many of you 	Referential expression	Specification of attributes	Quantity specification	–	40–99	–	–	–
+in a lot of 	Referential expression	Specification of attributes	Quantity specification	–	40–99	–	–	–
+per cent of the	Referential expression	Specification of attributes	Quantity specification	–	–	–	–	–
+than or equal to 	Referential expression	Specification of attributes	Quantity specification	–	40–99	10–19	–	–
+the rest of the 	Referential expression	Specification of attributes	Quantity specification	–	40–99	40–99	20–39	20–39
+there's a lot of 	Referential expression	Specification of attributes	Quantity specification	–	40–99	–	20–39	–
+as a result of	Referential expression	Specification of attributes	Intangible framing attributes	–	20–39	40–99	–	40–99
+in terms of the	Referential expression	Specification of attributes	Intangible framing attributes	–	40–99	40–99	–	20–39
+in the absence of	Referential expression	Specification of attributes	Intangible framing attributes	–	–	20–39	–	40–99
+in the case of	Referential expression	Specification of attributes	Intangible framing attributes	–	40–99	40–99	–	Over 100
+in the presence of	Referential expression	Specification of attributes	Intangible framing attributes	–	–	–	–	40–99
+on the basis of	Referential expression	Specification of attributes	Intangible framing attributes	–	10–19	40–99	–	40–99
+the extent to which	Referential expression	Specification of attributes	Intangible framing attributes	–	–	20–39	–	40–99
+the nature of the	Referential expression	Specification of attributes	Intangible framing attributes	–	10–19	40–99	–	40–99
+the way in which	Referential expression	Specification of attributes	Intangible framing attributes	–	20–39	20–39	–	40–99
+what are you doing	Referential expression	Simple inquiry	–	–	–	–	40–99	–
+I said to her	Referential expression	Reporting	–	–	–	–	40–99	–
+I said to him	Referential expression	Reporting	–	–	–	–	40–99	–
+thank you very much	Referential expression	Politeness	–	–	–	–	40–99	–
+and stuff like that	Referential expression	Imprecision	–	–	40–99	–	–	–
+and things like that	Referential expression	Imprecision	–	–	40–99	–	20–39	–
+or something like that	Referential expression	Imprecision	–	–	40–99	–	40–99	–
+and one of the 	Referential expression	Identification/focus	–	–	40–99	–	–	–
+and this is a 	Referential expression	Identification/focus	–	–	40–99	–	–	–
+and this is the 	Referential expression	Identification/focus	–	–	40–99	–	–	–
+is one of the 	Referential expression	Identification/focus	–	–	40–99	40–99	–	20–39
+of the things that	Referential expression	Identification/focus	–	–	Over 100	–	–	–
+one of the most 	Referential expression	Identification/focus	–	–	20–39	–	40–99	40–99
+one of the things 	Referential expression	Identification/focus	–	–	Over 100	–	–	–
+that's one of the 	Referential expression	Identification/focus	–	–	40–99	–	–	–
+those of you who 	Referential expression	Identification/focus	–	–	40–99	–	–	–
+was one of the 	Referential expression	Identification/focus	–	–	40–99	10–19	–	–
+a little bit about 	Discourse organizer	Topic introduction/focus	–	–	40–99	–	–	–
+do you know what	Discourse organizer	Topic introduction/focus	–	–	–	–	40–99	–
+going to talk about 	Discourse organizer	Topic introduction/focus	–	–	40–99	–	–	–
+have a look at 	Discourse organizer	Topic introduction/focus	–	–	–	–	40–99	–
+I tell you what 	Discourse organizer	Topic introduction/focus	–	–	–	–	40–99	–
+I want to do 	Discourse organizer	Topic introduction/focus	–	–	40–99	–	20–39	–
+I would like to 	Discourse organizer	Topic introduction/focus	–	–	20–39	–	40–99	–
+I'll tell you what	Discourse organizer	Topic introduction/focus	–	–	–	–	40–99	–
+if we look at 	Discourse organizer	Topic introduction/focus	–	–	40–99	–	–	–
+if you have a 	Discourse organizer	Topic introduction/focus	–	–	40–99	–	–	–
+if you look at 	Discourse organizer	Topic introduction/focus	–	–	40–99	–	–	–
+in this chapter we 	Discourse organizer	Topic introduction/focus	–	–	–	40–99	–	–
+let's have a look 	Discourse organizer	Topic introduction/focus	–	–	–	–	40–99	–
+take a look at 	Discourse organizer	Topic introduction/focus	–	–	40–99	–	–	–
+to go ahead and 	Discourse organizer	Topic introduction/focus	–	–	40–99	–	–	–
+to look at the 	Discourse organizer	Topic introduction/focus	–	–	40–99	–	–	–
+want to do is 	Discourse organizer	Topic introduction/focus	–	–	40–99	–	–	–
+want to talk about 	Discourse organizer	Topic introduction/focus	–	–	40–99	–	–	–
+what do you think 	Discourse organizer	Topic introduction/focus	–	–	40–99	–	40–99	–
+what I want to 	Discourse organizer	Topic introduction/focus	–	–	40–99	–	10–19	–
+you know if you 	Discourse organizer	Topic introduction/focus	–	–	40–99	–	–	–
+as well as the 	Discourse organizer	Topic elaboration/clarification	–	–	10–19	40–99	–	20–39
+has to do with 	Discourse organizer	Topic elaboration/clarification	–	–	40–99	10–19	–	–
+I mean you know 	Discourse organizer	Topic elaboration/clarification	–	–	40–99	–	10–19	–
+know what I mean	Discourse organizer	Topic elaboration/clarification	–	–	–	–	40–99	–
+nothing to do with 	Discourse organizer	Topic elaboration/clarification	–	–	20–39	10–19	40–99	–
+on the other hand 	Discourse organizer	Topic elaboration/clarification	–	–	40–99	40–99	–	Over 100
+to do with the 	Discourse organizer	Topic elaboration/clarification	–	–	40–99	10–19	10–19	10–19
+was going to say	Discourse organizer	Topic elaboration/clarification	–	–	–	–	40–99	–
+what do you mean	Discourse organizer	Topic elaboration/clarification	–	–	–	–	40–99	–
+you know I mean 	Discourse organizer	Topic elaboration/clarification	–	–	40–99	–	10–19	–

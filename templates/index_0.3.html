@@ -5,7 +5,7 @@
 
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.0/lumen/bootstrap.min.css" integrity="sha384-VMuWne6iwiifi8iEWNZMw8sDatgb6ntBpBIr67q0rZAyOQwfu/VKpnFntQrjxB5W" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.0/flatly/bootstrap.min.css" integrity="sha384-mhpbKVUOPCSocLzx2ElRISIORFRwr1ZbO9bAlowgM5kO7hnpRBe+brVj8NNPUiFs" crossorigin="anonymous">
 <!-- jQuery library -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
@@ -15,10 +15,10 @@
 </head>
 <body>
 
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark ">
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
   <a class="navbar-brand" href="#">MultiWordUnit Profiler (beta version)</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-    <span class="navbar-toggler-icon"></span>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+	<span class="navbar-toggler-icon"></span>
   </button>
 </nav>
 
@@ -27,17 +27,18 @@
 
 	<form method="post" action="/">
     	<p class="text-left pt-3"><strong>STEP 1:</strong> Paste your text in the textbox below.</br>
-    	<textarea class="form-control .col-1-md" rows="10" id = 'input' name = "input_text" rows = "15">{% if res %}{{ res.input_text }}{% endif %}</textarea>
+    	<textarea class="form-control .col-1-md" rows="10" id = 'input' name = "input_text" rows = "15" placeholder="Paste your text here.">{% if res %}{{ res.input_text }}{% endif %}</textarea>
    		</p>
     	<p class = "text-left pt-3"><strong>STEP 2:</strong> Select Multi-word-unit list from the list.</br></p>
     	{% if res %}
     		<span class="text-warning">{{ res.list_select_error }}</span>
     	{% endif %}
     	<p>
-    	<select class="form-control" name = 'mwu_list'>
-        	<option value="">Select a list for analysis</option>
-        	<option value ='AFL_all'>An Academic Formulas list (Simpson-vlach & Ellis, 2010)</option>
+    	<select class="form-control" name = 'mwu_list' require>
         	<option value='PHRASAL'>A Phrasal Expressions List (Martinez & Schmitt, 2012)</option>
+        	<option value ='AFL_all'>An Academic Formulas list (Simpson-vlach & Ellis, 2010)</option>
+        	<option value='Biber_2004'>Lexical Bundles in University language (Biber et al., 2004)</option>
+
     	</select>
     	</p>
     	<script type="text/javascript">
@@ -67,19 +68,25 @@
 {% if res %}
 <p> </p>
 <div class="container-md">
-  <h3 class = "text-center">List of Multi-Word Units</h2>
+  <h3 class = "text-center">List of Multi-Word Expressions</h2>
   <p></p>            
   <table class="table table-striped">
     <thead>
       <tr>
-        <th>Expression</th>
-        <th>Lastname</th>
-        <th>Email</th>
+      	{% for col in res.header %}
+        	<th>{{ col }}</th>
+        {% endfor %}
       </tr>
     </thead>
     <tbody>
-      <tr>
-      </tr>
+    	{% for key in res.example %}
+        <tr>
+        	<td> {{ key }} </td>
+      		{% for col in res.header[1:] %}
+      		<td>{{ res.example[key][col] }}</td>
+      		{% endfor %}
+        </tr>
+        {% endfor %}
     </tbody>
   </table>
 </div>

@@ -1,4 +1,4 @@
-#Phrase	band	#rank	Spoken_Raw freq	Spoken_Freq per million	Written_Raw freq	Written_Freq per million	FTW
+#Phrase	Sub-list	#rank	Spoken_Raw freq	Spoken Frequency <br>(per million words)	Written_Raw freq	Written Frequency <br>(per million words)	FTW
 in terms of	Core	1	726	337	597	282	3.53
 at the same time	Core	2	198	92	208	98	2.56
 from the point of view	Core	3	23	11	30	14	2.44
@@ -431,7 +431,7 @@ we were talking about	Spoken	22	49	23	0	0	1.65
 in ann arbor	Spoken	23	41	19	0	0	1.62
 it turns out that	Spoken	24	52	24	9	4	1.61
 you need to	Spoken	25	391	182	1	0	1.61
-see what I’m saying	Spoken	26	36	17	0	0	1.6
+see what I�m saying	Spoken	26	36	17	0	0	1.6
 take a look at	Spoken	27	67	31	3	1	1.58
 you have a	Spoken	28	463	215	8	4	1.57
 might be able to	Spoken	29	43	20	12	6	1.56
@@ -442,7 +442,7 @@ nothing to do with	Spoken	33	48	22	19	9	1.43
 know what I mean	Spoken	34	140	65	7	3	1.42
 you look at	Spoken	35	296	137	3	1	1.42
 university of michigan	Spoken	36	95	44	1	0	1.42
-what I’m talking about	Spoken	37	29	13	0	0	1.41
+what I�m talking about	Spoken	37	29	13	0	0	1.41
 the same thing	Spoken	38	263	122	17	8	1.35
 to look at	Spoken	39	281	131	42	20	1.34
 the end of	Spoken	40	340	158	232	110	1.33
@@ -494,7 +494,7 @@ you can see that	Spoken	85	96	45	1	0	0.96
 I have a question	Spoken	86	67	31	0	0	0.96
 it has to be	Spoken	87	80	37	13	6	0.93
 we need to	Spoken	88	220	102	64	30	0.92
-what I’m saying	Spoken	89	125	58	0	0	0.92
+what I�m saying	Spoken	89	125	58	0	0	0.92
 you want me to	Spoken	90	47	22	1	0	0.92
 all sorts of	Spoken	91	107	50	2	1	0.91
 as you can see	Spoken	92	44	20	0	0	0.9
@@ -523,7 +523,7 @@ and you can	Spoken	114	306	142	6	3	0.79
 looking at the	Spoken	115	180	84	25	12	0.79
 we're gonna talk	Spoken	116	49	23	0	0	0.79
 go back to the	Spoken	117	48	22	9	4	0.79
-you know what I’m	Spoken	118	52	24	0	0	0.76
+you know what I�m	Spoken	118	52	24	0	0	0.76
 that you can	Spoken	119	292	136	2	1	0.76
 we're looking at	Spoken	120	56	26	0	0	0.76
 what I mean	Spoken	121	219	102	12	6	0.74
@@ -541,7 +541,7 @@ might be able	Spoken	132	44	20	12	6	0.7
 trying to figure	Spoken	133	44	20	2	1	0.7
 what you're saying	Spoken	134	86	40	1	0	0.67
 we have to	Spoken	135	252	117	43	20	0.67
-I’m talking about	Spoken	136	68	32	0	0	0.67
+I�m talking about	Spoken	136	68	32	0	0	0.67
 so you can	Spoken	137	245	114	1	0	0.66
 this kind of	Spoken	138	205	95	49	23	0.65
 don't worry about	Spoken	139	29	13	0	0	0.65
@@ -561,14 +561,14 @@ talk about the	Spoken	152	160	74	5	2	0.59
 it might be	Spoken	153	138	64	76	36	0.59
 for those of you	Spoken	154	49	23	0	0	0.59
 to do with the	Spoken	155	93	43	39	18	0.59
-I’m not gonna	Spoken	156	97	45	0	0	0.58
+I�m not gonna	Spoken	156	97	45	0	0	0.58
 was talking about	Spoken	157	82	38	1	0	0.58
 have to do with	Spoken	158	42	20	5	2	0.58
 tell me what	Spoken	159	53	25	2	1	0.57
 look at this	Spoken	160	123	57	3	1	0.57
 in a sense	Spoken	161	160	74	32	15	0.56
 okay I don't know	Spoken	162	31	14	0	0	0.56
-I’ll talk about	Spoken	163	31	14	0	0	0.56
+I�ll talk about	Spoken	163	31	14	0	0	0.56
 you need to do	Spoken	164	33	15	0	0	0.56
 do you want	Spoken	165	149	69	6	3	0.55
 we talk about	Spoken	166	89	41	1	0	0.54
@@ -582,7 +582,7 @@ we looked at	Spoken	173	48	22	6	3	0.51
 if you wanna	Spoken	174	138	64	0	0	0.51
 take a look	Spoken	175	89	41	3	1	0.5
 if you were to	Spoken	176	47	22	0	0	0.5
-I’ll show you	Spoken	177	45	21	0	0	0.49
+I�ll show you	Spoken	177	45	21	0	0	0.49
 talking about the	Spoken	178	137	64	6	3	0.49
 that make sense	Spoken	179	67	31	2	1	0.49
 this is this is	Spoken	180	84	39	0	0	0.48
@@ -600,7 +600,7 @@ we look at	Spoken	191	93	43	15	7	0.45
 I think this is	Spoken	192	57	26	1	0	0.45
 but if you	Spoken	193	203	94	5	2	0.45
 at some point	Spoken	194	51	24	15	7	0.44
-I’m gonna go	Spoken	195	51	24	0	0	0.44
+I�m gonna go	Spoken	195	51	24	0	0	0.44
 thank you very	Spoken	196	59	27	1	0	0.43
 can look at	Spoken	197	74	34	1	0	0.43
 what happens is	Spoken	198	86	40	0	0	0.43

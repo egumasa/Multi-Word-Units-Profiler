@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% block head %}
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        {% block styles %}
+            <!-- Bootstrap CSS -->
+            {{ bootstrap.load_css() }}
+        {% endblock %}
+
+        <title>Your page title</title>
+        {% endblock %}
+    </head>
+    <body>
+        <!-- Your page content -->
+        {% block content %}
+        
+        <form method="post" action="/">
+    	<p>Paste your text here：</br>
+    	<textarea id = 'input' name = "input_text" rows = "15">{% if res %}{{ res.input_text }}{% endif %}</textarea>
+    	</p>
+    	<p>Select Multi-word-unit list below：</br>
+    {% if res %}
+    		<span style='color:red'>{{ res.list_select_error }}</span>
+    	{% endif %}
+    	<select name = 'mwu_list'>
+        	<option value="">Select a list for analysis</option>
+        	<option value ='AFL_all'>An Academic Formulas list (Simpson-vlach & Ellis, 2010)</option>
+        	<option value='PHRASAL'>A Phrasal Expressions List (Martinez & Schmitt, 2012)</option>
+    	</select>
+    	</p>
+    
+    <button type="submit" name='submit_button'>Analyze</button>
+</form>
+
+{% if res %}
+<h3>Annotated Output</h3>
+	<p>Useful chunks based on <bold>{{ res.selected_list }}</bold> are highlighted.
+	</p>
+	<div>
+	{{res.output }}
+	</div>
+
+        
+        {% endblock %}
+
+
+
+        {% block scripts %}
+            <!-- Optional JavaScript -->
+            {{ bootstrap.load_js() }}
+                <script type="text/javascript">
+  document.getElementById('mwu_list').value = "<?php echo $_GET['mwu_list'];?>";
+			</script>
+        {% endblock %}
+    </body>
+</html>
+
+
+
+
+
+{% endblock %}

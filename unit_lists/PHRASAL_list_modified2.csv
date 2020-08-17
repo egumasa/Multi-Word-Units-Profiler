@@ -1,536 +1,536 @@
-phrase,band,rank,frequency,band_spoken_general,band_written_general,band_written_academic,example
-HAVE TO,1,107,83092,1,1,2,I exercise because I have to.
-THERE IS,1,165,59833,1,1,1,There are some problems.
-THERE ARE,1,165,59833,1,1,1,There are some problems.
-SUCH AS,1,415,30857,2,1,1,"We have questions, such as how it happened."
-GOING TO,1,463,28259,1,1,0,I’m going to think about it.
-OF COURSE,1,483,26966,1,1,3,He said he’d come of course.
-A FEW,1,489,26451,1,1,2,"After a few drinks, she started to dance."
-AT LEAST,1,518,25034,1,1,1,"Well, you could email me at least."
-SUCH A,1,551,23894,1,1,2,She had such a strange sense of humor. 
-SUCH AN,1,551,23894,1,1,2,She had such a strange sense of humor. 
-I MEAN,1,556,23616,1,0,0,"It’s fine, but, I mean, is it worth the price?"
-A LOT,1,598,22332,1,2,0,They go camping a lot in the summer.
-RATHER THAN,1,631,21085,1,1,1,"Children, rather than adults, tend to learn quickly."
-SO THAT,1,635,20966,1,1,2,Park it so that the wheels are curbed.
-A LITTLE,1,655,20296,1,1,2,I like to work out a little before dinner.
-A BIT,1,674,19618,1,1,0,There was a bit of drama today at the office.
-A BIT OF,1,674,19618,1,1,0,There was a bit of drama today at the office.
-AS WELL AS,1,717,18041,1,1,1,She jogs as well as swims. 
-IN FACT,1,803,15983,1,1,1,"The researchers tried several approaches, in fact."
-LIKELY TO,1,807,15854,1,1,1,"To be honest, I’m likely to forget."
-GO ON,1,825,15610,1,1,2,He went on for a while before stopping for lunch.
-IS TO ,1,845,15232,0,1,0,Obama is to address the media this afternoon.
-A NUMBER OF,1,854,15090,1,1,1,A number of concerns were raised.
-AT ALL,1,879,14650,1,1,1,Do you have any kids at all?
-AS IF,1,888,14470,1,1,0,They walked together as if no time had passed.
-USED TO,1,892,14411,1,2,0,It used to snow much more often.
-WAS TO ,1,894,14366,0,1,1,The message was to be transmitted worldwide.
-NOT ONLY,1,908,14110,1,1,1,"Not only was it cheap, it was delicious."
-THOSE WHO,1,913,13951,0,1,1,He would defend those who had no voice.
-DEAL WITH,1,934,13634,1,1,1,The police had several issues to deal with.
-LEAD TO,1,939,13555,2,1,1,Excessive smoking can lead to heart disease.
-SORT OF,1,951,13361,1,0,0,It’s sort of why I’m here.
-THE FOLLOWING,1,974,12963,0,2,1,He made the following remarks.
-IN ORDER TO,1,984,12762,1,1,1,We shared a room in order to reduce costs
-HAVE GOT,1,988,12734,1,2,0,I don’t know what he has got planned.
-HAVE GOT TO,2,1033,12270,1,1,0,You have got to try this salad.
-SET UP,2,1079,11560,1,1,1,The whole thing was set up beforehand.
-AS TO,2,1082,11535,2,1,1,There was some confusion as to its whereabouts.
-AS WELL,2,1083,11519,1,1,1,I like it as well.
-BASED ON,2,1088,11440,1,1,1,"Based on the reports, it seems it was an accident."
-CARRY OUT,2,1146,10753,2,1,1,It was not as easy to carry out without funding.
-TAKE PLACE,2,1169,10556,1,1,1,No one was sure exactly why it took place there.
-TEND TO,2,1175,10504,1,1,1,I tend to think it’s actually a political matter.
-DUE TO,2,1183,10454,1,1,1,Many people believe it is due to global warming.
-FAIL TO,2,1204,10263,1,1,1,I fail to see the humor in all this.
-EACH OTHER,2,1209,10160,1,1,2,The good thing is that they still have each other.
-IN TERMS OF,2,1234,9881,1,1,1,"What is your limit, in terms of price?"
-NO ONE,2,1262,9597,1,1,2,I will speak to no one about this.
-PICK UP,2,1299,9252,1,1,0,She dropped by to pick up her friend.
-UP TO,2,1352,8733,1,1,1,Up to twenty people may be interviewed for the job.
-A SINGLE,2,1356,8710,1,1,2,Not a single idea emerged from the meeting.
-NO LONGER,2,1371,8556,1,1,1,"Fortunately, it is no longer a concern now."
-LOOK FOR,2,1387,8377,1,1,2,Bargains can be found if you know what to look for.
-LAST NIGHT,2,1427,7992,1,2,0,What did he say last night?
-AS A RESULT,2,1438,7939,2,1,1,He was tired and as a result not very aware.
-IN ADDITION,2,1453,7822,1,1,1,The house was well located in addition.
-IN ADDITION TO,2,1453,7822,1,1,1,The house was well located in addition.
-WORK ON,2,1487,7600,1,1,2,That kid needs to work on his attitude.
-THINK ABOUT,2,1517,7243,1,1,0,I’m thinking about changing careers.
-FOR INSTANCE,2,1529,7138,2,1,1,That holds true for even the governor for instance.
-TOO MUCH,2,1530,7123,1,1,2,I don’t worry about it too much.
-YOU SEE,2,1532,7102,1,0,0,And the problem you see is with awareness-raising.
-IN PARTICULAR,2,1533,7092,2,1,1,There’s nothing in particular wrong with it.
-A COUPLE OF,2,1542,7007,1,1,0,They need a couple of minutes still.
-INSTEAD OF,2,1556,6907,1,1,1,He can go instead of me.
-COME BACK,2,1573,6772,1,1,1,But we can come back to that later.
-LOOK LIKE,2,1591,6595,1,1,0,It’s not what it looks like.
-FIND OUT,2,1605,6499,1,1,1,How did you find out?
-POINT OUT,2,1638,6325,1,1,1,She pointed out that it was getting late.
-APART FROM,2,1647,6287,1,1,1,"Are there any others, apart from him?"
-CALL FOR,2,1657,6243,2,1,1,Hard times call for tough measures.
-MANAGE TO,2,1661,6234,1,1,1,Did you manage to get in touch at all?
-OR TWO,2,1667,6192,1,1,2,"He had a thing or two to drink, then left."
-A FURTHER,2,1681,6121,3,1,1,It’s a further reason to reconsider the project.
-COME OUT,2,1696,6031,1,1,1,It’s supposed to come out on Friday.
-BE EXPECTED TO,2,1713,5964,1,1,1,They can’t be expected to just sit there and wait.
-SEEK TO,2,1716,5937,2,1,1,The new board sought to find alternative solutions.
-GO THROUGH,2,1733,5857,1,1,1,You can’t imagine what I’m going through.
-LONG TERM,2,1740,5831,1,1,1,"It seems to work, but what of the long term effects?"
-RESULT IN,2,1759,5763,2,1,1,Excessive criticism resulted in feelings of animosity.
-THAT IS (REPHRASING),2,1764,5737,1,1,1,"It’s yours, as long as you pay that is."
-EVEN THOUGH,2,1778,5664,1,1,1,I can’t even though it looks easy enough.
-A RANGE OF,2,1779,5651,1,1,1,"Eventually, a range of events changed that."
-THE LATTER,2,1815,5519,0,1,1,The latter may still be a challenge.
-MAKE SURE,2,1818,5510,1,1,1,I had to make sure before I opened the door.
-TAKE OVER,2,1843,5394,1,1,1,You can’t just let the kids take over.
-CONSIST OF,2,1850,5362,2,1,1,What does it consist of?
-AS SOON AS,2,1861,5323,1,1,1,As soon as he can he will call you back.
-AT THE TIME,2,1873,5282,1,1,1,I was busy at the time.
-ON THE OTHER HAND,2,1877,5267,1,1,1,"On the other hand, the business did make a profit."
-ON ONE'S OWN,2,1886,5240,1,1,2,You did this on your own?
-ALL RIGHT,2,1894,5230,1,1,0,If it’s all right I think I’ll head off to bed.
-SUBJECT TO,2,1900,5218,0,2,1,All baggage is subject to inspection.
-AFTER ALL,2,1904,5197,1,1,2,"He is only six years old, after all."
-IN FRONT OF,2,1908,5190,1,1,1,She did not want to say anything in front of the kids.
-TO DO WITH,2,1910,5184,1,2,1,I think it has something to do with physics.
-GO OUT,2,1912,5173,1,1,3,Brochures went out to prospective buyers.
-A GREAT DEAL,2,1920,5126,1,1,2,She means a great deal to me.
-A GOOD DEAL,2,1920,5126,1,1,2,She means a great deal to me.
-ON THE WAY,2,1929,5085,1,1,2,We can stop for lunch on the way.
-AS LONG AS,2,1931,5084,1,1,2,It makes no difference as long as it’s done.
-SO FAR,2,1951,5018,1,1,1,Any questions so far?
-OUGHT TO,2,1958,5002,1,2,0,She hasn’t but she ought to.
-AT THE MOMENT,2,1959,5001,1,1,1,They have a lot going on at the moment.
-AS THOUGH,2,1967,4988,2,1,1,"He smiled then, as though remembering a joke."
-COME TO,2,1970,4970,1,1,2,We came to see it for what it was.
-ALONG WITH,2,1974,4948,1,1,1,"Along with his dog, the cat slowly stopped eating."
-MAY WELL,2,1982,4931,1,1,1,He hasn’t yet but may well try before long.
-GET OUT,2,2001,4858,1,1,0,There was no way to get out of work that Friday.
-FOLLOWED BY,2,2013,4816,2,1,1,The workshop will be followed by time for questions.
-IN THAT,2,2018,4805,1,1,1,It’s great in that there are so many restaurants.
-IN THE SENSE THAT,2,2018,4805,1,1,1,It’s great in that there are so many restaurants.
-THE CASE,2,2022,4794,1,1,1,It’s not the case that I don’t love him.
-TAKE UP,2,2038,4717,1,1,3,I don’t wish to take up more time than is necessary.
-ACCOUNT FOR,2,2060,4642,2,1,1,They’ll need to account for their actions.
-SET OUT,2,2064,4624,2,1,1,She accomplished what she set out to do.
-AS FAR AS,2,2067,4619,1,1,1,"What are you thinking, as far as feasibility on this?"
-CONCERNED WITH,2,2068,4619,2,1,1,They spoke on issues concerned with culture.
-ABOUT TO,2,2075,4600,1,1,2,Things were about to change.
-SUPPOSED TO,2,2086,4586,1,1,1,"I didn’t go, but I was supposed to."
-AND SO ON,2,2087,4584,1,1,1,"My parents arrived, then John, his wife, and so on."
-COME ON,2,2105,4519,1,2,0,"Come on, think about it!"
-TAKE ON,3,2124,4451,1,1,2,You’d better think twice before taking on more work.
-WORK OUT,3,2131,4432,1,1,1,I’m trying to work out what it stands for.
-ALL OVER,3,2135,4420,1,1,2,The news was all over the web.
-OTHER THAN,3,2149,4380,1,1,1,No one other than you could have come up with it.
-OUT OF,3,2156,4361,2,1,1,"In terms of colour, three out of five were silver."
-TURN OUT,3,2157,4354,1,1,1,How did it turn out?
-LOOK AFTER,3,2164,4332,1,1,0,She did more than just look after the finances.
-AT LAST,3,2173,4306,1,1,2,At last we met over coffee last week.
-A VARIETY OF,3,2179,4283,1,1,1,And a variety of issues seemed to stall the process.
-AT FIRST,3,2180,4275,1,1,1,"Not at first, but just the other day there was one."
-OR SO,3,2216,4164,1,1,1,A day or so later he called me back on my mobile.
-IN FAVOUR,3,2231,4073,1,1,1,I don’t know about you but I’m in favour. 
-GIVE UP,3,2258,3997,1,1,2,You can’t just give up.
-GET TO,3,2263,3979,1,1,2,When he got to the end he started to weep.
-FIND ONESELF,3,2280,3917,1,1,2,I found myself driving home.
-GET UP,3,2298,3857,1,1,0,It was easy getting up but the commute was awful.
-CARRY ON,3,2345,3759,1,1,1,He could simply not carry on.
-GO BACK,3,2361,3722,1,1,1,If I could I’d go back and do it all over again.
-FOCUS ON,3,2371,3703,1,1,1,But today I’d like to focus on something different.
-AT ONCE,3,2379,3684,1,1,1,I did it at once.
-IT TAKES,3,2384,3670,1,1,1,No matter what it takes.
-GET OFF,3,2388,3656,1,1,0,We waited for hours in the queue to get on.
-GET ON,3,2388,3656,1,1,0,We waited for hours in the queue to get on.
-AS A WHOLE,3,2404,3615,1,1,1,As a whole it’s OK.
-IN PRACTICE,3,2407,3609,2,1,1,There was nothing she could do in practice.
-BY THE TIME,3,2408,3607,1,1,2,By the time dinner started there were none left.
-LOTS OF,3,2409,3605,1,1,0,Lots of them do travel during the winter months.
-SAID TO BE,3,2417,3586,0,1,2,The priest was said to be missing.
-IN TIME,3,2425,3566,1,1,1,You will in time.
-IN TURN,3,2429,3558,2,1,1,The supermarket in turn will donate seven thousand.
-ONCE AGAIN,3,2437,3532,1,1,1,"Once again, this was completely unforeseen. "
-ALL THE TIME,3,2439,3527,1,1,2,I go there all the time.
-ON THE BASIS OF,3,2442,3515,2,1,1,She came on the basis that it would help her.
-ON THE BASIS,3,2442,3515,2,1,1,She came on the basis that it would help her.
-KIND OF,3,2445,3510,1,2,0,The windows are kind of fogged up.
-GET INTO,3,2446,3508,1,1,2,I really got into what he was talking about.
-RELY ON,3,2454,3488,1,1,1,He has no one else to rely on.
-GO FOR,3,2483,3421,1,2,0,I could really go for a hamburger right now.
-AIM TO,3,2484,3415,2,1,1,They aim to complete the project by the spring.
-MAKE UP,3,2498,3394,2,1,1,Hispanics make up a large part of the population.
-APPEAL TO,3,2531,3299,1,1,1,It appeals to younger learners.
-END UP,3,2536,3285,1,1,1,We ended up going anyway.
-SHAKE ONE’S HEAD,3,2548,3250,2,1,0,He just shook his head and laughed.
-NO MORE THAN,3,2557,3226,2,1,1,No more than five of them had auto insurance.
-GET BACK,3,2575,3178,1,1,2,What time will we get back?
-WHAT ABOUT,3,2584,3160,1,1,2,But what about tomorrow?
-IN OTHER WORDS,3,2586,3159,1,1,1,The groups are in other words conservative.
-AS FOR,3,2588,3157,1,1,1,"As for the promotion, there may be other options."
-NOT EVEN,3,2599,3128,1,1,1,"No one cared, not even when they saw the photos."
-ENTITLED TO,3,2606,3113,2,1,1,You’re entitled to your opinion.
-PRIOR TO,3,2608,3110,2,1,1,"Prior to the event, the organizers called the band."
-CHOOSE TO,3,2616,3099,1,1,1,You may choose to believe what the papers say.
-SOMETHING LIKE,3,2622,3092,1,2,0,She makes something like five grand a month.
-KNOWN TO,3,2624,3091,0,1,1,He’s known to be like that.
-IN TOUCH,3,2636,3060,1,1,2,Are you two at all in touch?
-IN THE END,3,2637,3050,1,1,1,In the end it’s like what they say about horses.
-IN THE WAY,3,2654,3013,1,1,0,I won’t stand in the way.
-CARE FOR,3,2657,3004,1,1,1,He doesn’t care for it very much in his tea.
-IN THE EVENT,3,2658,2998,0,1,1,"In the event you change your mind, let me know."
-IN THE EVENT OF,3,2658,2998,0,1,1,"In the event you change your mind, let me know."
-THEY SAY,3,2675,2962,1,2,0,They say it tastes like chicken.
-SO CALLED,3,2688,2944,1,1,1,Any so called rumors are as easily their fault.
-TAKE INTO ACCOUNT,3,2702,2921,2,1,1,You must also take into account the rush hour.
-IN RESPECT OF,3,2709,2909,0,1,1,There was nothing in respect of drink.
-OUT OF,3,2711,2907,1,1,1,The walls are made out of wood.
-AT THE SAME TIME,3,2719,2892,1,1,1,At the same time it may be worth it.
-NEXT TO,3,2724,2882,1,1,2,"Next to his sister, he was the best looking of them."
-TURN UP,3,2734,2865,1,2,0,The money turned up later.
-POINT OF VIEW,3,2735,2864,1,1,1,They all had a different point of view.
-AT PRESENT,3,2744,2847,3,1,1,There’s nothing to do at present.
-USED TO ,3,2752,2831,1,1,2,It may take a while to get used to.
-WHETHER OR NOT,3,2759,2824,2,1,1,It depends on whether or not he comes on time.
-IN PLACE,3,2767,2805,2,1,1,There are systems in place to handle that.
-NO DOUBT,3,2776,2791,2,1,2,She can and will no doubt improve over time.
-FULL TIME,3,2785,2761,1,1,2,I’m a full time fan of his music.
-SORT OUT,3,2817,2696,1,1,1,They managed to sort out everything on their own.
-IN A WAY,3,2823,2684,1,1,2,It’s funny in a way.
-OR SOMETHING,3,2826,2683,1,2,0,The sales clerk seemed distracted or something.
-ON BEHALF OF,3,2827,2679,0,2,1,I’d like to apologize on behalf of the committee. 
-OVER THERE,3,2828,2678,1,2,0,He put it way over there.
-IN SPITE OF,3,2829,2676,2,1,1,In spite of all the work there were few alterations.
-THAT'S IT,3,2831,2674,1,3,0,"That’s it for today, I’m afraid."
-IN PART,3,2848,2652,0,1,1,It is in part the reason people come here.
-OH NO,3,2857,2642,1,0,0,Oh no not again.
-IN MIND,3,2859,2638,1,1,1,Do you have anything special in mind?
-WITH REGARD TO,3,2863,2630,2,1,1,There was some confusion with regard to payment.
-REGARD TO,3,2863,2630,2,1,1,There was some confusion with regard to payment.
-ONE ANOTHER,3,2868,2623,2,1,2,They looked at one another for a few minutes.
-AS FOLLOWS,3,2871,2620,0,1,1,The plan is as follows.
-THE ABOVE,3,2879,2608,0,1,1,The above only underscores strength of the data.
-TO DATE,3,2888,2600,2,1,1,To date there have been over nine instances.
-GO INTO,3,2892,2595,1,1,2,I won’t go into what he said.
-TOO MANY,3,2898,2587,1,1,1,"You don’t see too many like that one, I’ll tell you."
-IN THE COURSE OF,3,2899,2585,2,1,1,In the course of the discussion the manager left.
-MORE OR LESS,3,2903,2579,1,1,1,It’s more or less what we imagined I suppose.
-SHORT TERM,3,2906,2574,1,1,1,There are many short term gains to be had.
-AIMED AT,3,2907,2573,2,1,1,The study is aimed at exploring how people use it.
-GO OFF,3,2919,2551,2,1,0,She went off without even saying goodbye.
-IN CASE,3,2926,2536,1,1,1,"In case you’re wondering, this isn’t my natural color."
-OUT THERE,3,2941,2513,1,1,0,There are simply no jobs out there right now.
-LED BY,3,2942,2511,0,1,1,He was led by his competitive drive above all.
-MORE AND MORE,3,2967,2468,1,1,1,More and more it’s about the customer.
-HAVE A LOOK,3,2970,2464,1,2,0,Why don’t you have a look?
-BELIEVE IN,3,2981,2450,1,1,0,I don’t believe in corporal punishment.
-PUT IT,3,2983,2449,1,1,2,"There’s no better way to put it, I think."
-THESE DAYS,3,2992,2440,1,1,2,It’s what these days the media call ‘viral’.
-IN CHARGE,3,2999,2432,1,1,1,He was able to stay in charge while she was away.
-FEEL LIKE,3,3000,2431,1,2,0,I feel like eating out.
-UP TO,3,3016,2409,1,1,1,I walked up to the window and paused.
-HEARD OF,3,3022,2403,1,1,2,Haven’t you ever heard of manners?
-TAKE PART IN,3,3044,2374,2,1,1,It’s something we all wanted to take part in.
-IN SO FAR AS,3,3059,2344,2,1,1,The plan was fine in so far as time and transport.
-PART TIME,3,3061,2343,1,1,2,She can take it on part time.
-LOOK FORWARD TO,3,3067,2331,1,1,0,It’s something we can all look forward to.
-AS SUCH,3,3094,2290,2,1,1,The film was not a horror as such.
-BOUND TO,3,3104,2278,1,1,1,It’s bound to be better next time.
-TURN ON,3,3113,2266,1,1,2,It won’t turn on.
-SET TO,3,3121,2258,1,1,2,He’s set to arrive today.
-MOVE ON,3,3134,2245,1,1,2,I’d like to move on if I may.
-IN CONTRAST TO,3,3149,2229,2,1,1,The inside was amazing in contrast.
-IN CONTRAST,3,3149,2229,2,1,1,The inside was amazing in contrast.
-THIS STAGE,3,3152,2223,1,1,1,We can’t at this stage.
-ALL BUT,3,3157,2214,1,1,3,She all but sent him chocolates and flowers.
-ABOVE ALL,3,3160,2212,1,1,1,It is above all what people care most about.
-RID OF,3,3162,2212,1,1,2,She was happy to be rid of it.
-IN ANY CASE,3,3197,2159,1,1,1,It’s not due till tomorrow in any case.
-THANKS TO,3,3199,2159,1,1,1,And it’s thanks to her research that we know that.
-GO AWAY,3,3205,2150,1,1,2,The problem won’t just go away.
-ONCE MORE,3,3207,2146,1,1,1,I call on you once more my fellow citizens.
-OH WELL,3,3220,2129,1,0,0,It was due yesterday? Oh well.
-FOLLOW UP,3,3222,2128,2,1,1,I’d like to follow up on what that gentleman said.
-WOULD SAY,3,3224,2128,1,1,1,"I don’t know, but I would say at least twenty."
-FOUND TO,3,3235,2104,0,1,1,It was found to be of little use in battle.
-MEANT TO,3,3240,2098,1,1,1,I haven’t seen it but it’s meant to be his best so far.
-HANG ON,4,3263,2074,1,1,0,If you can hang on for just a second.
-TURN INTO,4,3265,2072,1,1,2,The idea turned into something amazing.
-SOMETHING ABOUT,4,3268,2071,1,1,0,There’s something about her I find interesting.
-BY NOW,4,3295,2044,1,1,2,I thought they’d be here by now.
-THINK SO,4,3308,2033,1,2,2,Do you think so?
-GO AHEAD,4,3320,2023,1,1,2,Why don’t you go ahead and call him again?
-BRING ABOUT,4,3322,2022,0,1,1,It was expected that he would bring about change.
-HAD BETTER,4,3323,2022,1,1,2,They had better listen.
-IN ACCORDANCE WITH,4,3327,2017,0,1,1,The plan was execute in accordance with municipal guidelines.
-CALL ON,4,3328,2016,2,1,2,He called on his members of staff for advice.
-AT TIMES,4,3331,2014,1,1,1,It can be slightly frustrating at times.
-ALL THE WAY,4,3340,2007,1,1,1,I’m with you all the way.
-IN EFFECT,4,3349,1995,1,1,1,In effect it was like being in space.
-AFFORD TO,4,3355,1989,1,1,2,It’s something you can’t afford to miss.
-SIGHT OF,4,3357,1988,1,1,1,"I can’t stand the sight of it, to tell you the truth."
-IN ADVANCE,4,3362,1983,1,1,1,It’s something you should do in advance.
-ON THE PART OF,4,3379,1965,2,1,1,There are no barriers on the part of the government.
-BRING UP,4,3387,1958,1,1,1,Did you manage to bring up the holiday pay?
-TAKE OFF,4,3388,1957,1,1,2,I was hungry by the time we took off.
-SO AS TO,4,3390,1954,1,1,1,He cluttered his desk so as to appear busy.
-TAKE ADVANTAGE,4,3396,1949,1,1,1,Some people just want to take advantage.
-SHORT OF,4,3399,1944,2,1,1,"Short of calling the doctor, I don’t know what to do."
-OVER THE YEARS,4,3402,1942,1,1,1,She has over the years visited many cities.
-SWITCH ON,4,3406,1935,1,1,2,It’s plugged in but it won’t switch on.
-BY NO MEANS,4,3417,1925,1,1,1,We have by no means concluded the matter.
-COULD HARDLY,4,3431,1911,1,1,2,I could hardly wait for the weekend.
-COME UP WITH,4,3446,1898,1,1,2,Is that the best you could come up with?
-IN QUESTION,4,3448,1898,0,2,1,The book in question was published last year.
-IN THE FIRST PLACE,4,3450,1897,1,1,1,He couldn’t see how it got there in the first place.
-PROVE TO BE,4,3456,1893,2,1,1,The bicycle proved to be of immense value.
-IN COMMON,4,3457,1890,1,1,1,What they have in common is their stamina.
-NO MATTER,4,3461,1888,1,1,2,"No matter what they say, it’s down to you now."
-AT THIS POINT,4,3465,1884,1,1,1,At this point there’s no telling who might win.
-IN ITSELF,4,3491,1855,1,1,1,The car in itself wasn’t enough incentive. 
-THE FORMER,4,3502,1842,0,1,1,The former can actually require much more money.
-IF ONLY,4,3511,1830,1,1,2,If only I’d known sooner.
-YET TO,4,3525,1818,1,1,1,The package is yet to arrive.
-UP TO ME,4,3534,1807,1,1,1,I’ll leave it up to you if that’s all right.
-UP TO US,4,3534,1807,1,1,1,I’ll leave it up to you if that’s all right.
-UP TO YOU,4,3534,1807,1,1,1,I’ll leave it up to you if that’s all right.
-UP TO HIM,4,3534,1807,1,1,1,I’ll leave it up to you if that’s all right.
-UP TO HER,4,3534,1807,1,1,1,I’ll leave it up to you if that’s all right.
-UP TO THEM,4,3534,1807,1,1,1,I’ll leave it up to you if that’s all right.
-OR WHATEVER,4,3536,1806,1,0,0,The challenge or whatever is doing it under budget.
-HAND OVER,4,3548,1798,1,1,2,The responsibility was expected to be handed over.
-IN THE LIGHT OF,4,3554,1789,2,1,1,"In the light of the results, we delayed the study."
-IN THE SAME WAY,4,3560,1784,1,1,1,"In the same way, Apple appeals to the young."
-THAT MUCH,4,3567,1781,1,2,0,I don’t go out that much.
-THE EXTENT TO WHICH,4,3601,1751,0,2,1,The extent to which the preceding can be asserted is largely dependent on what emerges in the study.
-FOR SOME TIME,4,3632,1725,1,1,1,He’s actually been studying for some time now.
-IN RETURN FOR,4,3640,1720,1,1,1,In return I’d like to present you with this gift.
-IN RETURN,4,3640,1720,1,1,1,In return I’d like to present you with this gift.
-TO DEATH,4,3650,1714,1,1,0,The children were bored to death.
-ON THE GROUNDS,4,3652,1713,1,1,1,The decision was made on the grounds of safety.
-OH DEAR,4,3670,1700,1,0,0,He didn’t? Oh dear.
-IN FULL,4,3672,1698,0,1,1,She paid in full.
-ON BOARD,4,3673,1698,1,1,2,Are you on board with the decision?
-TO SOME EXTENT,4,3686,1688,1,1,1,It is to some extent what is considered standard.
-SOME KIND OF,4,3695,1678,1,1,0,"What are you, some kind of genius?"
-KEEP UP,4,3700,1674,1,1,2,Keep up if you can.
-NO IDEA,4,3709,1670,1,2,0,You have no idea.
-GREATER THAN,4,3712,1666,2,1,1,Anything greater than five is fine.
-HAPPEN TO BE,4,3715,1664,1,1,0,This happens to be my first conference.
-HAPPEN TO,4,3715,1664,1,1,0,This happens to be my first conference.
-HELD THAT,4,3718,1661,0,1,1,The congress held that it was acceptable.
-FACED WITH,4,3722,1658,2,1,2,"Faced with defeat, he changed tactics."
-DOING SO,4,3733,1647,2,1,1,"Unfortunately, doing so also meant facing traffic."
-SET OFF,4,3738,1644,1,1,0,We set off at noon.
-PUT FORWARD,4,3740,1640,2,1,1,The group put forward several other proposals.
-FROM TIME TO TIME,4,3760,1627,1,1,2,He does come round from time to time.
-THE MEANS,4,3791,1626,2,1,1,He hasn’t the means to get there.
-EVER SINCE,4,3762,1622,1,1,2,And they haven’t been the same ever since.
-JUST ABOUT,4,3763,1622,1,2,0,Am I finished? Just about.
-AS OPPOSED TO,4,3771,1615,2,1,1,"Better now, as opposed to what?"
-GIVE RISE TO,4,3774,1613,2,1,1,The protests gave rise to new violence.
-LARGE SCALE,4,3780,1610,2,1,1,They were thinking on a large scale.
-MAKE SENSE,4,3782,1608,1,1,2,Doesn’t it make sense to do it that way?
-BY MEANS OF,4,3789,1602,2,1,1,It was possible to achieve by means of coercion. 
-IN SHORT,4,3790,1602,0,1,1,The employees were in short tired of it.
-A BIT OF A,4,3791,1599,1,2,0,He’s a bit of a film fanatic.
-BREAK UP,4,3796,1595,1,1,0,They did keep in touch after they broke up.
-BUT THEN AGAIN,4,3803,1589,1,1,0,"I went over budget, but then I expected I would."
-BUT THEN,4,3803,1589,1,1,0,"I went over budget, but then I expected I would."
-ALL TOO,4,3830,1571,1,1,0,Why is this all too familiar?
-PUT UP,4,3831,1571,1,1,0,The authorities put up a sign to notify the public.
-GOOD AT,4,3847,1562,1,2,0,You need to find something you’re good at.
-A LONG WAY,4,3851,1557,1,1,2,A little bit of compassion can go a long way.
-AMOUNT TO,4,3854,1556,2,1,1,"Unfortunately, the player never amounted to much."
-FOR LONG,4,3861,1553,1,1,3,"He did attend university, but not for long."
-BE RUN BY,4,3883,1540,1,1,1,The operation is run by two college students.
-BEEN RUN BY,4,3883,1540,1,1,1,The operation is run by two college students.
-IS RUN BY,4,3883,1540,1,1,1,The operation is run by two college students.
-ARE RUN BY,4,3883,1540,1,1,1,The operation is run by two college students.
-WAS RUN BY,4,3883,1540,1,1,1,The operation is run by two college students.
-WERE RUN BY,4,3883,1540,1,1,1,The operation is run by two college students.
-RUN BY,4,3883,1540,1,1,1,The operation is run by two college students.
-SOME MORE,4,3887,1539,1,2,2,I’ll have to think some more before deciding.
-IN THE ABSENCE OF,4,3888,1538,0,1,1,"In the absence of truth, there is only conjecture."
-ALL SORTS OF,4,3895,1535,1,1,2,We have all sorts of time left.
-GET ON WITH,4,3896,1535,1,1,0,I need to get on with my work.
-NO GOOD,4,3902,1528,1,1,0,It’s no good sitting there – you have to type.
-YET ANOTHER,4,3939,1500,1,1,1,That’s yet another day gone by with nothing done.
-KEY TO,4,3940,1499,1,1,1,Her input was key to the project’s success.
-I'M AFRAID,4,3947,1495,1,2,0,"It hasn’t arrived, I’m afraid."
-THAT WHICH,4,3955,1491,0,1,1,You cannot undo that which has already been done.
-IF SO,4,3960,1488,1,1,1,"If so, you may want to consider Greece."
-RIGHT NOW,4,3973,1482,1,1,0,The best time is right now.
-IN VIEW OF,4,3979,1477,0,1,1,She reconsidered in view of her children.
-IN DETAIL,4,3984,1473,1,1,1,I can explain in detail.
-REFLECTED IN,4,3989,1471,1,1,1,The artist’s angst is reflected in her painting.
-NO SUCH,4,3992,1470,1,1,1,He said no such thing.
-NOTHING BUT,4,4004,1466,1,1,2,I have nothing but respect for her.
-IN THE FACE OF,4,4020,1457,2,1,1,They quit in the face of the media scrutiny.
-SUCH THAT,4,4023,1454,2,1,1,It can be developed such that it does not interfere.
-OUT OF,4,4025,1453,1,1,2,Most commuters drive out of pure necessity.
-NEXT DOOR,4,4029,1449,1,1,0,The people next door didn’t seem to mind.
-TO THE POINT,4,4032,1447,1,1,1,It got to the point I couldn’t breathe.  
-MAKE ITS WAY,4,4035,1446,2,1,0,The mouse made its way across the field.
-MAKE ONE’S WAY,4,4035,1446,2,1,0,The mouse made its way across the field.
-IN HAND,4,4037,1443,1,1,0,It was well in hand by then.
-GET TO,4,4052,1437,1,1,0,Did you get to try the cheese?
-BY THE WAY,4,4058,1433,1,1,0,"By the way, what day is the wedding?"
-BY CONTRAST,4,4061,1430,2,1,1,The weather was by contrast a pleasant surprise.
-RUN OUT OF,4,4062,1430,1,1,0,You need to get milk before you run out.
-RUN OUT,4,4062,1430,1,1,0,You need to get milk before you run out.
-IN PRINCIPLE,4,4063,1429,2,1,1,You can in principle.
-ADD TO,4,4071,1424,1,1,1,It does nothing to add to the scenery.
-AS YET,4,4072,1423,2,1,1,I’m not convinced as yet.
-AT RISK,4,4077,1419,2,1,1,There’s no reason to put passers by at risk.
-A MERE,4,4092,1410,2,1,1,She made a mere penny per shirt.
-SHOWN TO,4,4093,1409,0,1,1,Dogs have been shown to help.
-ON THE ONE HAND,4,4095,1406,1,1,3,"On the one hand, it’s cheap."
-BY WAY OF,4,4099,1404,2,1,1,It was only by way of bribery that they managed.
-ON THE ROAD,4,4107,1400,1,1,0,I can’t wait to get on the road again.
-BEAR IN MIND,4,4109,1398,1,1,1,It was designed bearing in mind environmental impact.
-OLD FASHIONED,4,4113,1393,1,1,0,He’s just a bit old fashioned sometimes.
-FOR SALE,4,4136,1379,2,1,0,The house is for sale.
-OR ANYTHING,4,4138,1379,1,2,0,I don’t want any trouble or anything.
-MOST LIKELY,4,4143,1376,1,1,1,It is most likely the reason for the warming.
-PROVIDE FOR,4,4153,1370,0,1,1,The other variables have been provided for.
-EVEN SO,4,4165,1363,1,1,1,"Even so, it’s no way to treat a guest."
-COME ACROSS,4,4167,1362,1,1,2,They happened to come across a map.
-FIRST OF ALL,4,4182,1352,1,2,2,It is first of all what most people prefer.
-MIGHT AS WELL,4,4195,1348,1,1,0,We’re here now so we might as well.
-LIMITED TO,4,4199,1346,0,1,1,The dinner was limited to seniors.
-TO ME ('IN MY OPINION'),4,4201,1345,1,2,3,To me what matters is that it gets done.
-MIND YOU,4,4207,1342,1,2,0,"Mind you, that’s one reason why I go there."
-AT A TIME,4,4210,1340,1,1,1,They went in two at a time.
-HALF PAST,4,4232,1325,1,1,0,I make it half past.
-WITH RESPECT TO,4,4233,1325,2,1,1,She had nothing to add with respect to the report.
-CONSISTENT WITH,4,4242,1315,0,2,1,The results are consistent with our hypothesis.
-WAY OUT,4,4248,1309,1,1,0,He lives way out in the country.
-THIRD PARTY,4,4250,1307,0,0,1,They work with third party software too.
-CONTRARY TO,4,4253,1303,2,1,1,"The city is clean, contrary to popular belief."
-WORTH OF,4,4257,1299,1,1,0,Two dollars worth of wood was all he needed.
-A GOOD (‘AT LEAST’),4,4259,1298,1,1,2,It took him a good six or seven years.
-ACT ON,4,4261,1296,1,1,1,She never acted on that rage.
-EXCEPT THAT,4,4262,1296,1,1,2,It seemed fine except that it was pink.
-DAY TO DAY,4,4278,1289,1,1,2,They carried on with their day to day tasks.
-AS USUAL,4,4282,1287,1,1,2,As usual he left it until the last minute.
-LONG BEFORE,4,4290,1282,1,1,1,Long before I could quit I was offered a promotion.
-LONG AGO,4,4307,1273,1,1,1,I gave up on that idea long ago.
-IN CONJUNCTION WITH,4,4314,1270,0,1,1,"The police, in conjunction with the fire department, managed to keep the crowd under control."
-UP TO DATE,4,4319,1268,1,1,1,I try to keep up to date.
-LET ALONE,4,4333,1261,1,1,1,I can’t run let alone walk.
-QUITE A LOT,4,4337,1260,1,1,0,I do swim quite a lot.
-IF YOU LIKE,4,4342,1256,1,2,0,It was her ‘chutzpah’ if you like that impressed.
-TO THE EXTENT,4,4349,1253,0,1,1,He’s interesting to the extent that he knows a lot.
-SO FAR AS,4,4356,1251,1,1,2,So far as I know it’s not the first time either.
-GIVEN THAT,4,4362,1247,1,1,1,It was no surprise given that it was her job.
-IN LINE WITH,4,4372,1240,1,1,1,The decision is in line with the department’s wishes.
-ON THE WHOLE,4,4374,1238,1,1,1,It was acceptable on the whole. 
-CARE TO,4,4396,1223,1,1,0,Do you care to comment at all?
-TAKE ACCOUNT OF,4,4408,1217,2,1,1,We did not take account of the paperwork.
-SOMETHING LIKE THAT,5,4461,1192,1,0,0,He said he had a meeting to go to or something like that.
-MAKE USE OF,5,4462,1191,1,1,1,We made use of the stopover.
-WHEN IT COMES TO,5,4465,1188,1,1,1,I’m hopeless when it comes to goodbyes.
-FILL IN,5,4466,1187,1,1,1,The victim filled in what was stolen.
-FOR ALL,5,4471,1182,1,1,2,"For all his money, he does not seem very happy."
-A QUESTION OF,5,4482,1174,1,1,1,It’s a question of trust.
-FOR LIFE,5,4484,1172,1,1,1,And he stayed there for life.
-GET AWAY,5,4497,1165,1,1,0,They managed to get away.
-IN THE MEANTIME,5,4501,1161,1,1,1,I’ll keep working on it in the meantime.
-SOMETHING OF A,5,4522,1154,1,1,0,She’s something of a mathematics wiz.
-THE ODD,5,4523,1154,1,1,2,I do play the odd jazz tune.
-LITTLE MORE THAN,5,4556,1133,2,1,1,It’s little more than pageantry if you ask me.
-WOULD YOU LIKE,5,4558,1133,1,2,0,Would you like tea?
-IN NEED,5,4584,1122,3,1,1,We want to help children in need.
-TAKE FOR GRANTED,5,4587,1120,1,1,2,It’s just something I’ve always taken for granted.
-IN THIS RESPECT,5,4605,1110,0,1,1,"In this respect, our study refutes earlier research."
-PROVIDED THAT,5,4606,1110,2,1,1,It’s OK provided that he come up with the goods.
-ALLOW FOR,5,4614,1105,2,1,1,"Even if you allow for inflation, the price increase still seems exhorbitant."
-CATCH UP,5,4634,1095,1,1,0,I took extra classes just to catch up.
-A GO,5,4639,1093,1,1,0,Why don’t you have a go?
-FOR THE MOMENT,5,4649,1092,1,1,2,For the moment things seem stable.
-AT THE EXPENSE OF,5,4656,1086,2,1,1,They were laughing at the expense of the photo.
-PUT TOGETHER,5,4670,1082,1,1,2,He put together the proposal in a matter of days.
-THINGS LIKE THAT,5,4671,1082,1,2,0,"He does karate and things like that, you see."
-OF LITTLE,5,4682,1079,1,1,1,"It was of little relevance, really."
-SHUT UP,5,4683,1079,1,1,0,I just couldn’t shut up.
-AS OF,5,4703,1069,1,1,1,It was completed as of June.
-OVER TIME,5,4704,1069,1,1,1,It might change over time.
-WOULD APPEAR,5,4710,1068,1,1,1,"They people have spoken, it would appear."
-THE OTHER DAY,5,4711,1066,1,2,0,I thought of you the other day.
-IN THEORY,5,4712,1065,1,1,1,In theory that is why he went there.
-THOUGHT OF AS,5,4713,1065,1,1,1,Beaches are thought of as vacation spots.
-THOUGHT OF,5,4713,1065,1,1,1,Beaches are thought of as vacation spots.
-FOR GOOD,5,4721,1061,1,2,0,It’s gone for good.
-OPPOSED TO,5,4726,1059,2,1,1,He’s strangely opposed to gun control.
-COMMON SENSE,5,4749,1049,1,1,1,To me it’s common sense.
-BOTHER TO,5,4754,1046,1,1,0,He never bothered to reply.
-AS GOOD AS,5,4759,1043,1,1,2,It’s as good as gone.
-BACK UP,5,4761,1042,1,1,2,I have proof to back up my story.
-TAKE CARE OF,5,4791,1034,1,1,1,I’ll take care of this customer.
-THE SIGHT OF,5,4816,1024,2,1,0,I can’t stand the sight of it.
-GO ROUND,5,4819,1022,1,1,0,I’ll go round asking if anyone wants any more.
-THE WHOLE THING,5,4834,1015,1,2,0,Why don’t we just forget the whole thing?
-AT ONE TIME,5,4837,1014,1,1,1,At one time I thought that too.
-HEAD TO,5,4839,1014,1,1,0,"Meanwhile, he decided to head to the hospital. "
-IN A SENSE,5,4840,1014,1,1,1,The food was in a sense only part of the experience.
-ON AVERAGE,5,4841,1014,1,1,2,How much does he make on average?
-WAY ROUND,5,4846,1013,1,1,0,Do you know your way round?
-CAN TELL,5,4850,1011,1,2,0,You can tell from the markings.
-FREE FROM,5,4896,991,0,1,1,I dream of a life free from stress.
-AND ALL THAT,5,4901,989,1,0,0,I like art and all that.
-AS IT WERE,5,4909,985,1,1,3,The party was a smash as it were.
-WHAT IF,5,4915,984,1,2,3,What if we could fly?
-TOUCH OF,5,4917,982,1,1,0,There was a touch of sadness in her voice.
-BETTER OFF,5,4919,980,1,1,2,You’re better off without him.
-STAND FOR,5,4932,977,2,1,2,That symbol used to stand for something.
-TO BLAME,5,4944,973,1,1,1,"I think the government’s to blame, really."
-THE BULK OF,5,4950,968,1,1,1,The bulk of it was done by noon.
-A HANDFUL OF,5,4955,965,1,1,1,Only a handful of them were actually awake.
-AT THE OUTSET,5,4959,963,1,1,1,"It went well, but not at the outset."
-THE OUTSET,5,4959,963,1,1,1,"It went well, but not at the outset."
-BY VIRTUE OF,5,4991,954,1,1,1,She won by virtue of her superior intellect.
-TURN DOWN,5,5001,951,1,1,0,I won’t turn down such a great offer.
-GET ON (‘RELATE’),5,5010,944,1,2,0,My parent don’t really get on very well.
-UNDER WAY,5,5022,939,0,1,1,Changes are already under way.
-IN THE INTEREST OF,5,5025,938,2,1,1,They stopped in the interest of time.
-ON THE MARKET,5,5051,928,2,1,1,How long has it been on the market?
-BY FAR,5,5060,925,1,1,1,The rise in unemployment was by far the highest.
-A DEGREE OF,5,5072,921,3,1,1,There is a degree of irony in the story.
-NEVER MIND,5,5082,915,1,2,0,Never mind that it’s my birthday today.
-UP AND DOWN,5,5134,898,1,1,0,He was up and down the hall worrying about it.
-IN ONE’S OWN RIGHT,5,5156,891,1,1,1,Gesture is a form of expression in its own right.
-A CASE OF,5,5169,888,1,1,1,Now it’s just a case of getting them to subscribe.
-MORE SO,5,5171,887,1,1,1,"Boston is walkable, and San Francisco more so."
-COME UP TO,5,5193,881,1,1,0,Men always come up to me first.
-IN WHICH CASE,5,5216,872,1,1,1,"That means it’s midnight, in which case it’s closed."
-NO SIGN OF,5,5222,871,1,1,0,Still no sign of him?
-JUST AS (‘WHEN’),5,5231,869,1,1,0,I saw him just as he left.
-FOR THE SAKE OF,5,5244,865,1,1,2,He exaggerated his points for the sake of effect.
-IN A POSITION TO,5,5247,864,1,1,1,I’m not in a position to comment right now.
-TO COME (FUTURE),5,5255,862,1,1,1,We’ll see how things go in the weeks to come.
-BACKED BY,5,5285,850,0,1,0,The group is backed by the drug trade.
-AT BEST,5,5303,844,1,1,2,He’s at best average.
-WEALTH OF,5,5306,844,2,1,1,The library holds a wealth of knowledge.
-THAT SORT OF THING,5,5309,843,1,0,0,He drinks a lot and that sort of thing.
-MAKE OUT,5,5311,842,2,1,0,He could barely make out her signature.
-COME TO TERMS WITH,5,5323,839,2,1,2,They were finally able to come to terms with the change in weather.
-FOND OF,5,5348,831,1,1,0,"I’m not very fond of it, to be honest."
-WITH A VIEW TO,5,5354,829,1,1,1,It was written with a view to inspiring hope.
-TURN BACK,5,5361,827,2,1,2,There was no turning back now.
-GET AWAY WITH,5,5366,824,1,1,0,Somehow they managed to get away with it.
-NO WONDER,5,5384,820,1,1,0,No wonder he’s ranked first.
-WELL BEING,5,5438,809,1,1,2,It was good for their overall well being.
-HOW ABOUT,5,5447,805,1,2,0,How about tomorrow?
-TO GO (‘REMAINING’),5,5463,801,1,1,0,Two more to go.
-STRAIGHT AWAY,5,5479,794,1,1,2,They’ll get to it straight away.
-OWING TO,5,5485,793,1,1,1,"Owing to his honesty, he was held in high esteem."
-HOLD UP,5,5491,791,1,1,0,Sorry – we got held up on the M25.
-LOOK TO,5,5492,790,1,1,1,He constantly looked to us for advice and support.
-LAY OUT,5,5496,789,1,1,1,The countries laid out plans for a peace agreement.
-THE LOT,5,5497,789,1,2,0,"They tood the jewellery, the laptops, the lot."
-KEEP ON,5,5501,788,1,1,0,Freeways kept on being built.
-MAKE UP ONE’S MIND,5,5502,788,1,1,0,You’d better make up your mind.
-AT WORK,5,5503,787,0,1,1,There were strange forces at work.
-COME ABOUT,5,5504,787,1,1,2,It all came about through a meeting back in April.
+phrase,Frequency Level,Rank,Frequency </br> (per million words),Spoken general,Written general,Written academic,Example sentence,,,,,,,
+HAVE TO,1-K,107,83092,___,___,__,I exercise because I have to.,,,,,,,
+THERE IS,1-K,165,59833,___,___,___,There are some problems.,,,,,,,
+THERE ARE,1-K,165,59833,___,___,___,There are some problems.,,,,,,,
+SUCH AS,1-K,415,30857,__,___,___,"We have questions, such as how it happened.",,,,,,,_
+GOING TO,1-K,463,28259,___,___,–,I’m going to think about it.,,,,,,,
+OF COURSE,1-K,483,26966,___,___,_,He said he’d come of course.,,,,,,,
+A FEW,1-K,489,26451,___,___,__,"After a few drinks, she started to dance.",,,,,,,
+AT LEAST,1-K,518,25034,___,___,___,"Well, you could email me at least.",,,,,,,
+SUCH A,1-K,551,23894,___,___,__,She had such a strange sense of humor. ,,,,,,,
+SUCH AN,1-K,551,23894,___,___,__,She had such a strange sense of humor. ,,,,,,,
+I MEAN,1-K,556,23616,___,–,–,"It’s fine, but, I mean, is it worth the price?",,,,,,,
+A LOT,1-K,598,22332,___,__,–,They go camping a lot in the summer.,,,,,,,
+RATHER THAN,1-K,631,21085,___,___,___,"Children, rather than adults, tend to learn quickly.",,,,,,,
+SO THAT,1-K,635,20966,___,___,__,Park it so that the wheels are curbed.,,,,,,,
+A LITTLE,1-K,655,20296,___,___,__,I like to work out a little before dinner.,,,,,,,
+A BIT,1-K,674,19618,___,___,–,There was a bit of drama today at the office.,,,,,,,
+A BIT OF,1-K,674,19618,___,___,–,There was a bit of drama today at the office.,,,,,,,
+AS WELL AS,1-K,717,18041,___,___,___,She jogs as well as swims. ,,,,,,,
+IN FACT,1-K,803,15983,___,___,___,"The researchers tried several approaches, in fact.",,,,,,,
+LIKELY TO,1-K,807,15854,___,___,___,"To be honest, I’m likely to forget.",,,,,,,
+GO ON,1-K,825,15610,___,___,__,He went on for a while before stopping for lunch.,,,,,,,
+IS TO ,1-K,845,15232,–,___,–,Obama is to address the media this afternoon.,,,,,,,
+A NUMBER OF,1-K,854,15090,___,___,___,A number of concerns were raised.,,,,,,,
+AT ALL,1-K,879,14650,___,___,___,Do you have any kids at all?,,,,,,,
+AS IF,1-K,888,14470,___,___,–,They walked together as if no time had passed.,,,,,,,
+USED TO,1-K,892,14411,___,__,–,It used to snow much more often.,,,,,,,
+WAS TO ,1-K,894,14366,–,___,___,The message was to be transmitted worldwide.,,,,,,,
+NOT ONLY,1-K,908,14110,___,___,___,"Not only was it cheap, it was delicious.",,,,,,,
+THOSE WHO,1-K,913,13951,–,___,___,He would defend those who had no voice.,,,,,,,
+DEAL WITH,1-K,934,13634,___,___,___,The police had several issues to deal with.,,,,,,,
+LEAD TO,1-K,939,13555,__,___,___,Excessive smoking can lead to heart disease.,,,,,,,
+SORT OF,1-K,951,13361,___,–,–,It’s sort of why I’m here.,,,,,,,
+THE FOLLOWING,1-K,974,12963,–,__,___,He made the following remarks.,,,,,,,
+IN ORDER TO,1-K,984,12762,___,___,___,We shared a room in order to reduce costs,,,,,,,
+HAVE GOT,1-K,988,12734,___,__,–,I don’t know what he has got planned.,,,,,,,
+HAVE GOT TO,2-K,1033,12270,___,___,–,You have got to try this salad.,,,,,,,
+SET UP,2-K,1079,11560,___,___,___,The whole thing was set up beforehand.,,,,,,,
+AS TO,2-K,1082,11535,__,___,___,There was some confusion as to its whereabouts.,,,,,,,
+AS WELL,2-K,1083,11519,___,___,___,I like it as well.,,,,,,,
+BASED ON,2-K,1088,11440,___,___,___,"Based on the reports, it seems it was an accident.",,,,,,,
+CARRY OUT,2-K,1146,10753,__,___,___,It was not as easy to carry out without funding.,,,,,,,
+TAKE PLACE,2-K,1169,10556,___,___,___,No one was sure exactly why it took place there.,,,,,,,
+TEND TO,2-K,1175,10504,___,___,___,I tend to think it’s actually a political matter.,,,,,,,
+DUE TO,2-K,1183,10454,___,___,___,Many people believe it is due to global warming.,,,,,,,
+FAIL TO,2-K,1204,10263,___,___,___,I fail to see the humor in all this.,,,,,,,
+EACH OTHER,2-K,1209,10160,___,___,__,The good thing is that they still have each other.,,,,,,,
+IN TERMS OF,2-K,1234,9881,___,___,___,"What is your limit, in terms of price?",,,,,,,
+NO ONE,2-K,1262,9597,___,___,__,I will speak to no one about this.,,,,,,,
+PICK UP,2-K,1299,9252,___,___,–,She dropped by to pick up her friend.,,,,,,,
+UP TO,2-K,1352,8733,___,___,___,Up to twenty people may be interviewed for the job.,,,,,,,
+A SINGLE,2-K,1356,8710,___,___,__,Not a single idea emerged from the meeting.,,,,,,,
+NO LONGER,2-K,1371,8556,___,___,___,"Fortunately, it is no longer a concern now.",,,,,,,
+LOOK FOR,2-K,1387,8377,___,___,__,Bargains can be found if you know what to look for.,,,,,,,
+LAST NIGHT,2-K,1427,7992,___,__,–,What did he say last night?,,,,,,,
+AS A RESULT,2-K,1438,7939,__,___,___,He was tired and as a result not very aware.,,,,,,,
+IN ADDITION,2-K,1453,7822,___,___,___,The house was well located in addition.,,,,,,,
+IN ADDITION TO,2-K,1453,7822,___,___,___,The house was well located in addition.,,,,,,,
+WORK ON,2-K,1487,7600,___,___,__,That kid needs to work on his attitude.,,,,,,,
+THINK ABOUT,2-K,1517,7243,___,___,–,I’m thinking about changing careers.,,,,,,,
+FOR INSTANCE,2-K,1529,7138,__,___,___,That holds true for even the governor for instance.,,,,,,,
+TOO MUCH,2-K,1530,7123,___,___,__,I don’t worry about it too much.,,,,,,,
+YOU SEE,2-K,1532,7102,___,–,–,And the problem you see is with awareness-raising.,,,,,,,
+IN PARTICULAR,2-K,1533,7092,__,___,___,There’s nothing in particular wrong with it.,,,,,,,
+A COUPLE OF,2-K,1542,7007,___,___,–,They need a couple of minutes still.,,,,,,,
+INSTEAD OF,2-K,1556,6907,___,___,___,He can go instead of me.,,,,,,,
+COME BACK,2-K,1573,6772,___,___,___,But we can come back to that later.,,,,,,,
+LOOK LIKE,2-K,1591,6595,___,___,–,It’s not what it looks like.,,,,,,,
+FIND OUT,2-K,1605,6499,___,___,___,How did you find out?,,,,,,,
+POINT OUT,2-K,1638,6325,___,___,___,She pointed out that it was getting late.,,,,,,,
+APART FROM,2-K,1647,6287,___,___,___,"Are there any others, apart from him?",,,,,,,
+CALL FOR,2-K,1657,6243,__,___,___,Hard times call for tough measures.,,,,,,,
+MANAGE TO,2-K,1661,6234,___,___,___,Did you manage to get in touch at all?,,,,,,,
+OR TWO,2-K,1667,6192,___,___,__,"He had a thing or two to drink, then left.",,,,,,,
+A FURTHER,2-K,1681,6121,_,___,___,It’s a further reason to reconsider the project.,,,,,,,
+COME OUT,2-K,1696,6031,___,___,___,It’s supposed to come out on Friday.,,,,,,,
+BE EXPECTED TO,2-K,1713,5964,___,___,___,They can’t be expected to just sit there and wait.,,,,,,,
+SEEK TO,2-K,1716,5937,__,___,___,The new board sought to find alternative solutions.,,,,,,,
+GO THROUGH,2-K,1733,5857,___,___,___,You can’t imagine what I’m going through.,,,,,,,
+LONG TERM,2-K,1740,5831,___,___,___,"It seems to work, but what of the long term effects?",,,,,,,
+RESULT IN,2-K,1759,5763,__,___,___,Excessive criticism resulted in feelings of animosity.,,,,,,,
+THAT IS (REPHRASING),2-K,1764,5737,___,___,___,"It’s yours, as long as you pay that is.",,,,,,,
+EVEN THOUGH,2-K,1778,5664,___,___,___,I can’t even though it looks easy enough.,,,,,,,
+A RANGE OF,2-K,1779,5651,___,___,___,"Eventually, a range of events changed that.",,,,,,,
+THE LATTER,2-K,1815,5519,–,___,___,The latter may still be a challenge.,,,,,,,
+MAKE SURE,2-K,1818,5510,___,___,___,I had to make sure before I opened the door.,,,,,,,
+TAKE OVER,2-K,1843,5394,___,___,___,You can’t just let the kids take over.,,,,,,,
+CONSIST OF,2-K,1850,5362,__,___,___,What does it consist of?,,,,,,,
+AS SOON AS,2-K,1861,5323,___,___,___,As soon as he can he will call you back.,,,,,,,
+AT THE TIME,2-K,1873,5282,___,___,___,I was busy at the time.,,,,,,,
+ON THE OTHER HAND,2-K,1877,5267,___,___,___,"On the other hand, the business did make a profit.",,,,,,,
+ON ONE'S OWN,2-K,1886,5240,___,___,__,You did this on your own?,,,,,,,
+ALL RIGHT,2-K,1894,5230,___,___,–,If it’s all right I think I’ll head off to bed.,,,,,,,
+SUBJECT TO,2-K,1900,5218,–,__,___,All baggage is subject to inspection.,,,,,,,
+AFTER ALL,2-K,1904,5197,___,___,__,"He is only six years old, after all.",,,,,,,
+IN FRONT OF,2-K,1908,5190,___,___,___,She did not want to say anything in front of the kids.,,,,,,,
+TO DO WITH,2-K,1910,5184,___,__,___,I think it has something to do with physics.,,,,,,,
+GO OUT,2-K,1912,5173,___,___,_,Brochures went out to prospective buyers.,,,,,,,
+A GREAT DEAL,2-K,1920,5126,___,___,__,She means a great deal to me.,,,,,,,
+A GOOD DEAL,2-K,1920,5126,___,___,__,She means a great deal to me.,,,,,,,
+ON THE WAY,2-K,1929,5085,___,___,__,We can stop for lunch on the way.,,,,,,,
+AS LONG AS,2-K,1931,5084,___,___,__,It makes no difference as long as it’s done.,,,,,,,
+SO FAR,2-K,1951,5018,___,___,___,Any questions so far?,,,,,,,
+OUGHT TO,2-K,1958,5002,___,__,–,She hasn’t but she ought to.,,,,,,,
+AT THE MOMENT,2-K,1959,5001,___,___,___,They have a lot going on at the moment.,,,,,,,
+AS THOUGH,2-K,1967,4988,__,___,___,"He smiled then, as though remembering a joke.",,,,,,,
+COME TO,2-K,1970,4970,___,___,__,We came to see it for what it was.,,,,,,,
+ALONG WITH,2-K,1974,4948,___,___,___,"Along with his dog, the cat slowly stopped eating.",,,,,,,
+MAY WELL,2-K,1982,4931,___,___,___,He hasn’t yet but may well try before long.,,,,,,,
+GET OUT,2-K,2001,4858,___,___,–,There was no way to get out of work that Friday.,,,,,,,
+FOLLOWED BY,2-K,2013,4816,__,___,___,The workshop will be followed by time for questions.,,,,,,,
+IN THAT,2-K,2018,4805,___,___,___,It’s great in that there are so many restaurants.,,,,,,,
+IN THE SENSE THAT,2-K,2018,4805,___,___,___,It’s great in that there are so many restaurants.,,,,,,,
+THE CASE,2-K,2022,4794,___,___,___,It’s not the case that I don’t love him.,,,,,,,
+TAKE UP,2-K,2038,4717,___,___,_,I don’t wish to take up more time than is necessary.,,,,,,,
+ACCOUNT FOR,2-K,2060,4642,__,___,___,They’ll need to account for their actions.,,,,,,,
+SET OUT,2-K,2064,4624,__,___,___,She accomplished what she set out to do.,,,,,,,
+AS FAR AS,2-K,2067,4619,___,___,___,"What are you thinking, as far as feasibility on this?",,,,,,,
+CONCERNED WITH,2-K,2068,4619,__,___,___,They spoke on issues concerned with culture.,,,,,,,
+ABOUT TO,2-K,2075,4600,___,___,__,Things were about to change.,,,,,,,
+SUPPOSED TO,2-K,2086,4586,___,___,___,"I didn’t go, but I was supposed to.",,,,,,,
+AND SO ON,2-K,2087,4584,___,___,___,"My parents arrived, then John, his wife, and so on.",,,,,,,
+COME ON,2-K,2105,4519,___,__,–,"Come on, think about it!",,,,,,,
+TAKE ON,3-K,2124,4451,___,___,__,You’d better think twice before taking on more work.,,,,,,,
+WORK OUT,3-K,2131,4432,___,___,___,I’m trying to work out what it stands for.,,,,,,,
+ALL OVER,3-K,2135,4420,___,___,__,The news was all over the web.,,,,,,,
+OTHER THAN,3-K,2149,4380,___,___,___,No one other than you could have come up with it.,,,,,,,
+OUT OF,3-K,2156,4361,__,___,___,"In terms of colour, three out of five were silver.",,,,,,,
+TURN OUT,3-K,2157,4354,___,___,___,How did it turn out?,,,,,,,
+LOOK AFTER,3-K,2164,4332,___,___,–,She did more than just look after the finances.,,,,,,,
+AT LAST,3-K,2173,4306,___,___,__,At last we met over coffee last week.,,,,,,,
+A VARIETY OF,3-K,2179,4283,___,___,___,And a variety of issues seemed to stall the process.,,,,,,,
+AT FIRST,3-K,2180,4275,___,___,___,"Not at first, but just the other day there was one.",,,,,,,
+OR SO,3-K,2216,4164,___,___,___,A day or so later he called me back on my mobile.,,,,,,,
+IN FAVOUR,3-K,2231,4073,___,___,___,I don’t know about you but I’m in favour. ,,,,,,,
+GIVE UP,3-K,2258,3997,___,___,__,You can’t just give up.,,,,,,,
+GET TO,3-K,2263,3979,___,___,__,When he got to the end he started to weep.,,,,,,,
+FIND ONESELF,3-K,2280,3917,___,___,__,I found myself driving home.,,,,,,,
+GET UP,3-K,2298,3857,___,___,–,It was easy getting up but the commute was awful.,,,,,,,
+CARRY ON,3-K,2345,3759,___,___,___,He could simply not carry on.,,,,,,,
+GO BACK,3-K,2361,3722,___,___,___,If I could I’d go back and do it all over again.,,,,,,,
+FOCUS ON,3-K,2371,3703,___,___,___,But today I’d like to focus on something different.,,,,,,,
+AT ONCE,3-K,2379,3684,___,___,___,I did it at once.,,,,,,,
+IT TAKES,3-K,2384,3670,___,___,___,No matter what it takes.,,,,,,,
+GET OFF,3-K,2388,3656,___,___,–,We waited for hours in the queue to get on.,,,,,,,
+GET ON,3-K,2388,3656,___,___,–,We waited for hours in the queue to get on.,,,,,,,
+AS A WHOLE,3-K,2404,3615,___,___,___,As a whole it’s OK.,,,,,,,
+IN PRACTICE,3-K,2407,3609,__,___,___,There was nothing she could do in practice.,,,,,,,
+BY THE TIME,3-K,2408,3607,___,___,__,By the time dinner started there were none left.,,,,,,,
+LOTS OF,3-K,2409,3605,___,___,–,Lots of them do travel during the winter months.,,,,,,,
+SAID TO BE,3-K,2417,3586,–,___,__,The priest was said to be missing.,,,,,,,
+IN TIME,3-K,2425,3566,___,___,___,You will in time.,,,,,,,
+IN TURN,3-K,2429,3558,__,___,___,The supermarket in turn will donate seven thousand.,,,,,,,
+ONCE AGAIN,3-K,2437,3532,___,___,___,"Once again, this was completely unforeseen. ",,,,,,,
+ALL THE TIME,3-K,2439,3527,___,___,__,I go there all the time.,,,,,,,
+ON THE BASIS OF,3-K,2442,3515,__,___,___,She came on the basis that it would help her.,,,,,,,
+ON THE BASIS,3-K,2442,3515,__,___,___,She came on the basis that it would help her.,,,,,,,
+KIND OF,3-K,2445,3510,___,__,–,The windows are kind of fogged up.,,,,,,,
+GET INTO,3-K,2446,3508,___,___,__,I really got into what he was talking about.,,,,,,,
+RELY ON,3-K,2454,3488,___,___,___,He has no one else to rely on.,,,,,,,
+GO FOR,3-K,2483,3421,___,__,–,I could really go for a hamburger right now.,,,,,,,
+AIM TO,3-K,2484,3415,__,___,___,They aim to complete the project by the spring.,,,,,,,
+MAKE UP,3-K,2498,3394,__,___,___,Hispanics make up a large part of the population.,,,,,,,
+APPEAL TO,3-K,2531,3299,___,___,___,It appeals to younger learners.,,,,,,,
+END UP,3-K,2536,3285,___,___,___,We ended up going anyway.,,,,,,,
+SHAKE ONE’S HEAD,3-K,2548,3250,__,___,–,He just shook his head and laughed.,,,,,,,
+NO MORE THAN,3-K,2557,3226,__,___,___,No more than five of them had auto insurance.,,,,,,,
+GET BACK,3-K,2575,3178,___,___,__,What time will we get back?,,,,,,,
+WHAT ABOUT,3-K,2584,3160,___,___,__,But what about tomorrow?,,,,,,,
+IN OTHER WORDS,3-K,2586,3159,___,___,___,The groups are in other words conservative.,,,,,,,
+AS FOR,3-K,2588,3157,___,___,___,"As for the promotion, there may be other options.",,,,,,,
+NOT EVEN,3-K,2599,3128,___,___,___,"No one cared, not even when they saw the photos.",,,,,,,
+ENTITLED TO,3-K,2606,3113,__,___,___,You’re entitled to your opinion.,,,,,,,
+PRIOR TO,3-K,2608,3110,__,___,___,"Prior to the event, the organizers called the band.",,,,,,,
+CHOOSE TO,3-K,2616,3099,___,___,___,You may choose to believe what the papers say.,,,,,,,
+SOMETHING LIKE,3-K,2622,3092,___,__,–,She makes something like five grand a month.,,,,,,,
+KNOWN TO,3-K,2624,3091,–,___,___,He’s known to be like that.,,,,,,,
+IN TOUCH,3-K,2636,3060,___,___,__,Are you two at all in touch?,,,,,,,
+IN THE END,3-K,2637,3050,___,___,___,In the end it’s like what they say about horses.,,,,,,,
+IN THE WAY,3-K,2654,3013,___,___,–,I won’t stand in the way.,,,,,,,
+CARE FOR,3-K,2657,3004,___,___,___,He doesn’t care for it very much in his tea.,,,,,,,
+IN THE EVENT,3-K,2658,2998,–,___,___,"In the event you change your mind, let me know.",,,,,,,
+IN THE EVENT OF,3-K,2658,2998,–,___,___,"In the event you change your mind, let me know.",,,,,,,
+THEY SAY,3-K,2675,2962,___,__,–,They say it tastes like chicken.,,,,,,,
+SO CALLED,3-K,2688,2944,___,___,___,Any so called rumors are as easily their fault.,,,,,,,
+TAKE INTO ACCOUNT,3-K,2702,2921,__,___,___,You must also take into account the rush hour.,,,,,,,
+IN RESPECT OF,3-K,2709,2909,–,___,___,There was nothing in respect of drink.,,,,,,,
+OUT OF,3-K,2711,2907,___,___,___,The walls are made out of wood.,,,,,,,
+AT THE SAME TIME,3-K,2719,2892,___,___,___,At the same time it may be worth it.,,,,,,,
+NEXT TO,3-K,2724,2882,___,___,__,"Next to his sister, he was the best looking of them.",,,,,,,
+TURN UP,3-K,2734,2865,___,__,–,The money turned up later.,,,,,,,
+POINT OF VIEW,3-K,2735,2864,___,___,___,They all had a different point of view.,,,,,,,
+AT PRESENT,3-K,2744,2847,_,___,___,There’s nothing to do at present.,,,,,,,
+USED TO ,3-K,2752,2831,___,___,__,It may take a while to get used to.,,,,,,,
+WHETHER OR NOT,3-K,2759,2824,__,___,___,It depends on whether or not he comes on time.,,,,,,,
+IN PLACE,3-K,2767,2805,__,___,___,There are systems in place to handle that.,,,,,,,
+NO DOUBT,3-K,2776,2791,__,___,__,She can and will no doubt improve over time.,,,,,,,
+FULL TIME,3-K,2785,2761,___,___,__,I’m a full time fan of his music.,,,,,,,
+SORT OUT,3-K,2817,2696,___,___,___,They managed to sort out everything on their own.,,,,,,,
+IN A WAY,3-K,2823,2684,___,___,__,It’s funny in a way.,,,,,,,
+OR SOMETHING,3-K,2826,2683,___,__,–,The sales clerk seemed distracted or something.,,,,,,,
+ON BEHALF OF,3-K,2827,2679,–,__,___,I’d like to apologize on behalf of the committee. ,,,,,,,
+OVER THERE,3-K,2828,2678,___,__,–,He put it way over there.,,,,,,,
+IN SPITE OF,3-K,2829,2676,__,___,___,In spite of all the work there were few alterations.,,,,,,,
+THAT'S IT,3-K,2831,2674,___,_,–,"That’s it for today, I’m afraid.",,,,,,,
+IN PART,3-K,2848,2652,–,___,___,It is in part the reason people come here.,,,,,,,
+OH NO,3-K,2857,2642,___,–,–,Oh no not again.,,,,,,,
+IN MIND,3-K,2859,2638,___,___,___,Do you have anything special in mind?,,,,,,,
+WITH REGARD TO,3-K,2863,2630,__,___,___,There was some confusion with regard to payment.,,,,,,,
+REGARD TO,3-K,2863,2630,__,___,___,There was some confusion with regard to payment.,,,,,,,
+ONE ANOTHER,3-K,2868,2623,__,___,__,They looked at one another for a few minutes.,,,,,,,
+AS FOLLOWS,3-K,2871,2620,–,___,___,The plan is as follows.,,,,,,,
+THE ABOVE,3-K,2879,2608,–,___,___,The above only underscores strength of the data.,,,,,,,
+TO DATE,3-K,2888,2600,__,___,___,To date there have been over nine instances.,,,,,,,
+GO INTO,3-K,2892,2595,___,___,__,I won’t go into what he said.,,,,,,,
+TOO MANY,3-K,2898,2587,___,___,___,"You don’t see too many like that one, I’ll tell you.",,,,,,,
+IN THE COURSE OF,3-K,2899,2585,__,___,___,In the course of the discussion the manager left.,,,,,,,
+MORE OR LESS,3-K,2903,2579,___,___,___,It’s more or less what we imagined I suppose.,,,,,,,
+SHORT TERM,3-K,2906,2574,___,___,___,There are many short term gains to be had.,,,,,,,
+AIMED AT,3-K,2907,2573,__,___,___,The study is aimed at exploring how people use it.,,,,,,,
+GO OFF,3-K,2919,2551,__,___,–,She went off without even saying goodbye.,,,,,,,
+IN CASE,3-K,2926,2536,___,___,___,"In case you’re wondering, this isn’t my natural color.",,,,,,,
+OUT THERE,3-K,2941,2513,___,___,–,There are simply no jobs out there right now.,,,,,,,
+LED BY,3-K,2942,2511,–,___,___,He was led by his competitive drive above all.,,,,,,,
+MORE AND MORE,3-K,2967,2468,___,___,___,More and more it’s about the customer.,,,,,,,
+HAVE A LOOK,3-K,2970,2464,___,__,–,Why don’t you have a look?,,,,,,,
+BELIEVE IN,3-K,2981,2450,___,___,–,I don’t believe in corporal punishment.,,,,,,,
+PUT IT,3-K,2983,2449,___,___,__,"There’s no better way to put it, I think.",,,,,,,
+THESE DAYS,3-K,2992,2440,___,___,__,It’s what these days the media call ‘viral’.,,,,,,,
+IN CHARGE,3-K,2999,2432,___,___,___,He was able to stay in charge while she was away.,,,,,,,
+FEEL LIKE,3-K,3000,2431,___,__,–,I feel like eating out.,,,,,,,
+UP TO,3-K,3016,2409,___,___,___,I walked up to the window and paused.,,,,,,,
+HEARD OF,3-K,3022,2403,___,___,__,Haven’t you ever heard of manners?,,,,,,,
+TAKE PART IN,3-K,3044,2374,__,___,___,It’s something we all wanted to take part in.,,,,,,,
+IN SO FAR AS,3-K,3059,2344,__,___,___,The plan was fine in so far as time and transport.,,,,,,,
+PART TIME,3-K,3061,2343,___,___,__,She can take it on part time.,,,,,,,
+LOOK FORWARD TO,3-K,3067,2331,___,___,–,It’s something we can all look forward to.,,,,,,,
+AS SUCH,3-K,3094,2290,__,___,___,The film was not a horror as such.,,,,,,,
+BOUND TO,3-K,3104,2278,___,___,___,It’s bound to be better next time.,,,,,,,
+TURN ON,3-K,3113,2266,___,___,__,It won’t turn on.,,,,,,,
+SET TO,3-K,3121,2258,___,___,__,He’s set to arrive today.,,,,,,,
+MOVE ON,3-K,3134,2245,___,___,__,I’d like to move on if I may.,,,,,,,
+IN CONTRAST TO,3-K,3149,2229,__,___,___,The inside was amazing in contrast.,,,,,,,
+IN CONTRAST,3-K,3149,2229,__,___,___,The inside was amazing in contrast.,,,,,,,
+THIS STAGE,3-K,3152,2223,___,___,___,We can’t at this stage.,,,,,,,
+ALL BUT,3-K,3157,2214,___,___,_,She all but sent him chocolates and flowers.,,,,,,,
+ABOVE ALL,3-K,3160,2212,___,___,___,It is above all what people care most about.,,,,,,,
+RID OF,3-K,3162,2212,___,___,__,She was happy to be rid of it.,,,,,,,
+IN ANY CASE,3-K,3197,2159,___,___,___,It’s not due till tomorrow in any case.,,,,,,,
+THANKS TO,3-K,3199,2159,___,___,___,And it’s thanks to her research that we know that.,,,,,,,
+GO AWAY,3-K,3205,2150,___,___,__,The problem won’t just go away.,,,,,,,
+ONCE MORE,3-K,3207,2146,___,___,___,I call on you once more my fellow citizens.,,,,,,,
+OH WELL,3-K,3220,2129,___,–,–,It was due yesterday? Oh well.,,,,,,,
+FOLLOW UP,3-K,3222,2128,__,___,___,I’d like to follow up on what that gentleman said.,,,,,,,
+WOULD SAY,3-K,3224,2128,___,___,___,"I don’t know, but I would say at least twenty.",,,,,,,
+FOUND TO,3-K,3235,2104,–,___,___,It was found to be of little use in battle.,,,,,,,
+MEANT TO,3-K,3240,2098,___,___,___,I haven’t seen it but it’s meant to be his best so far.,,,,,,,
+HANG ON,4-K,3263,2074,___,___,–,If you can hang on for just a second.,,,,,,,
+TURN INTO,4-K,3265,2072,___,___,__,The idea turned into something amazing.,,,,,,,
+SOMETHING ABOUT,4-K,3268,2071,___,___,–,There’s something about her I find interesting.,,,,,,,
+BY NOW,4-K,3295,2044,___,___,__,I thought they’d be here by now.,,,,,,,
+THINK SO,4-K,3308,2033,___,__,__,Do you think so?,,,,,,,
+GO AHEAD,4-K,3320,2023,___,___,__,Why don’t you go ahead and call him again?,,,,,,,
+BRING ABOUT,4-K,3322,2022,–,___,___,It was expected that he would bring about change.,,,,,,,
+HAD BETTER,4-K,3323,2022,___,___,__,They had better listen.,,,,,,,
+IN ACCORDANCE WITH,4-K,3327,2017,–,___,___,The plan was execute in accordance with municipal guidelines.,,,,,,,
+CALL ON,4-K,3328,2016,__,___,__,He called on his members of staff for advice.,,,,,,,
+AT TIMES,4-K,3331,2014,___,___,___,It can be slightly frustrating at times.,,,,,,,
+ALL THE WAY,4-K,3340,2007,___,___,___,I’m with you all the way.,,,,,,,
+IN EFFECT,4-K,3349,1995,___,___,___,In effect it was like being in space.,,,,,,,
+AFFORD TO,4-K,3355,1989,___,___,__,It’s something you can’t afford to miss.,,,,,,,
+SIGHT OF,4-K,3357,1988,___,___,___,"I can’t stand the sight of it, to tell you the truth.",,,,,,,
+IN ADVANCE,4-K,3362,1983,___,___,___,It’s something you should do in advance.,,,,,,,
+ON THE PART OF,4-K,3379,1965,__,___,___,There are no barriers on the part of the government.,,,,,,,
+BRING UP,4-K,3387,1958,___,___,___,Did you manage to bring up the holiday pay?,,,,,,,
+TAKE OFF,4-K,3388,1957,___,___,__,I was hungry by the time we took off.,,,,,,,
+SO AS TO,4-K,3390,1954,___,___,___,He cluttered his desk so as to appear busy.,,,,,,,
+TAKE ADVANTAGE,4-K,3396,1949,___,___,___,Some people just want to take advantage.,,,,,,,
+SHORT OF,4-K,3399,1944,__,___,___,"Short of calling the doctor, I don’t know what to do.",,,,,,,
+OVER THE YEARS,4-K,3402,1942,___,___,___,She has over the years visited many cities.,,,,,,,
+SWITCH ON,4-K,3406,1935,___,___,__,It’s plugged in but it won’t switch on.,,,,,,,
+BY NO MEANS,4-K,3417,1925,___,___,___,We have by no means concluded the matter.,,,,,,,
+COULD HARDLY,4-K,3431,1911,___,___,__,I could hardly wait for the weekend.,,,,,,,
+COME UP WITH,4-K,3446,1898,___,___,__,Is that the best you could come up with?,,,,,,,
+IN QUESTION,4-K,3448,1898,–,__,___,The book in question was published last year.,,,,,,,
+IN THE FIRST PLACE,4-K,3450,1897,___,___,___,He couldn’t see how it got there in the first place.,,,,,,,
+PROVE TO BE,4-K,3456,1893,__,___,___,The bicycle proved to be of immense value.,,,,,,,
+IN COMMON,4-K,3457,1890,___,___,___,What they have in common is their stamina.,,,,,,,
+NO MATTER,4-K,3461,1888,___,___,__,"No matter what they say, it’s down to you now.",,,,,,,
+AT THIS POINT,4-K,3465,1884,___,___,___,At this point there’s no telling who might win.,,,,,,,
+IN ITSELF,4-K,3491,1855,___,___,___,The car in itself wasn’t enough incentive. ,,,,,,,
+THE FORMER,4-K,3502,1842,–,___,___,The former can actually require much more money.,,,,,,,
+IF ONLY,4-K,3511,1830,___,___,__,If only I’d known sooner.,,,,,,,
+YET TO,4-K,3525,1818,___,___,___,The package is yet to arrive.,,,,,,,
+UP TO ME,4-K,3534,1807,___,___,___,I’ll leave it up to you if that’s all right.,,,,,,,
+UP TO US,4-K,3534,1807,___,___,___,I’ll leave it up to you if that’s all right.,,,,,,,
+UP TO YOU,4-K,3534,1807,___,___,___,I’ll leave it up to you if that’s all right.,,,,,,,
+UP TO HIM,4-K,3534,1807,___,___,___,I’ll leave it up to you if that’s all right.,,,,,,,
+UP TO HER,4-K,3534,1807,___,___,___,I’ll leave it up to you if that’s all right.,,,,,,,
+UP TO THEM,4-K,3534,1807,___,___,___,I’ll leave it up to you if that’s all right.,,,,,,,
+OR WHATEVER,4-K,3536,1806,___,–,–,The challenge or whatever is doing it under budget.,,,,,,,
+HAND OVER,4-K,3548,1798,___,___,__,The responsibility was expected to be handed over.,,,,,,,
+IN THE LIGHT OF,4-K,3554,1789,__,___,___,"In the light of the results, we delayed the study.",,,,,,,
+IN THE SAME WAY,4-K,3560,1784,___,___,___,"In the same way, Apple appeals to the young.",,,,,,,
+THAT MUCH,4-K,3567,1781,___,__,–,I don’t go out that much.,,,,,,,
+THE EXTENT TO WHICH,4-K,3601,1751,–,__,___,The extent to which the preceding can be asserted is largely dependent on what emerges in the study.,,,,,,,
+FOR SOME TIME,4-K,3632,1725,___,___,___,He’s actually been studying for some time now.,,,,,,,
+IN RETURN FOR,4-K,3640,1720,___,___,___,In return I’d like to present you with this gift.,,,,,,,
+IN RETURN,4-K,3640,1720,___,___,___,In return I’d like to present you with this gift.,,,,,,,
+TO DEATH,4-K,3650,1714,___,___,–,The children were bored to death.,,,,,,,
+ON THE GROUNDS,4-K,3652,1713,___,___,___,The decision was made on the grounds of safety.,,,,,,,
+OH DEAR,4-K,3670,1700,___,–,–,He didn’t? Oh dear.,,,,,,,
+IN FULL,4-K,3672,1698,–,___,___,She paid in full.,,,,,,,
+ON BOARD,4-K,3673,1698,___,___,__,Are you on board with the decision?,,,,,,,
+TO SOME EXTENT,4-K,3686,1688,___,___,___,It is to some extent what is considered standard.,,,,,,,
+SOME KIND OF,4-K,3695,1678,___,___,–,"What are you, some kind of genius?",,,,,,,
+KEEP UP,4-K,3700,1674,___,___,__,Keep up if you can.,,,,,,,
+NO IDEA,4-K,3709,1670,___,__,–,You have no idea.,,,,,,,
+GREATER THAN,4-K,3712,1666,__,___,___,Anything greater than five is fine.,,,,,,,
+HAPPEN TO BE,4-K,3715,1664,___,___,–,This happens to be my first conference.,,,,,,,
+HAPPEN TO,4-K,3715,1664,___,___,–,This happens to be my first conference.,,,,,,,
+HELD THAT,4-K,3718,1661,–,___,___,The congress held that it was acceptable.,,,,,,,
+FACED WITH,4-K,3722,1658,__,___,__,"Faced with defeat, he changed tactics.",,,,,,,
+DOING SO,4-K,3733,1647,__,___,___,"Unfortunately, doing so also meant facing traffic.",,,,,,,
+SET OFF,4-K,3738,1644,___,___,–,We set off at noon.,,,,,,,
+PUT FORWARD,4-K,3740,1640,__,___,___,The group put forward several other proposals.,,,,,,,
+FROM TIME TO TIME,4-K,3760,1627,___,___,__,He does come round from time to time.,,,,,,,
+THE MEANS,4-K,3791,1626,__,___,___,He hasn’t the means to get there.,,,,,,,
+EVER SINCE,4-K,3762,1622,___,___,__,And they haven’t been the same ever since.,,,,,,,
+JUST ABOUT,4-K,3763,1622,___,__,–,Am I finished? Just about.,,,,,,,
+AS OPPOSED TO,4-K,3771,1615,__,___,___,"Better now, as opposed to what?",,,,,,,
+GIVE RISE TO,4-K,3774,1613,__,___,___,The protests gave rise to new violence.,,,,,,,
+LARGE SCALE,4-K,3780,1610,__,___,___,They were thinking on a large scale.,,,,,,,
+MAKE SENSE,4-K,3782,1608,___,___,__,Doesn’t it make sense to do it that way?,,,,,,,
+BY MEANS OF,4-K,3789,1602,__,___,___,It was possible to achieve by means of coercion. ,,,,,,,
+IN SHORT,4-K,3790,1602,–,___,___,The employees were in short tired of it.,,,,,,,
+A BIT OF A,4-K,3791,1599,___,__,–,He’s a bit of a film fanatic.,,,,,,,
+BREAK UP,4-K,3796,1595,___,___,–,They did keep in touch after they broke up.,,,,,,,
+BUT THEN AGAIN,4-K,3803,1589,___,___,–,"I went over budget, but then I expected I would.",,,,,,,
+BUT THEN,4-K,3803,1589,___,___,–,"I went over budget, but then I expected I would.",,,,,,,
+ALL TOO,4-K,3830,1571,___,___,–,Why is this all too familiar?,,,,,,,
+PUT UP,4-K,3831,1571,___,___,–,The authorities put up a sign to notify the public.,,,,,,,
+GOOD AT,4-K,3847,1562,___,__,–,You need to find something you’re good at.,,,,,,,
+A LONG WAY,4-K,3851,1557,___,___,__,A little bit of compassion can go a long way.,,,,,,,
+AMOUNT TO,4-K,3854,1556,__,___,___,"Unfortunately, the player never amounted to much.",,,,,,,
+FOR LONG,4-K,3861,1553,___,___,_,"He did attend university, but not for long.",,,,,,,
+BE RUN BY,4-K,3883,1540,___,___,___,The operation is run by two college students.,,,,,,,
+BEEN RUN BY,4-K,3883,1540,___,___,___,The operation is run by two college students.,,,,,,,
+IS RUN BY,4-K,3883,1540,___,___,___,The operation is run by two college students.,,,,,,,
+ARE RUN BY,4-K,3883,1540,___,___,___,The operation is run by two college students.,,,,,,,
+WAS RUN BY,4-K,3883,1540,___,___,___,The operation is run by two college students.,,,,,,,
+WERE RUN BY,4-K,3883,1540,___,___,___,The operation is run by two college students.,,,,,,,
+RUN BY,4-K,3883,1540,___,___,___,The operation is run by two college students.,,,,,,,
+SOME MORE,4-K,3887,1539,___,__,__,I’ll have to think some more before deciding.,,,,,,,
+IN THE ABSENCE OF,4-K,3888,1538,–,___,___,"In the absence of truth, there is only conjecture.",,,,,,,
+ALL SORTS OF,4-K,3895,1535,___,___,__,We have all sorts of time left.,,,,,,,
+GET ON WITH,4-K,3896,1535,___,___,–,I need to get on with my work.,,,,,,,
+NO GOOD,4-K,3902,1528,___,___,–,It’s no good sitting there – you have to type.,,,,,,,
+YET ANOTHER,4-K,3939,1500,___,___,___,That’s yet another day gone by with nothing done.,,,,,,,
+KEY TO,4-K,3940,1499,___,___,___,Her input was key to the project’s success.,,,,,,,
+I'M AFRAID,4-K,3947,1495,___,__,–,"It hasn’t arrived, I’m afraid.",,,,,,,
+THAT WHICH,4-K,3955,1491,–,___,___,You cannot undo that which has already been done.,,,,,,,
+IF SO,4-K,3960,1488,___,___,___,"If so, you may want to consider Greece.",,,,,,,
+RIGHT NOW,4-K,3973,1482,___,___,–,The best time is right now.,,,,,,,
+IN VIEW OF,4-K,3979,1477,–,___,___,She reconsidered in view of her children.,,,,,,,
+IN DETAIL,4-K,3984,1473,___,___,___,I can explain in detail.,,,,,,,
+REFLECTED IN,4-K,3989,1471,___,___,___,The artist’s angst is reflected in her painting.,,,,,,,
+NO SUCH,4-K,3992,1470,___,___,___,He said no such thing.,,,,,,,
+NOTHING BUT,4-K,4004,1466,___,___,__,I have nothing but respect for her.,,,,,,,
+IN THE FACE OF,4-K,4020,1457,__,___,___,They quit in the face of the media scrutiny.,,,,,,,
+SUCH THAT,4-K,4023,1454,__,___,___,It can be developed such that it does not interfere.,,,,,,,
+OUT OF,4-K,4025,1453,___,___,__,Most commuters drive out of pure necessity.,,,,,,,
+NEXT DOOR,4-K,4029,1449,___,___,–,The people next door didn’t seem to mind.,,,,,,,
+TO THE POINT,4-K,4032,1447,___,___,___,It got to the point I couldn’t breathe.  ,,,,,,,
+MAKE ITS WAY,4-K,4035,1446,__,___,–,The mouse made its way across the field.,,,,,,,
+MAKE ONE’S WAY,4-K,4035,1446,__,___,–,The mouse made its way across the field.,,,,,,,
+IN HAND,4-K,4037,1443,___,___,–,It was well in hand by then.,,,,,,,
+GET TO,4-K,4052,1437,___,___,–,Did you get to try the cheese?,,,,,,,
+BY THE WAY,4-K,4058,1433,___,___,–,"By the way, what day is the wedding?",,,,,,,
+BY CONTRAST,4-K,4061,1430,__,___,___,The weather was by contrast a pleasant surprise.,,,,,,,
+RUN OUT OF,4-K,4062,1430,___,___,–,You need to get milk before you run out.,,,,,,,
+RUN OUT,4-K,4062,1430,___,___,–,You need to get milk before you run out.,,,,,,,
+IN PRINCIPLE,4-K,4063,1429,__,___,___,You can in principle.,,,,,,,
+ADD TO,4-K,4071,1424,___,___,___,It does nothing to add to the scenery.,,,,,,,
+AS YET,4-K,4072,1423,__,___,___,I’m not convinced as yet.,,,,,,,
+AT RISK,4-K,4077,1419,__,___,___,There’s no reason to put passers by at risk.,,,,,,,
+A MERE,4-K,4092,1410,__,___,___,She made a mere penny per shirt.,,,,,,,
+SHOWN TO,4-K,4093,1409,–,___,___,Dogs have been shown to help.,,,,,,,
+ON THE ONE HAND,4-K,4095,1406,___,___,_,"On the one hand, it’s cheap.",,,,,,,
+BY WAY OF,4-K,4099,1404,__,___,___,It was only by way of bribery that they managed.,,,,,,,
+ON THE ROAD,4-K,4107,1400,___,___,–,I can’t wait to get on the road again.,,,,,,,
+BEAR IN MIND,4-K,4109,1398,___,___,___,It was designed bearing in mind environmental impact.,,,,,,,
+OLD FASHIONED,4-K,4113,1393,___,___,–,He’s just a bit old fashioned sometimes.,,,,,,,
+FOR SALE,4-K,4136,1379,__,___,–,The house is for sale.,,,,,,,
+OR ANYTHING,4-K,4138,1379,___,__,–,I don’t want any trouble or anything.,,,,,,,
+MOST LIKELY,4-K,4143,1376,___,___,___,It is most likely the reason for the warming.,,,,,,,
+PROVIDE FOR,4-K,4153,1370,–,___,___,The other variables have been provided for.,,,,,,,
+EVEN SO,4-K,4165,1363,___,___,___,"Even so, it’s no way to treat a guest.",,,,,,,
+COME ACROSS,4-K,4167,1362,___,___,__,They happened to come across a map.,,,,,,,
+FIRST OF ALL,4-K,4182,1352,___,__,__,It is first of all what most people prefer.,,,,,,,
+MIGHT AS WELL,4-K,4195,1348,___,___,–,We’re here now so we might as well.,,,,,,,
+LIMITED TO,4-K,4199,1346,–,___,___,The dinner was limited to seniors.,,,,,,,
+TO ME ('IN MY OPINION'),4-K,4201,1345,___,__,_,To me what matters is that it gets done.,,,,,,,
+MIND YOU,4-K,4207,1342,___,__,–,"Mind you, that’s one reason why I go there.",,,,,,,
+AT A TIME,4-K,4210,1340,___,___,___,They went in two at a time.,,,,,,,
+HALF PAST,4-K,4232,1325,___,___,–,I make it half past.,,,,,,,
+WITH RESPECT TO,4-K,4233,1325,__,___,___,She had nothing to add with respect to the report.,,,,,,,
+CONSISTENT WITH,4-K,4242,1315,–,__,___,The results are consistent with our hypothesis.,,,,,,,
+WAY OUT,4-K,4248,1309,___,___,–,He lives way out in the country.,,,,,,,
+THIRD PARTY,4-K,4250,1307,–,–,___,They work with third party software too.,,,,,,,
+CONTRARY TO,4-K,4253,1303,__,___,___,"The city is clean, contrary to popular belief.",,,,,,,
+WORTH OF,4-K,4257,1299,___,___,–,Two dollars worth of wood was all he needed.,,,,,,,
+A GOOD (‘AT LEAST’),4-K,4259,1298,___,___,__,It took him a good six or seven years.,,,,,,,
+ACT ON,4-K,4261,1296,___,___,___,She never acted on that rage.,,,,,,,
+EXCEPT THAT,4-K,4262,1296,___,___,__,It seemed fine except that it was pink.,,,,,,,
+DAY TO DAY,4-K,4278,1289,___,___,__,They carried on with their day to day tasks.,,,,,,,
+AS USUAL,4-K,4282,1287,___,___,__,As usual he left it until the last minute.,,,,,,,
+LONG BEFORE,4-K,4290,1282,___,___,___,Long before I could quit I was offered a promotion.,,,,,,,
+LONG AGO,4-K,4307,1273,___,___,___,I gave up on that idea long ago.,,,,,,,
+IN CONJUNCTION WITH,4-K,4314,1270,–,___,___,"The police, in conjunction with the fire department, managed to keep the crowd under control.",,,,,,,
+UP TO DATE,4-K,4319,1268,___,___,___,I try to keep up to date.,,,,,,,
+LET ALONE,4-K,4333,1261,___,___,___,I can’t run let alone walk.,,,,,,,
+QUITE A LOT,4-K,4337,1260,___,___,–,I do swim quite a lot.,,,,,,,
+IF YOU LIKE,4-K,4342,1256,___,__,–,It was her ‘chutzpah’ if you like that impressed.,,,,,,,
+TO THE EXTENT,4-K,4349,1253,–,___,___,He’s interesting to the extent that he knows a lot.,,,,,,,
+SO FAR AS,4-K,4356,1251,___,___,__,So far as I know it’s not the first time either.,,,,,,,
+GIVEN THAT,4-K,4362,1247,___,___,___,It was no surprise given that it was her job.,,,,,,,
+IN LINE WITH,4-K,4372,1240,___,___,___,The decision is in line with the department’s wishes.,,,,,,,
+ON THE WHOLE,4-K,4374,1238,___,___,___,It was acceptable on the whole. ,,,,,,,
+CARE TO,4-K,4396,1223,___,___,–,Do you care to comment at all?,,,,,,,
+TAKE ACCOUNT OF,4-K,4408,1217,__,___,___,We did not take account of the paperwork.,,,,,,,
+SOMETHING LIKE THAT,5-K,4461,1192,___,–,–,He said he had a meeting to go to or something like that.,,,,,,,
+MAKE USE OF,5-K,4462,1191,___,___,___,We made use of the stopover.,,,,,,,
+WHEN IT COMES TO,5-K,4465,1188,___,___,___,I’m hopeless when it comes to goodbyes.,,,,,,,
+FILL IN,5-K,4466,1187,___,___,___,The victim filled in what was stolen.,,,,,,,
+FOR ALL,5-K,4471,1182,___,___,__,"For all his money, he does not seem very happy.",,,,,,,
+A QUESTION OF,5-K,4482,1174,___,___,___,It’s a question of trust.,,,,,,,
+FOR LIFE,5-K,4484,1172,___,___,___,And he stayed there for life.,,,,,,,
+GET AWAY,5-K,4497,1165,___,___,–,They managed to get away.,,,,,,,
+IN THE MEANTIME,5-K,4501,1161,___,___,___,I’ll keep working on it in the meantime.,,,,,,,
+SOMETHING OF A,5-K,4522,1154,___,___,–,She’s something of a mathematics wiz.,,,,,,,
+THE ODD,5-K,4523,1154,___,___,__,I do play the odd jazz tune.,,,,,,,
+LITTLE MORE THAN,5-K,4556,1133,__,___,___,It’s little more than pageantry if you ask me.,,,,,,,
+WOULD YOU LIKE,5-K,4558,1133,___,__,–,Would you like tea?,,,,,,,
+IN NEED,5-K,4584,1122,_,___,___,We want to help children in need.,,,,,,,
+TAKE FOR GRANTED,5-K,4587,1120,___,___,__,It’s just something I’ve always taken for granted.,,,,,,,
+IN THIS RESPECT,5-K,4605,1110,–,___,___,"In this respect, our study refutes earlier research.",,,,,,,
+PROVIDED THAT,5-K,4606,1110,__,___,___,It’s OK provided that he come up with the goods.,,,,,,,
+ALLOW FOR,5-K,4614,1105,__,___,___,"Even if you allow for inflation, the price increase still seems exhorbitant.",,,,,,,
+CATCH UP,5-K,4634,1095,___,___,–,I took extra classes just to catch up.,,,,,,,
+A GO,5-K,4639,1093,___,___,–,Why don’t you have a go?,,,,,,,
+FOR THE MOMENT,5-K,4649,1092,___,___,__,For the moment things seem stable.,,,,,,,
+AT THE EXPENSE OF,5-K,4656,1086,__,___,___,They were laughing at the expense of the photo.,,,,,,,
+PUT TOGETHER,5-K,4670,1082,___,___,__,He put together the proposal in a matter of days.,,,,,,,
+THINGS LIKE THAT,5-K,4671,1082,___,__,–,"He does karate and things like that, you see.",,,,,,,
+OF LITTLE,5-K,4682,1079,___,___,___,"It was of little relevance, really.",,,,,,,
+SHUT UP,5-K,4683,1079,___,___,–,I just couldn’t shut up.,,,,,,,
+AS OF,5-K,4703,1069,___,___,___,It was completed as of June.,,,,,,,
+OVER TIME,5-K,4704,1069,___,___,___,It might change over time.,,,,,,,
+WOULD APPEAR,5-K,4710,1068,___,___,___,"They people have spoken, it would appear.",,,,,,,
+THE OTHER DAY,5-K,4711,1066,___,__,–,I thought of you the other day.,,,,,,,
+IN THEORY,5-K,4712,1065,___,___,___,In theory that is why he went there.,,,,,,,
+THOUGHT OF AS,5-K,4713,1065,___,___,___,Beaches are thought of as vacation spots.,,,,,,,
+THOUGHT OF,5-K,4713,1065,___,___,___,Beaches are thought of as vacation spots.,,,,,,,
+FOR GOOD,5-K,4721,1061,___,__,–,It’s gone for good.,,,,,,,
+OPPOSED TO,5-K,4726,1059,__,___,___,He’s strangely opposed to gun control.,,,,,,,
+COMMON SENSE,5-K,4749,1049,___,___,___,To me it’s common sense.,,,,,,,
+BOTHER TO,5-K,4754,1046,___,___,–,He never bothered to reply.,,,,,,,
+AS GOOD AS,5-K,4759,1043,___,___,__,It’s as good as gone.,,,,,,,
+BACK UP,5-K,4761,1042,___,___,__,I have proof to back up my story.,,,,,,,
+TAKE CARE OF,5-K,4791,1034,___,___,___,I’ll take care of this customer.,,,,,,,
+THE SIGHT OF,5-K,4816,1024,__,___,–,I can’t stand the sight of it.,,,,,,,
+GO ROUND,5-K,4819,1022,___,___,–,I’ll go round asking if anyone wants any more.,,,,,,,
+THE WHOLE THING,5-K,4834,1015,___,__,–,Why don’t we just forget the whole thing?,,,,,,,
+AT ONE TIME,5-K,4837,1014,___,___,___,At one time I thought that too.,,,,,,,
+HEAD TO,5-K,4839,1014,___,___,–,"Meanwhile, he decided to head to the hospital. ",,,,,,,
+IN A SENSE,5-K,4840,1014,___,___,___,The food was in a sense only part of the experience.,,,,,,,
+ON AVERAGE,5-K,4841,1014,___,___,__,How much does he make on average?,,,,,,,
+WAY ROUND,5-K,4846,1013,___,___,–,Do you know your way round?,,,,,,,
+CAN TELL,5-K,4850,1011,___,__,–,You can tell from the markings.,,,,,,,
+FREE FROM,5-K,4896,991,–,___,___,I dream of a life free from stress.,,,,,,,
+AND ALL THAT,5-K,4901,989,___,–,–,I like art and all that.,,,,,,,
+AS IT WERE,5-K,4909,985,___,___,_,The party was a smash as it were.,,,,,,,
+WHAT IF,5-K,4915,984,___,__,_,What if we could fly?,,,,,,,
+TOUCH OF,5-K,4917,982,___,___,–,There was a touch of sadness in her voice.,,,,,,,
+BETTER OFF,5-K,4919,980,___,___,__,You’re better off without him.,,,,,,,
+STAND FOR,5-K,4932,977,__,___,__,That symbol used to stand for something.,,,,,,,
+TO BLAME,5-K,4944,973,___,___,___,"I think the government’s to blame, really.",,,,,,,
+THE BULK OF,5-K,4950,968,___,___,___,The bulk of it was done by noon.,,,,,,,
+A HANDFUL OF,5-K,4955,965,___,___,___,Only a handful of them were actually awake.,,,,,,,
+AT THE OUTSET,5-K,4959,963,___,___,___,"It went well, but not at the outset.",,,,,,,
+THE OUTSET,5-K,4959,963,___,___,___,"It went well, but not at the outset.",,,,,,,
+BY VIRTUE OF,5-K,4991,954,___,___,___,She won by virtue of her superior intellect.,,,,,,,
+TURN DOWN,5-K,5001,951,___,___,–,I won’t turn down such a great offer.,,,,,,,
+GET ON (‘RELATE’),5-K,5010,944,___,__,–,My parent don’t really get on very well.,,,,,,,
+UNDER WAY,5-K,5022,939,–,___,___,Changes are already under way.,,,,,,,
+IN THE INTEREST OF,5-K,5025,938,__,___,___,They stopped in the interest of time.,,,,,,,
+ON THE MARKET,5-K,5051,928,__,___,___,How long has it been on the market?,,,,,,,
+BY FAR,5-K,5060,925,___,___,___,The rise in unemployment was by far the highest.,,,,,,,
+A DEGREE OF,5-K,5072,921,_,___,___,There is a degree of irony in the story.,,,,,,,
+NEVER MIND,5-K,5082,915,___,__,–,Never mind that it’s my birthday today.,,,,,,,
+UP AND DOWN,5-K,5134,898,___,___,–,He was up and down the hall worrying about it.,,,,,,,
+IN ONE’S OWN RIGHT,5-K,5156,891,___,___,___,Gesture is a form of expression in its own right.,,,,,,,
+A CASE OF,5-K,5169,888,___,___,___,Now it’s just a case of getting them to subscribe.,,,,,,,
+MORE SO,5-K,5171,887,___,___,___,"Boston is walkable, and San Francisco more so.",,,,,,,
+COME UP TO,5-K,5193,881,___,___,–,Men always come up to me first.,,,,,,,
+IN WHICH CASE,5-K,5216,872,___,___,___,"That means it’s midnight, in which case it’s closed.",,,,,,,
+NO SIGN OF,5-K,5222,871,___,___,–,Still no sign of him?,,,,,,,
+JUST AS (‘WHEN’),5-K,5231,869,___,___,–,I saw him just as he left.,,,,,,,
+FOR THE SAKE OF,5-K,5244,865,___,___,__,He exaggerated his points for the sake of effect.,,,,,,,
+IN A POSITION TO,5-K,5247,864,___,___,___,I’m not in a position to comment right now.,,,,,,,
+TO COME (FUTURE),5-K,5255,862,___,___,___,We’ll see how things go in the weeks to come.,,,,,,,
+BACKED BY,5-K,5285,850,–,___,–,The group is backed by the drug trade.,,,,,,,
+AT BEST,5-K,5303,844,___,___,__,He’s at best average.,,,,,,,
+WEALTH OF,5-K,5306,844,__,___,___,The library holds a wealth of knowledge.,,,,,,,
+THAT SORT OF THING,5-K,5309,843,___,–,–,He drinks a lot and that sort of thing.,,,,,,,
+MAKE OUT,5-K,5311,842,__,___,–,He could barely make out her signature.,,,,,,,
+COME TO TERMS WITH,5-K,5323,839,__,___,__,They were finally able to come to terms with the change in weather.,,,,,,,
+FOND OF,5-K,5348,831,___,___,–,"I’m not very fond of it, to be honest.",,,,,,,
+WITH A VIEW TO,5-K,5354,829,___,___,___,It was written with a view to inspiring hope.,,,,,,,
+TURN BACK,5-K,5361,827,__,___,__,There was no turning back now.,,,,,,,
+GET AWAY WITH,5-K,5366,824,___,___,–,Somehow they managed to get away with it.,,,,,,,
+NO WONDER,5-K,5384,820,___,___,–,No wonder he’s ranked first.,,,,,,,
+WELL BEING,5-K,5438,809,___,___,__,It was good for their overall well being.,,,,,,,
+HOW ABOUT,5-K,5447,805,___,__,–,How about tomorrow?,,,,,,,
+TO GO (‘REMAINING’),5-K,5463,801,___,___,–,Two more to go.,,,,,,,
+STRAIGHT AWAY,5-K,5479,794,___,___,__,They’ll get to it straight away.,,,,,,,
+OWING TO,5-K,5485,793,___,___,___,"Owing to his honesty, he was held in high esteem.",,,,,,,
+HOLD UP,5-K,5491,791,___,___,–,Sorry – we got held up on the M25.,,,,,,,
+LOOK TO,5-K,5492,790,___,___,___,He constantly looked to us for advice and support.,,,,,,,
+LAY OUT,5-K,5496,789,___,___,___,The countries laid out plans for a peace agreement.,,,,,,,
+THE LOT,5-K,5497,789,___,__,–,"They tood the jewellery, the laptops, the lot.",,,,,,,
+KEEP ON,5-K,5501,788,___,___,–,Freeways kept on being built.,,,,,,,
+MAKE UP ONE’S MIND,5-K,5502,788,___,___,–,You’d better make up your mind.,,,,,,,
+AT WORK,5-K,5503,787,–,___,___,There were strange forces at work.,,,,,,,
+COME ABOUT,5-K,5504,787,___,___,__,It all came about through a meeting back in April.,,,,,,,

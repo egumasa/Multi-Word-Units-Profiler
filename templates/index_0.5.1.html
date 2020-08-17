@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MultiWordUnit Profiler</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.0/flatly/bootstrap.min.css" integrity="sha384-mhpbKVUOPCSocLzx2ElRISIORFRwr1ZbO9bAlowgM5kO7hnpRBe+brVj8NNPUiFs" crossorigin="anonymous">
+	<link href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css" rel=stylesheet> 
+	<link rel="stylesheet" type="text/css" href="/static/css/style.css"> 
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script type="text/javascript" src="/static/script.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="http://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.21/js/dataTables.bootstrap4.min.js"></script>
+</head>
+
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <a class="navbar-brand" href="#">MultiWordUnit Profiler (beta version)</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+</nav>
+
+<br>
+<div class="container-sm text-center" style="max-width: 600px; font-size: 12pt">
+
+	<form method="post" action="/">
+    	<p class="text-left pt-3"><strong>STEP 1:</strong> Paste your text in the textbox below.</br>
+    	<textarea class="form-control .col-1-md" rows="10" id = 'input' name = "input_text" rows = "15" placeholder="Paste your text here.">{% if res %}{{ res.input_text }}{% endif %}</textarea>
+		</p>
+		<row>
+			<button class="btn btn-outline-secondary" onclick="document.getElementById('input').value = ''">Clear the text</button> 
+			<button class="btn btn-outline-secondary" value="copy" id="copy" onclick="copyText();">Copy the text</button> 
+			<script type="text/javascript">
+				function copyText(){
+				 document.getElementById("txt_copy").select();
+				 document.execCommand('copy');
+				}
+			</script>
+		</row>
+    	<p class = "text-left pt-3"><strong>STEP 2:</strong> Select Multi-word-unit list from the list.</br></p>
+    	{% if res %}
+    		<span class="text-warning">{{ res.list_select_error }}</span>
+    	{% endif %}
+    	<p>
+		<div class="form-check text-left" name="mwu_list">
+  			<label class="form-check-label" style ="text-indent: 50px" >
+    			<input type="checkbox" class="form-check-input" name = 'mwu_list' value="PHRASAL">A Phrasal Expressions List (Martinez & Schmitt, 2012)
+  			</label>
+  			<label class="form-check-label" style ="text-indent: 50px" >
+    			<input type="checkbox" class="form-check-input" name = 'mwu_list' value="AFL_all">An Academic Formulas list (Simpson-vlach & Ellis, 2010)
+  			</label>
+  			<label class="form-check-label" style ="text-indent: 50px" >
+    			<input type="checkbox" class="form-check-input" name = 'mwu_list' value="Biber_2004">Lexical Bundles in University language (Biber et al., 2004)
+  			</label>
+  		<br>
+  		</div>    	
+
+    	</p>
+        <p class = "text-left pt-3"><strong>STEP 3:</strong> Submit for analysis!!</br></p>
+        <p>
+        <row>
+    		<button id="submit" class="btn btn-primary" type="submit" name='submit_button' style='width: 200px' onclick="spinner()">
+    		<span class="spinner spinner-border spinner-border-sm mr-3" style="display:none" id="spinner" role="status" aria-hidden="true">
+    		</span>Analyze</button>
+    	</row>
+    	<script type="text/javascript">
+		    function spinner() {
+        		document.getElementsByClassName("spinner")[0].style.display = "inline-flex";
+   				 }
+		</script>   
+    	</p>
+	</form>
+</div>
+
+{% if res %}
+<div class="jumbotron">
+	<div class="container-sm text-center">
+		<h4>Multi-Word Units (MWU) profiler produced two kinds of output:</h4>
+		<br>
+		<div class="row">
+			<div class="col-sm">
+				<div class="card">
+					<h5 class="card-header">Annotated text</h5>
+					<div class="card-body">
+						<p class="card-text">Multi-word units are highlighted using the list(s) below:</p>
+							{% for lst in res.selected_list %}
+								<ul class="container-sm text-left">
+									<li>{{res.resource[lst]}}</li>
+								</ul>
+							{% endfor %}
+						<a class="btn btn-outline-secondary", href="#text_output">See Annotated text</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm">
+			  <div class="card">
+				<h5 class="card-header">Table output</h5>
+				<div class="card-body">
+				  <p class="card-text">You can see information about each MWU. For example, you can do the following:</p>
+				  <p class="card-text">
+					<ul class="container-sm text-left">
+						<li>Learn how frequent the MWUs are.</li>
+						<li>See more examples of the MWUs on a large English corpus (COCA).
+							To do this, click the MWU in the table. This will take you to <a href="https://www.lextutor.ca/conc/eng/" target="_blank">Web Concordance Software</a> in <a href="https://www.lextutor.ca/" target="_blank">Compleat Lexical Tutor</a> by Prof. Tom Cobb.</li>
+					</ul>
+				  </p>
+				  <a class="btn btn-outline-secondary", href="#table_output">See Table output</a>
+				</div>
+			  </div>
+			</div>
+			
+		</div class="row">
+	</div class="container-sm text-center">
+</div>
+{% endif %}
+<br>
+{% if res %}
+<div class="col-sm-12">
+    <div class="container-sm text-center" style="font-size: 12pt; max-width: 1000px">
+    <br>
+    <h3 id="text_output" class = "section text-center" style='max-width: 800px;'>Annotated text</h3>
+	<div class="container-sm text-left" style="font-size: 12pt; max-width: 800px">
+	{{ res.output }}
+	</div>
+	</div>
+{% endif %}
+</div>
+
+{% if res %}
+
+<br>
+
+<div class="container-sm text-center" style="max-width: 1140px; font-size: 11pt">
+  <br>
+  <h3 id="table_output" class = "section text-center">List of Multi-Word Expressions</h2>
+  <p></p>
+  {% for lst in res.selected_list %}
+  <table id="" class="display table-striped table-responsive table-sm">
+  		<caption style="caption-side:top">Expressions in {{ res.resource[lst] }}</caption>
+    	<thead>
+      	<tr>
+      		<th>Expression</th>
+      		{% for col in res.table_headers[lst] %}
+        		<th>{{ col| safe }}</th>
+        	{% endfor %}
+      	</tr>
+    	</thead>
+    	<tbody>
+    		{% for key in res.example[lst] %}
+        	<tr>
+        		<td><a href={{ url_for('conc', search_str = key) }} target="_blank">{{ key }}</a></td>
+      			{% for col in res.table_headers[lst] %}
+      			<td>{{ res.example[lst][key][col] }}</td>
+      			{% endfor %}
+        	</tr>
+        	{% endfor %}
+    	</tbody>
+  	</table>
+  {% endfor %}
+</div>
+{% endif %}
+
+<br>
+<br>
+
+<!-- Footer background-color: #292c2f; color:  #8d9093;-->
+<footer class="footer container-sm" style ="font-size: 9pt;">
+
+  <!-- Copyright -->
+  <div class="footer-copyright text-right py-3">
+        <p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text"><a rel="cc:attributionURL" property="dct:title" href="https://multiwordunitsprofiler.pythonanywhere.com">Multi-Word Unit Profiler</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://masakieguchi.weebly.com">Masaki Eguchi</a> is licensed under <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a></p>
+        <p>© 2020 Masaki Eguchi </p>
+  </div>
+  <!-- Copyright -->
+
+
+</footer>
+<!-- Footer -->
+
+</body>
+
+</html>
