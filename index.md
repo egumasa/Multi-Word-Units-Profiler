@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Multi-Word Units Profiler
 
-You can use the [editor on GitHub](https://github.com/egumasa/Multi-Word-Units-Profiler/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a documentation for [Multi-Word Units Profiler](https://multiwordunitsprofiler.pythonanywhere.com).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is Multi-Word Units Profiler?
+[Multi-Word Units Profiler](https://multiwordunitsprofiler.pythonanywhere.com) is a free web application that allows users to identify, highlight, and learn about Multi-Word Units in their input text.
 
-### Markdown
+### What are Multi-Word Units?
+Multi-Word Units (MWUs), also known as Multi-Word Expressions, Formulaic Language, and many others, are chunks of expression that are highly frequent in a language. There are many benefits of knowing MWUs for a leanrer of the language. 
+For example:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Being able to use MWUs will help learners to buy times to process other part of a sentence (or utterance).
+- As a result, MWUs help a speaker to be more fluent. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### What exactly Multi-Word Units Profiler offer to do?
 
-- Bulleted
-- List
+#### 1) Highlights MWUs in user-input texts
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+#### 2) Summarizes MWUs in a table format and presents more information about the MWUs
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/egumasa/Multi-Word-Units-Profiler/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
