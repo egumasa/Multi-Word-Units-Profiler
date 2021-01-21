@@ -11,6 +11,7 @@ Currently, the MWU profiler is able to highlight MWUs in the following MWU lists
  
  
  Multi-Word Unit Profiler by Masaki Eguchi is licensed under CC BY-NC-SA 4.0
+ 
  © 2020 Masaki Eguchi | Eguchi, M. (2020). Multi-Word Units Profiler (Version 1.6.0) [Computer software]. https://multiwordunitsprofiler.pythonanywhere.com
  
  
