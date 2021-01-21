@@ -18,7 +18,7 @@ cffi==1.14.0
 chardet==3.0.4
 click==7.1.2
 cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1594141588948/work
-cryptography==2.9.2
+cryptography==3.2
 cymem==2.0.3
 decorator==4.4.2
 defusedxml==0.6.0
