@@ -112,7 +112,7 @@ tornado==6.0.4
 tqdm==4.47.0
 traitlets==4.3.3
 ujson==1.35
-urllib3==1.25.9
+urllib3==1.26.5
 wasabi==0.7.0
 watchdog @ file:///opt/concourse/worker/volumes/live/fe5d349c-1d61-4feb-6b8a-cbc5288b20a8/volume/watchdog_1593447347275/work
 wcwidth==0.2.5
