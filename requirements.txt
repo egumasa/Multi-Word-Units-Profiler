@@ -111,7 +111,7 @@ thinc==7.4.1
 tornado==6.0.4
 tqdm==4.47.0
 traitlets==4.3.3
-ujson==1.35
+ujson==5.2.0
 urllib3==1.25.9
 wasabi==0.7.0
 watchdog @ file:///opt/concourse/worker/volumes/live/fe5d349c-1d61-4feb-6b8a-cbc5288b20a8/volume/watchdog_1593447347275/work
